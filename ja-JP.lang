@@ -1,0 +1,1233 @@
+﻿About.Label.AirDroidForWin                                   =	AirDroid Win版
+About.Label.Context                                          =	エア・ドロイドであなたのモバイルデバイスを安全且つ完全にコンピューターからコントロールできるようにできます。USBケーブル不要です。
+About.Label.OfficialWebsite                                  =	公式サイト
+About.Label.PrivacyPolicy                                    =	プライバシーポリシー
+About.Label.Version                                          =	バージョン
+
+ad_verify_mail_resend                                        =	再送信
+
+AirCloud.Button.BackupNow                                    =	バックアップ
+AirCloud.Button.CancelBackup                                 =	停止
+AirCloud.Button.ContinueBackup                               =	再開
+AirCloud.Button.StartBackup                                  =	バックアップ
+AirCloud.Label.Backuping                                     =	バックアップ中: {0}%
+AirCloud.Label.CancelBackup                                  =	{0}個のファイルがバックアップされました。{1} 個のファイルはバックアップされませんでした。
+AirCloud.Label.ConnectFailed                                 =	スマホとコンピューターは同じネットワークに接続している必要があります。
+AirCloud.Label.EnableAutoBackup                              =	2. 自動的にバックアップを開始するには自動バックアップが作動していることを確認してください。
+AirCloud.Label.FirstBackup                                   =	まだバックアップされていません
+AirCloud.Label.GuideText                                     =	バックアップの写真と携帯電話から LAN ネットワーク経由でコンピューターへのビデオ。
+AirCloud.Label.GuideTitle                                    =	高速で安全なファイルバックアップ
+AirCloud.Label.IsPreparing                                   =	バックアップ用データを準備中
+AirCloud.Label.LastBackupTime                                =	前回のバックアップ時間: {0}
+AirCloud.Label.NeedPremium                                   =	ビデオをバックアップするために、<Premium>プレミアにアップグレードする</Premium>
+AirCloud.Label.NeedUpgrade                                   =	電話でビデオをバックアップするために、<Upgrade>最新バージョンにアップデートする</Upgrade>
+AirCloud.Label.NeedUpgradeAndPremium                         =	<Premium>プレミア機能: </Premium>電話でビデオをバックアップするために、<Upgrade>最新バージョンにアップデートする</Upgrade>
+AirCloud.Label.NotCurrentPC                                  =	このパソコンを携帯機器上のAirDroid のバックアップ先として設定してください。
+AirCloud.Label.OpenFolderGuide                               =	フォルダーを開く
+AirCloud.Label.PCNotSetted                                   =	パソコンを携帯機器上のAirDroid のバックアップ先として設定してください。
+AirCloud.Label.Progress                                      =	{1} ファイル中 {0} ファイルをバックアップしました
+AirCloud.Label.Result                                        =	{0}ファイル、バックアップ完了
+AirCloud.Label.SettingGuide                                  =	1. AirDroidを開いて、バックアップのアイコンをタップ
+AirCloud.Label.SettingOnPhone                                =	スマホ上の設定が必要です
+AirCloud.Label.UpToDate                                      =	全てのファイルがバックアップされました。
+AirCloud.Message.CanCancelBack                               =	バックアップを停止してよろしいですか？
+AirCloud.Message.DownloadFailed                              =	バックアップ用のファイル転送に失敗しました。
+AirCloud.Message.EmptyFiles                                  =	バックアップするものはありません
+AirCloud.Message.PermissionDenied                            =	<Link>権限がありません。設定 > アプリ> AirDroid > 許可、全てのストレージの承認を有効にしてください。 </Link>
+AirCloud.Message.SaveFailed                                  =	ディスクに十分な空き容量があることをご確認ください。
+
+AirCloud_Update_Premium2                                     =	<premium>プレミアムへのアップグレード</premium>により、動画をバックアップできます。 または、こちらで<exchange>無料でプレミアムを利用</exchange>できます
+
+AirIme,Label.ToSettingCheckedAirIme                          =	言語と入力で、AirDroidキーボードを有効にします
+
+AirIME.Button.Done                                           =	完了
+AirIME.Button.Skip                                           =	スキップ
+AirIME.Label.AutoSwitch                                      =	入力方法は、自動的に切り替わることがあります
+AirIme.Label.ClickInput                                      =	携帯電話上で入力フィールドをタップ
+AirIme.Label.CloseKeyboard                                   =	AirIMEはオフです
+AirIme.Label.ComputerInputPhone                              =	コンピューターのキーボードを使用して携帯電話に入力
+AirIme.Label.ConnectingAirIme                                =	AirDroidキーボードを有効にしています...
+AirIME.Label.EnableUSBDebug                                  =	USB デバッグを有効にする (<Link>ヘルプ</Link>)
+AirIME.Label.LinkUSB                                         =	携帯電話とコンピューターを接続
+AirIme.Label.NoConnected                                     =	AirIME接続が切れる
+AirIme.Label.NoFind                                          =	(ヘルプ)
+AirIme.Label.OpenIme                                         =	今すぐ有効にする
+AirIme.Label.OpenKeyboard                                    =	AirIMEの準備が完了した
+AirIme.Label.ReplyConnecting                                 =	再接続しています...
+AirIme.Label.SendToPhone                                     =	テキストは携帯電話に送信されました\r\n(一般的なショートカットはサポートされています)
+AirIME.Label.USBConnectFailed                                =	非ルート失敗しました、再試行してください。
+AirIME.Label.USBSubTitle                                     =	「非ルート権限でスタートする」ボタンをクリックして許可をリクエストしたあと、このページに戻ると、デバイスがAirDroid Keyboard上で自動で切り替わります。(リブートしたあとにもう一度この操作をおこなってください。)
+AirIME.Label.USBTitle                                        =	入力方式を自動的に切り替える
+
+AirIME_Guid_Button_Skip                                      =	AirIMEを手動でオンにする
+
+AirMirror.Button.Back                                        =	戻る
+AirMirror.Button.Down                                        =	下にスワイプ
+AirMirror.Button.FlashOff                                    =	ライトOFF
+AirMirror.Button.FlashOn                                     =	ライトON
+AirMirror.Button.FullScreen                                  =	フルスクリーンモード
+AirMirror.Button.Home                                        =	ホームスクリーン
+AirMirror.Button.Keyboard                                    =	キーボード切り替え
+AirMirror.Button.LockScreen                                  =	ロック画面
+AirMirror.Button.Menu                                        =	メニュー
+AirMirror.Button.NormalScreen                                =	全画面モード終了
+AirMirror.Button.Recrod                                      =	スクリーン記録
+AirMirror.Button.RotateScreen                                =	スクリーン回転
+AirMirror.Button.ScreenShot                                  =	スクリーンショット取得
+AirMirror.Button.StartRecording                              =	記録開始
+AirMirror.Button.StopRecording                               =	記録停止
+AirMirror.Button.SwitchCamera                                =	スイッチ
+AirMirror.Button.SwitchResolution                            =	解像度変更
+AirMirror.Button.Tasks                                       =	タスク切り替え
+AirMirror.Button.Up                                          =	上にスワイプ
+AirMirror.Button.UseAirDroidIME                              =	エア・ドロイドキーボードに切り替え
+AirMirror.Button.UseDefaultIME                               =	システムキーボードに切り替え
+AirMirror.Button.UseHighResolution                           =	高画質に切り替え
+AirMirror.Button.UseStandarResolution                        =	通常画質に切り替え
+AirMirror.Button.Volumn                                      =	音量コントロール
+
+AirMirror_NotAccessibility_Text1                             =	ユーザー補助へのアクセス許可が与えられていないか、アクセス許可が取り消されているため、リモートコントロールを続行できませんでした。 [私]-[セキュリティ＆リモート機能]-[リモート操作] からデバイスへのアクセス許可を与えてください。デバイスをRoot化するか、Non-Root方式を使用することもできます。
+
+AirMirror_NotAccessibility_Text2                             =	アドオンがインストールされていないため、リモートコントロールを続行できませんでした。[私]-[セキュリティ＆リモート機能]-[リモート操作] からアドオンをデバイスにインストールしてください。デバイスをRoot化するか、Non-Root方式を使用することもできます。
+
+AirMirror_NotRoot_NewText2                                   =	デバイスはRoot化されていません。セットアップを実行するには「Non-Root」に移動してください。 デバイスのAirDroidを最新のバージョンにアップグレードして、制御アドオンを介してデバイスを制御することもできます。
+
+AirSOS.Label.EnterShareCode                                  =	9桁のセッションコードを入力してください
+AirSOS.Label.ShareCodeGuide                                  =	How to use:\r\n1. Invite the other one to install and open AirDroid on their Android device.\r\n2. Ask them to go to "Tools" > "AirSOS" > "Generate Connection Code", and tell you the 9-digit Connection Code generated.\r\n3. Enter the Connection Code in the box above to connect to their device.
+AirSOS.Label.StartGuide                                      =	AirSOSを使えば、別の人のAndroidデバイスのスクリーンを見ながら、問題解決を手伝うことができます。
+
+am_setting_screen_qa_airmirror345_high                       =	高
+
+am_setting_screen_qa_airmirror345_low                        =	低
+
+am_setting_screen_qa_airmirror345_standard                   =	中
+
+am_setting_screen_qa_selection                               =	画質
+
+am_setting_screen_qa_stream_auto_select_hint                 =	ネットワークの状態に基づき、画質と接続速度のバランスをとります。
+
+am_setting_screen_qa_stream_auto_select_mode                 =	バランスモード
+
+am_setting_screen_qa_stream_quality_mode                     =	高解像度モード
+
+am_setting_screen_qa_stream_speed_mode                       =	スピードモード
+
+am_setting_screen_qa_switched_to                             =	{0}に切り替え
+
+Avatar.Form.Title                                            =	写真を変更
+
+Business_RemoteControl_Lock_nosupport                        =	制御対象デバイスがAndroid 9.0システムの下で実行されています。この機能は使用できません
+
+Call.Label.CallLog                                           =	通話履歴
+Call.Label.LoadFailed                                        =	読み込みに失敗しました
+Call.Label.NoDeviceHintCall                                  =	不在着信と通話履歴を確認します。
+Call.Label.SelectCall                                        =	通話履歴をクリックして詳細情報を見る
+Call.Label.TemporarilyNoCallLog                              =	通話履歴なし
+Call.Message.DeleteLog                                       =	通話履歴{0}を削除しますか？
+
+commom_get_free_premium                                      =	無料プレミアムを利用
+
+Common.About                                                 =	説明:
+Common.Accept                                                =	承認
+Common.AddToDictionary                                       =	辞書に追加
+Common.AirDroid                                              =	AirDroid
+Common.All                                                   =	一覧
+Common.Button.AutoClose                                      =	自動クローズ
+Common.Button.Close                                          =	閉じる
+Common.Button.Delete                                         =	ログ消去
+Common.Button.Maximize                                       =	最大化
+Common.Button.Refresh                                        =	更新
+Common.Button.Restore                                        =	復元
+Common.Button.Save                                           =	保存
+Common.Cancel                                                =	キャンセル
+Common.Click                                                 =	ヘルプ
+Common.Columns.Size                                          =	サイズ
+Common.CommingSoon                                           =	未リリース機能
+Common.Connect                                               =	接続
+Common.ConnectFailed                                         =	接続に失敗しました
+Common.Copy                                                  =	コピー
+Common.CopyRight                                             =	©
+Common.Cut                                                   =	切り取り
+Common.Dailog                                                =	デバイス
+Common.DataConnectFailed                                     =	AirDroidのサーバーへの接続に失敗しました。ネットワーク接続を確認して、再度お試しください。
+Common.Day                                                   =	日
+Common.Delete                                                =	削除
+Common.DeleteAll                                             =	すべてを削除
+Common.Deny                                                  =	拒否
+Common.DiscardSave                                           =	保存しない
+Common.EnterToSend                                           =	[Enter]を押して送信します。
+Common.Error                                                 =	エラー
+Common.File                                                  =	ファイル
+Common.Folder                                                =	フォルダ
+Common.Help                                                  =	サポートセンター:
+Common.Hour                                                  =	時間
+Common.HowBindingDevice                                      =	モバイル端末を追加する方法は?
+Common.Ignore                                                =	更新しない
+Common.Info                                                  =	通知
+Common.JustNow                                               =	今すぐ
+Common.Label.ColumnType                                      =	カテゴリ
+Common.Label.HowToAuth                                       =	AirDroidにroot権限取得を許可する方法は？
+Common.Label.HowToTrustMe                                    =	権限管理アプリを起動し、リストにある「AirDroid」をタップし、全ての権限を許可してください。\r\n手順は機種によって異なっています。
+Common.Label.ModifyDate                                      =	日付の修正
+Common.Label.MyPhone                                         =	AirDroid
+Common.Label.Name                                            =	名前
+Common.Label.NoCallHistoryDataPermission                     =	通話履歴の読み取り権限ありません。\r\nAirDroidに権限取得を許可して\r\n再試行してください。
+Common.Label.NoCallHistoryPermission                         =	着信履歴を読むことに関して承認が有効\r\nになっていません。AirDroidに「電話」\r\nを許可し、もう一度試してください。
+Common.Label.NoContactDataPermission                         =	連絡先を読み取りません。\r\nAirDroidに権限取得を許可して\r\n再試行してください。
+Common.Label.NoContactPermission                             =	連絡先を見ることは承認はされていません。\r\nAirDroidに「連絡先」を許可し、もう\r\n一度試してください。
+Common.Label.NoFilePermission                                =	ファイルシステムへのアクセス権限がありません。 \r\nAirDroidストレージを許可し、再試行してください。
+Common.Label.NoSMSDataPermission                             =	テキストメッセージの読み取り権限\r\nありません。AirDroidに権限取得\r\nを許可して再試行してください。
+Common.Label.NoSMSPermission                                 =	メールのメッセージを読むことは\r\n承認はされていません。\r\nAirDroidに「SMS」を許可\r\nし、もう一度試してください。
+Common.Label.PermissionDenied                                =	「設定 > アプリ> AirDroid > 許可」へ行き、すべてのアクセス許可を有効にしてください。\r\n<Link>詳細</Link>
+Common.Label.PermissionDeniedWithLink                        =	許可が不十分です。(<Link>設定ガイドを確認してください）</Link>)
+Common.Label.PushDisconnectAndRetry                          =	接続に失敗しました。<Retry>再試行</Retry>
+Common.Label.ReconnectingPush                                =	再接続しています...
+Common.Label.ReconnectingPushDetail                          =	デバイスからの通知を受信できません。再接続しています...
+Common.Label.ReconnectingPushTitle                           =	サーバーへの接続が切断されました
+Common.Label.RemoteCameraPermissionDenied                    =	スマホのAirDroidの「私-セキュリティ＆リモート機能」から「カメラ」に関する承認を有効にしてください。
+Common.Label.RemoteContactPermissionDenied                   =	スマホのAirDroidの「私-セキュリティ＆リモート機能」から「連絡先」に関する承認を有効にしてください。
+Common.Label.RemoteControlPermissionDenied                   =	スマホのAirDroidの「私-セキュリティ＆リモート機能」から「リモート操作」に関する承認を有効にしてください。
+Common.Label.RemoteFilePermissionDenied                      =	スマホのAirDroidの「私-セキュリティ＆リモート機能」から「ファイル」に関する承認を有効にしてください。
+Common.Label.RemotePermissionDenied                          =	遠隔承認は無効化されています。
+Common.Label.RemoteSMSPermissionDenied                       =	スマホのAirDroidの「私-セキュリティ＆リモート機能」から「メッセージ」に関する承認を有効にしてください。
+Common.Label.RemoteVirtualDisplayPermissionDenied            =	スマホのAirDroidの「私-セキュリティ＆リモート機能」から「スクリーンミラーリング」に関する承認を有効にしてください。
+Common.Label.SendFileFromPhone                               =	新しいファイル: {0}
+Common.Lable.Size                                            =	サイズ：
+Common.Loading                                               =	読み込み中...
+Common.LoadingFailure                                        =	デバイスへの接続に失敗しました。\r\nネットワーク接続状況を確認して下さい。
+Common.LoadingFailureGuide                                   =	接続に失敗しました:\r\n1. ネットワークが正常に作動しているか確認してく\r\nださい。\r\n2. AirDroidをフォアグラウンドで動作させてくださ\r\nい。
+Common.LoadingFailureMin                                     =	読み込みに失敗しました
+Common.LoadingFailureOneLine                                 =	デバイスへの接続に失敗しました。ネットワーク接続状況を確認して下さい。
+Common.Login                                                 =	サインイン
+Common.Message.DataFlowInsufficient                          =	あなたの遠隔データの割当量を間もなく使い切ることになります。無制限のデータを取得するには、プレミアム版にアップグレードしてください。
+Common.Message.ExitNoAccount                                 =	本当にやめる気？
+Common.Message.FailToLoadFile                                =	ファイル読み込み失敗
+Common.Message.OperationFailed                               =	操作に失敗しました
+Common.Message.PermissionDenied                              =	アクセス拒否されました。「設定 > アプリ> AirDroid > 許可」へ行き、すべてのアクセス許可を有効にしてください。<Link>詳細</Link>
+Common.Message.ReconnectPhoneFailed                          =	接続に失敗しました。ネットワークを確認して後ほどもう一度試してください。
+Common.Message.RestartPhone                                  =	デバイスを再起動し、ルート パーミッションを取得して、Non-Rootの権限をリクエストします
+Common.Minute                                                =	分
+Common.MinutesAgo                                            =	{0} 分前
+Common.Missed                                                =	不在着信
+Common.NeedLogin                                             =	サインインして続行してください
+Common.NewFolder                                             =	新しいフォルダ
+Common.No                                                    =	いいえ
+Common.NoBindingDeviceContent                                =	続行するにはアンドロイドデバイスを足して下さい。
+Common.NoBindingDeviceContentInFloating                      =	接続されたデバイスがありません\r\n<Link>デバイスを追加</Link>
+Common.NoBindingDeviceTitle                                  =	この機能はAndroid機器でのみサポートされています
+Common.NoHint                                                =	次回から表示しない
+Common.NoSupportDeviceTitle                                  =	この機能はiOSには対応していません。
+Common.OK                                                    =	OK
+Common.OpenFileDialog.PicFile                                =	写真ファイル
+Common.Paste                                                 =	貼り付け
+Common.PhoneOfflineGuide                                     =	サーバーへの接続が失敗したリモート デバイス: \r\n1。 ネットワーク接続を確認して、もう一度やり直してください。 \r\n2。お使いのデバイスに AirDroid を開き、フォア グラウンドで実行し続けることをお勧めします。
+Common.PhotoAndVideo                                         =	写真 & 動画
+Common.Privilege                                             =	ギフト
+Common.Processing                                            =	加工中
+Common.Redo                                                  =	やり直し
+common.resend_email                                          =	認証コードを再送信
+Common.Resume                                                =	再開
+Common.Retry                                                 =	再試行
+Common.RotateFailure                                         =	回転に失敗しました
+Common.Search                                                =	検索
+Common.Searching                                             =	検索中
+Common.Second                                                =	秒
+Common.SelectOneDevice                                       =	デバイスを選択
+common.send_email                                            =	次のアドレスに認証コードが記載されたメールが送信されました:
+Common.SendViaAirDroid                                       =	AirDroidから送信
+Common.StartUse                                              =	始めましょう
+Common.Stop                                                  =	停止
+Common.TheDayBeforeYesterday                                 =	2日前
+Common.Today                                                 =	今日
+Common.Undo                                                  =	取り消し
+Common.Update                                                =	アップデート:
+Common.Warning                                               =	警告
+Common.WelcomeUpgrade                                        =	{0}へようこそ
+Common.Yes                                                   =	はい
+Common.Yesterday                                             =	昨日
+
+Common_Accessibility_invalid_input                           =	画面の外をタップしています。
+
+Common_Accessibility_permission_denied                       =	ユーザー補助の権限が無効になっています。有効にしてください
+
+Common_Accessibility_service_not_started                     =	リモートデバイスでアクセシビリティ許可が有効でなくなりました。再度有効にしてください。
+
+Common_account_Email_Need_Verify                             =	*メールアドレスの認証が必要です。有効なアドレスを入力してください
+
+Common_account_verification_code_input                       =	コードを入力します
+
+Common_account_verification_error_invalid                    =	認証コードが間違っています
+
+Common_account_verification_modify                           =	確認用Eメールを変更
+
+Common_account_verification_next                             =	次
+
+Common_account_verification_title                            =	メールを確認してください
+
+Common_ad_pc_quick_nonroot_exit                              =	本当にNon-Root設定をやめますか？
+
+Common_ad_permission_voice_title                             =	一方向音声
+
+Common_airmirror_openvoice_fail                              =	アクティベートに失敗しました。
+
+Common_Airmirror_voice_error_tip_1                           =	デバイス画面のミラーリングに失敗しました
+
+Common_Airmirror_voice_error_tip_2                           =	. 可能なこと。
+
+Common_Airmirror_voice_error_tip_3                           =	\r\n1. 再試行をクリックして再度試してください。 \r\n2. 基本モードに切り替えてください。\r\n（「一方向音声」基本モードではサポートしていません。）
+
+Common_Airmirror_voice_error_tip2                            =	デバイス画面のミラーリングに失敗しました。次のことが可能です。 \r\n1. をクリックして再度試してください。 \r\n2. 基本モードに切り替えてください。
+
+Common_Airmirror_voice_notsupt_feedback                      =	お使いのデバイス（このコンピューター）は、一方向音声をサポートしていません。 フィードバックをお送りください、すぐに問題解決をお手伝いいたします。
+
+Common_Airmirror_voice_notsupt_toast                         =	「一方向音声」は基本モードではサポートしていません。
+
+Common_AndroidQDontSupportToutch_Tip                         =	上位のAndroidバージョンを利用しようとしています。遠隔制御が利用できないときはデバイス画面による閲覧となります。
+
+Common_back                                                  =	戻る
+
+Common_biz_access_limit_dev_connect                          =	コントロールするデバイスで制限付きアクセスがオンになっています。リモートアクセスするには、デバイスで「許可」をタップするか、制限付きアクセスをオフにしてください
+
+Common_biz_access_limit_dev_reject                           =	コントロールするデバイスとの接続に失敗しました。コントロールするデバイスデバイスで制限付きアクセスがオンになっており、リクエストが拒否されました
+
+Common_biz_access_limit_dev_timeout                          =	コントロールするデバイスとの接続に失敗しました。デバイスで制限付きアクセスがオンになっており、リクエストへの応答がありませんでした
+
+common_biz_setting_airmirror345_hint                         =	接続速度が向上し、フレームレートとデータ消費量が低下します。
+
+common_biz_setting_stream_hint                               =	リモートサウンドの取得に対応。遅延を軽減するため、システムがネットワークの状態に基づき画質を自動調整します。
+
+Common_camera_start_failed_title                             =	デバイスのカメラにアクセスできませんでした
+
+Common_clear_all                                             =	すべてを削除
+
+Common_colon                                                 =	:
+
+Common_copyright_info                                        =	© 2022 Sand Studio
+
+Common_dialpad_bulk                                          =	キュードダイヤル
+
+Common_dialpad_bulk_bubble_tips                              =	クリックしてスタート
+
+Common_dialpad_bulk_content1                                 =	キューダイヤルを使用すると、一度に数十の電話番号をインポートすることができます。システムはそれらを順番に自動でダイヤルします。
+
+Common_dialpad_bulk_content2                                 =	##連絡先の情報は以下の形式で入力してください。リストは自動的に生成されます。\r\n##形式：電話番号（前に「##」を入力する必要はありません）\r\n##\r\n##例：\r\n##2703424444\r\n##270-234-3333\r\n##\r\n##注：\r\n##それぞれの回線に1つの電話番号のみを入力してください。次の回線に次の電話番号を入力してください。\r\n##電話番号で利用できる文字は、数字、＃、*、-、+、（）になります。他の文字を使用するとその回線が無効になります。\r\n##ここから入力を開始できます：
+
+Common_dialpad_call                                          =	通話をする
+
+Common_dialpad_call_cancel                                   =	キャンセル
+
+Common_dialpad_call_end                                      =	通話を終了しました
+
+Common_dialpad_call_fail                                     =	通話に失敗しました
+
+Common_dialpad_calling                                       =	呼出中
+
+Common_dialpad_content                                       =	電話番号を入力
+
+Common_dialpad_dialing                                       =	現在通話中です、別の通話に失敗しました
+
+Common_dialpad_duration                                      =	長さ {0}
+
+Common_dialpad_empty_content                                 =	インポートされたすべての電話番号を削除しますか？
+
+Common_dialpad_feedback_content1                             =	こんにちは、ダイヤルパッドに関するフィードバックはありますか？ぜひ皆さんからのご意見をお聞かせください。皆さんのご意見は大変貴重です。
+
+Common_dialpad_feedback_content2                             =	この機能についてのご意見やアドバイスなどをお聞かせください
+
+Common_dialpad_feedback_error1                               =	あなたの意見をもっとお聞かせください
+
+Common_dialpad_feedback_error2                               =	送信に失敗しました。再試行してください
+
+Common_dialpad_feedback_success                              =	送信されました！すぐに評価と調査を行います。
+
+Common_dialpad_hangup_fail                                   =	現在のデバイスのタイプは、リモートでの通話の終了をサポートしていません。デバイスで手動で通話を終了してください。
+
+Common_dialpad_noconnect                                     =	返事がありません
+
+Common_dialpad_nonephone                                     =	電話番号が空欄または無効です
+
+Common_dialpad_nonetwork                                     =	接続に失敗しました。リモートデバイスのネットワークの状態を確認してください
+
+Common_dialpad_nosupport                                     =	現在のデバイスは電話をかけることができません
+
+Common_dialpad_permission_title                              =	「電話」または「他のアプリの上に表示」の権限を付与していません
+
+Common_dialpad_Redial                                        =	キュードダイヤルを再開しますか？以前の通話ログは削除されます。
+
+Common_dialpad_setting                                       =	通話のインターバル
+
+Common_dialpad_status                                        =	次のキュー
+
+Common_dialpad_title                                         =	ダイヤルパッド
+
+Common_dialpad_update_content                                =	リモートデバイスのAirDroidバージョンは低すぎて、ダイヤルパッドを使用できません。最新のバージョンに更新してください。
+
+Common_dialpad_update_title                                  =	AirDroidを最新バージョンに更新
+
+Common_dialpad_vip1                                          =	ダイヤルパッドは、無料ユーザーのローカルネットワークでのみ利用することができます。異なるネットワークを使用してPCとデバイスを接続する場合は、プレミアムにアップグレードしてください。
+
+Common_dialpad_vip2                                          =	キュードダイヤルはプレミアムユーザー専用の機能です。キューダイヤルを使用すると、一度に数十の電話番号をインポートすることができます。システムはそれらを順番に自動でダイヤルします。
+
+Common_disconnect_tip                                        =	他のユーザーのネットワークの問題により切断されました。
+
+Common_disconnect_title                                      =	他のユーザーネットワークの問題により接続が切断されました。接続するには「再試行」をクリックしてください。
+
+Common_externalSD_Android10_tip                              =	SDカードに保存されているファイルを変更（アップロード、または編集）したい場合は、SDカードにAirDroidのフルアクセスの許可を与えてください。（Android 端末上の AirDroid を立ち上げ、ツール -> ファイル -> SDカード。）
+
+Common_externalSD_new_allow_button                           =	「許可」をタップしてください
+
+Common_externalSD_new_new_title                              =	SDカードに保存されているファイルを変更（アップロード、または編集）したい場合は、SDカードにAirDroidのフルアクセスの許可を与えてください。
+
+Common_externalSD_new_tip                                    =	*「拒否」をタップし、「今後表示しない」にチェックマークを付けた場合は、デバイスのガイド表示に従って [「SDカード」を選択] をタップしてください。
+
+Common_feedback                                              =	お問い合わせ
+
+Common_gotit_tip                                             =	了解
+
+Common_login_DeviceVerify_Text                               =	新しいデバイスにログインしようとしており、デバイスの認証が必要です。確認のために{0}にメッセージが送信されました。
+
+Common_login_DeviceVerify_Title                              =	認証が必要です
+
+Common_no_empty_tips                                         =	内容を入力してください！
+
+Common_nonroot_setup_again                                   =	権限が取り消された場合、再度Non-Root権限を与えるにはどうしたらよいですか？
+
+Common_NoSupportAndroidQ_Tip                                 =	上位のAndroidバージョンを利用しようとしています。現在のデバイスではこの機能は利用できません。
+
+Common_OpenAudioPlay_PermissionDenied                        =	お客様のデバイス「マイク」許可は利用できない状態なので、「AirDroidの私-セキュリティ＆リモート機能」の設定へいき、対応する機能をタップして有効にします。
+
+Common_OpenAudioPlay_RemoteAccessDenied                      =	お客様の「一方向音声」機能はオフの状態なので、「AirDroidの私-セキュリティ＆リモート機能」の設定へいき、対応する機能をタップして有効にします。
+
+Common_RemoteControl_nonroot_login                           =	Non-Root設定
+
+Common_RemoteMode_Option                                     =	ダイナミックモード|基本モード
+
+Common_rename_empty                                          =	デバイス名が空ではいけません！
+
+Common_rename_fail                                           =	変更に失敗しました
+
+Common_rename_formatfailed                                   =	名前には次の文字を使用することはできません：\ / : * “<> | ‘ & ?
+
+Common_rename_ios                                            =	Device rename is not support for iOS devices ()
+
+Common_rename_success                                        =	変更しました
+
+Common_rename_toolong                                        =	モーターの名称は{0}文字を超える不可。
+
+Common_send_shortcut_enter                                   =	[Enter] を押して送信する
+
+Common_send_shortcut_enter_ctrl                              =	[Ctrl + Enter] を押して送信する
+
+Common_Setting_UseStream_Button                              =	コネクションモード：
+
+Common_submit                                                =	提出する
+
+Common_SwitchToSimple_Button                                 =	基本モードに切り替える
+
+Common_system_permission_disabled                            =	権限が与えられていません
+
+Common_unknow                                                =	不明
+
+common_UpdateToAdvanced_title                                =	AirDroidプレミアムメンバーシップの機能
+
+common_UpdateToAdvanced_voice                                =	一方向音声により、デバイスマイクによりデバイスサラウンディングを視聴できます。
+
+Common_WaitMicrophoneAuthorize_Tip                           =	マイクアクセス許可を待機中…
+
+Components.ImageView.Label.Current                           =	写真：
+Components.ImageView.Label.Location                          =	パス：{0}
+
+Connect.Status.Data                                          =	(セルラー)
+Connect.Status.LAN                                           =	ローカル接続
+Connect.Status.OffLine                                       =	オフライン
+Connect.Status.WAN                                           =	リモート接続
+Connect.Status.Wifi                                          =	(Wi-Fi)
+
+Contact.Button.ShowAll                                       =	連絡先一覧
+Contact.Button.ShowWithNumber                                =	番号付き連絡先一覧
+Contact.Label.Contact                                        =	連絡先
+Contact.Label.LoadFailure                                    =	読み込みに失敗しました。
+Contact.Label.NoContact                                      =	連絡先なし
+Contact.Label.NoDeviceHintContact                            =	パソコンでスマホの連絡先を管理します。
+Contact.Label.NoSearchContact                                =	該当する連絡先がありません
+Contact.Label.SelectContact                                  =	連絡先を選択
+
+Dial_AddToList_Tip                                           =	電話番号が、キューに入れられたダイヤルリストに追加されました
+
+Dialpad_vip3                                                 =	現在のデバイスで呼び出しが行われています。キューダイヤル機能を使用するには、AirDroid プレミアムにアップグレードしてください。
+
+Download.Button.Pause                                        =	一時停止
+Download.Button.Start                                        =	起動する
+Download.Label.Failed                                        =	失敗
+Download.Label.Operate                                       =	アクション
+Download.Label.Progress                                      =	進行状況
+Download.Message.AreYouSureDeleteTask                        =	タスクを削除してもいいですか？
+Download.Message.DownloadFailed                              =	エクスポートできませんでした。
+Download.Message.InOperation                                 =	処理中…
+Download.Message.UploadFailed                                =	インポートできませんでした。
+
+Email.Button.DontRemindMe                                    =	次回から表示しない
+Email.Button.New                                             =	別の人に送信します
+Email.Button.Send                                            =	送信
+Email.Button.UseNow                                          =	すぐ使用
+Email.Label.AddAttachment                                    =	<Link>添付ファイル</Link> (ファイル制限: {0})
+Email.Label.Content                                          =	内容：
+Email.Label.EmptyEmail                                       =	受信先を入力してください
+Email.Label.FailedToSend                                     =	送信に失敗しました。再送してください。
+Email.Label.FailedToUpload                                   =	アップロード失敗。<Retry>再試行</Retry>
+Email.Label.NoAttachment                                     =	ファイルを添付してください。
+Email.Label.SendLargeFileDetail                              =	友達に写真やビデオを共有したい時、メール容量に制限されて送信できない時もあります。AirDroidでは全メールサービスに対応し、大容量添付ファイルを送信することができます！メッセージの受信の7日以内、ダウンロードリンクをクリックして、ファイルをダウンロードできます。
+Email.Label.SendLargeFileTitle                               =	大容量ファイルをAirDroidメールで転送する
+Email.Label.SendSuccessfully                                 =	メールが送信されました。
+Email.Label.Subject                                          =	主題：
+Email.Label.To                                               =	送信先：
+Email.Label.UploadSuccessfully                               =	アップロード完了
+Email.Message.ConfirmCancel                                  =	確かに入力内容と添付ファイルを空にしたいですか？
+
+Feedback.Form.Title                                          =	ご意見
+Feedback.Label.FailAndRetry                                  =	読み込みに失敗しました。<Link>再試行</Link>
+
+File.Button.AddFriend                                        =	友達リクエスト
+File.Button.AddToFavorite                                    =	お気に入りに追加
+File.Button.AirMirror                                        =	リモート操作
+File.Button.Auth                                             =	スキップ
+File.Button.BuyMoreDevice                                    =	アップグレードしてデバイスを追加
+File.Button.DownloadToPC                                     =	エクスポート
+File.Button.Friends                                          =	私の友達
+File.Button.GetClipBoard                                     =	スマホのクリップボードからコンピューターにテキストをコピー
+File.Button.GoPremium                                        =	アップグレード
+File.Button.GoUp                                             =	上に行く
+File.Button.HowToStartBonjour                                =	利用案内
+File.Button.InstallBonjour                                   =	インストール
+File.Button.My                                               =	自分のデバイス
+File.Button.MyDevice                                         =	私のデバイス
+File.Button.Neibour                                          =	付近
+File.Button.Next                                             =	次
+File.Button.OpenInFolder                                     =	フォルダの中で開く
+File.Button.Previous                                         =	戻る
+File.Button.RealSize                                         =	オリジナルのサイズ
+File.Button.RemoveFromFavorite                               =	お気に入りから削除
+File.Button.RotageLeft                                       =	反時計回り
+File.Button.RotageRight                                      =	時計回り
+File.Button.SaveAndClose                                     =	保存して閉じる
+File.Button.SaveAndContinue                                  =	保存
+File.Button.ScaleSize                                        =	実際のサイズ
+File.Button.ScreenShot                                       =	スクリーンショット
+File.Button.SendByEmail                                      =	メールで送信
+File.Button.SendFile                                         =	ファイル送信
+File.Button.SendFolder                                       =	フォルダー送信
+File.Button.SendLog                                          =	ログ送信
+File.Button.SendMailAddFriend                                =	友達を追加
+File.Button.SendMessage                                      =	メッセージ
+File.Button.SetClipBoard                                     =	コンピューターのクリップボードからスマホにテキストをコピー
+File.Button.Skip                                             =	スキップ
+File.Button.SkipAuth                                         =	後でする
+File.Button.StartSearch                                      =	検索
+File.Button.StopAll                                          =	全部止める
+File.Button.StopSearching                                    =	クリックして検索を閉じる
+File.Button.TogetherAirDroidHint                             =	AirDroidを楽しめよう
+File.Button.UploadFiles                                      =	ファイルをインポート
+File.Button.UploadToDevice                                   =	インポート
+File.Button.ZoomIn                                           =	ズームイン
+File.Button.ZoomOut                                          =	ズームアウト
+File.CheckBox.MatchCase                                      =	大文字と小文字を区別
+File.Label.AddFriendFailed                                   =	友達追加に失敗しました。再試行してください。
+File.Label.AirCloud                                          =	バックアップ
+File.Label.AlreadyFriend                                     =	既に追加されました。
+File.Label.AlterNicknameFailure                              =	ニックネームを変更できませんでした
+File.Label.AlterNicknameHint                                 =	ニックネームを更新しましょう。
+File.Label.BonjourNotInstalled                               =	Bonjourサービスが無効になっています
+File.Label.CantFindNearbyDevice                              =	他のデバイスを見つけられませんか？
+File.Label.CantFindNearbyDeviceDetailGuide                   =	他の人を招待して、端末にエアードロイドのアプリを開いてもらいましょう。「Nearby」を選択し、タップして仲間を探し出します。この時、相手側の端末は、LAN networkに接続している必要があります。<detail>詳細をご覧ください</detail>
+File.Label.CheckingDevicesInLAN                              =	デバイスとパソコンが同一ネットワークにあるかどうかご確認ください。
+File.Label.ChooseAFriend                                     =	友達を選択
+File.Label.CurrnetLocation                                   =	現在の場所：{0}、カラム({1}/{2})
+File.Label.DateNotExist                                      =	パスが存在しません
+File.Label.DeleteMessages                                    =	削除する項目を選択
+File.Label.DeletingFiles                                     =	ファイルを削除しています...
+File.Label.Downloading                                       =	ダウンロード中 : {0}
+File.Label.DownLoadPrepare                                   =	エクスポートの準備をしています...
+File.Label.DropFile                                          =	ファイルをドロップまたはクリックで転送します
+File.Label.EmptyRecvFile                                     =	まだ転送ログがありません
+File.Label.ExtSDAuthFail                                     =	認証に失敗しました
+File.Label.ExtSDAuthStep1                                    =	Android 端末上の AirDroid を立ち上げ、ツール -> ファイル -> SDカード
+File.Label.ExtSDAuthStep2                                    =	下のSDカード選択をタップします。
+File.Label.FileManagement                                    =	ファイル
+File.Label.FileTransfer                                      =	ファイル転送
+File.Label.HomePage                                          =	ホーム
+File.Label.InputFriendEmail                                  =	メールで友達探す：
+File.Label.InstallBonjourGuide                               =	同じネットワークにあるデバイスを検索するには、\r\nBonjourサービスをインストールし更新してください。
+File.Label.LollipopExtSDAuthGuide                            =	お使いのデバイスはAndroid Ver. 5.0以降で動作しています。外部SDカード上のファイルを編集するには以下の方法で外部SDカードのパスを設定して下さい。
+File.Label.LollipopExtSDAuthTitle                            =	SDカードのアクセスを承認
+File.Label.NoDeviceRow                                       =	連携されたデバイスがありません
+File.Label.NoFriend                                          =	友達を追加してスタート
+File.Label.NoFriendHint                                      =	友達がありません。
+File.Label.NoFriendInfo                                      =	友達の場合ファイル転送はもっと簡単！\r\n友達を増やしましょう。
+File.Label.NoFriendInfoInFloating                            =	気楽に友達にファイルを共有しましょう！友達を追加します。
+File.Label.NoNearbyHint                                      =	今のネットワークにAirDroidを利用している人がいません。友達を追加して気軽くファイルを転送しましょう。
+File.Label.NoSearchItem                                      =	検索にマッチする結果がありません
+File.Label.PhotoManagement                                   =	写真
+File.Label.RecvFile                                          =	転送ログ
+File.Label.RemoveFriendFailed                                =	{0}の削除に失敗しました。
+File.Label.RetryLoadImage                                    =	写真の読み込みに失敗しました <Link>もう一度試してください</Link>
+File.Label.Search                                            =	検索:
+File.Label.Searching                                         =	周辺デバイスを検索しています...
+File.Label.SearchingInNetwork                                =	LANモードで接続されているデバイスを検索中
+File.Label.SearchingTip                                      =	同じネットワーク上の他の AirDroid ユーザに安全かつ高速にファイルを送信可能です。
+File.Label.SearchNearbyDeviceInFloating                      =	検索中...同一ネットワークにあるデバイスにファイル転送可能。
+File.Label.SendAddFriendRequest                              =	友達リクエストを送りました。承認をお待ちください。
+File.Label.SendByEmailDetail                                 =	メールでお友達にダウンロードリンクを送りましょう。添付ファイルの有効期限は7日間です。
+File.Label.StartBonjourFailed                                =	Bonjour サービスを開始できませんでした。
+File.Label.TransferList                                      =	転送リストをファイルする
+File.Label.Uploading                                         =	インポート中: {0}
+File.Label.UploadPrepare                                     =	インポートの準備をしています...
+File.Label.UseScreenShot                                     =	(スクリーンミラーリング)
+File.Label.Waiting                                           =	アップロードを待っています...
+File.Label.WaitingForVerify                                  =	承認待ち
+File.Lable.AddAccountToFriend                                =	{0}に友達リクエストを送りますか？
+File.Lable.AddFriendInfo                                     =	お友達の場合、いつでも異なるネットワークでもファイル共有できます。
+File.Lable.AlreadyFriend                                     =	既に追加されました。
+File.Lable.FriendNotVerified                                 =	友達リクエストはまだ承認されていません。
+File.Lable.NeibourTransferSingleSubMsg                       =	周辺デバイス{0}からファイル {1} ({2})が届いています。受信しますか？
+File.Lable.NeibourTransferSubMsg                             =	周辺デバイス{0}から{1}つのファイル({2})が届いています。受信しますか？
+File.Lable.NoDeviceHintFile                                  =	モバイルデバイス・コンピュータ間ファイル転送
+File.Lable.RecentSessions                                    =	最近
+File.Lable.RemoveFriend                                      =	{0}を友達リストから削除しますか？
+File.Lable.RemoveFriendInfo                                  =	削除すると、この人からのメッセージとファイルを受信されません。
+File.Lable.SearchEmptyDevice                                 =	デバイスがありません。
+File.Lable.SearchEmptyFriend                                 =	友達がありません。
+File.Lable.Transfering                                       =	転送中
+File.Lable.VerifyFriend                                      =	{0} <{1}> からの友達リクエストが届いています。
+File.Menu.CopyPath                                           =	パスをコピー
+File.Menu.PasteFromPC                                        =	PCからペースト
+File.Menu.PasteFromPhone                                     =	スマホからペースト
+File.Menu.Rename                                             =	名前の変更
+File.Menu.SearchCurrentFolder                                =	現在のフォルダ
+File.Menu.SearchSubFolder                                    =	現在のフォルダとサブフォルダ
+File.Menu.UploadFolder                                       =	フォルダをインポート
+File.Menu.UseInternalTextEditor                              =	編集
+File.Message.AddFavSuccessed                                 =	選択したアイテムをお気に入りに追加できました
+File.Message.AddFriendTooFrequently                          =	1日に同じ人にリクエストを1回しか送られません。明日試しましょう。
+File.Message.AddMyFavSuccessed                               =	{0}が正常にお気に入りに追加されました。
+File.Message.AlwaysAccept                                    =	常に受信する
+File.Message.AutoReceiveFile                                 =	{0}から{1}つのファイル({2})が受信されました
+File.Message.CannotAddMyselfToFriend                         =	自分を追加できません。
+File.Message.CheckIfDelete                                   =	{0}選択した項目を本当に削除しますか?
+File.Message.CheckIfRemoveFromFavorite                       =	本当に選択した項目をお気に入りから外してよろしいですか？
+File.Message.CloudSingeFileSpaceNotEnough                    =	リモートでファイル転送には、1 ファイル当たり {0} まで転送可能です。
+File.Message.ConnectingDevice                                =	接続中...
+File.Message.DeleteAllPromote                                =	すべての履歴を削除しますか？
+File.Message.DeleteFile                                      =	選択済の履歴を削除しますか？
+File.Message.DeleteFileInEditor                              =	本当にファイル「{0}」を削除しますか?
+File.Message.DirectoryInUsed                                 =	"{1}"フォルダー内の "{0}" ファイルは使用中です。一度閉じて再度試してください。
+File.Message.DownloadStopped                                 =	エクスポートが停止しました。
+File.Message.DownloadSuccess                                 =	"{0}" の エクスポートに成功しました。
+File.Message.EmptyMessage                                    =	内容を入力してください
+File.Message.EnableSendFolder                                =	フォルダ転送機能を取得するには、プレミアム版にアップグレードしてください
+File.Message.ExitWithFileTransfering                         =	進行中のタスクがあります。ここを去りますか？
+File.Message.FileCount                                       =	選択された{0}のファイル
+File.Message.FileExportFailure                               =	ネットワークに問題があり、"{0}" をエクスポートできませんでした。
+File.Message.FileExportFailurePermission                     =	"{0}"をエクスポートできませんでした。
+File.Message.FileExsited                                     =	このファイルが転送されています！
+File.Message.FileInUsed                                      =	{0}"が実行しています。 プログラムを終了してから続けてください。
+File.Message.FileNameTooLong                                 =	ファイル名は50文字を超えることはできません。
+File.Message.FileNotExisted                                  =	ファイルが存在しません
+File.Message.FileOpening                                     =	ファイル{0}は既に開かれており、再度開くことはできません。
+File.Message.FileSearching                                   =	フォルダ{0}を検索しています...
+File.Message.FileUploadSucceed                               =	ファイルが正常にインポートされました。
+File.Message.FolderCannotUploadToCloud                       =	リモート接続ではフォルダの転送に対応していません。
+File.Message.FreeFileSizeNotEnough                           =	リモートでファイル転送には、1ファイル当たり {0} まで転送可能です。\r\nプレミアム会員に登録すると、1ファイル当たり {1} まで転送可能になります。
+File.Message.FriendCannotSendDirectory                       =	友人へのフォルダの送付はまだサポートされていません
+File.Message.HasFailed                                       =	転送に失敗しました
+File.Message.ImageInUsed                                     =	イメージ "{0}" は使用中です。
+File.Message.InviteFriend                                    =	{0}がAirDroidを利用していないそうです。メールで招待しますか？
+File.Message.IsUsingCloud                                    =	デバイス {0} がオフライン (または PC を別のネットワークと接続)、\r\n リモート転送をしようと、7 日間のダウンロードのファイルになります。\r\n は、「はい」をクリックすると <Link>{1}</Link> に同意します。
+File.Message.ItemCount                                       =	全部で{0}の項目
+File.Message.KitkatExtSDWarning                              =	Android 4.4上で制限があるため、外部SDカードでのアップロード、削除、ファイルの新規作成は対応されていません。
+File.Message.KitkatExtSDWarningTitle                         =	外部SDカードのアクセスが制限されている可能性があります
+File.Message.ListOfDeleteFailure                             =	ネットワークの接続問題のため、削除できませんでした。
+File.Message.ListOfDeleteFailurePermission                   =	削除に失敗しました
+File.Message.LoadFailed                                      =	ネットワークの接続問題のため、ファイルを取得できませんでした。<refresh>更新</refresh>を行ってください。
+File.Message.LoadFolderPermission                            =	ネットワークや許可の問題で、ファイルを取得できませんでした。<refresh>更新</refresh>するかアクセスの許可を行ってください。\r\n<authorize>承認方法を表示</authorize>
+File.Message.MaxEmailAttachment                              =	添付するのは128を超えないようにしてください。
+File.Message.ModifyRemarkFailed                              =	備考を変更できませんでした。
+File.Message.MultiNotSupport                                 =	一括処理はサポートされていません
+File.Message.NewFolderFailure                                =	ネットワークの接続問題のため、新しいファイルを作成できませんでした：
+File.Message.NewFolderFailurePermission                      =	新しいフォルダを作成できませんでした
+File.Message.NoFileTransfering                               =	転送中のファイルやフォルダーはありません。
+File.Message.NoNextImage                                     =	最新の写真
+File.Message.NoPrevImage                                     =	最初の写真
+File.Message.NoSupportEncoding                               =	ファイルを保存できませんでした。未対応のファイル形式です。
+File.Message.NotContainSpecialChar                           =	以下の文字、記号はファイルの名前に使用できません: \r\n\ / : " * ? < > |
+File.Message.NotSupportVideoPreview                          =	動画プレビューは未だサポートされていません。
+File.Message.PasteFailure                                    =	ネットワークの接続問題のため、ペーストできませんでした。
+File.Message.PasteFailureGeneral                             =	ファイルの貼り付けに失敗しました
+File.Message.PasteFailurePermission                          =	ペーストできませんでした
+File.Message.PasteToSub                                      =	“{0}” をサブフォルダにコピーできません
+File.Message.PathNoExist                                     =	パス[{0}] が存在しません。
+File.Message.Privacy                                         =	プライバシーポリシー
+File.Message.RememberMyChoice                                =	選択を記憶する
+File.Message.RemoteFreeFileSizeNotEnough                     =	リモートトランスファーでは、ファイルサイズは{0} を超えることはできません。\r\nプレミアムにアップグレードして制限を{1} にまで増やしてください。
+File.Message.RemoteShareToSNS                                =	リモートトランスファーでは、ファイルサイズは{0} を超えることはできません。\r\nプレミアムにアップグレードして制限を{1} にまで増やしてください。
+File.Message.RemoteSingeFileSpaceNotEnough                   =	リモート接続モードで、ファイルのサイズは{0}を超えることはできません。
+File.Message.RemoveAllRecvRecord                             =	すべての履歴を削除しますか？
+File.Message.RemoveFavSuccessed                              =	お気に入りから削除
+File.Message.RemoveMyFavSuccessed                            =	{0}はお気に入りから削除されました
+File.Message.RenameDuplication                               =	の名前を変更できません。同じ名前のファイルが存在します。
+File.Message.RenameFailure                                   =	ネットワークの接続問題のため、ファイルの名前を変更できませんでした。
+File.Message.RenameFailurePermission                         =	名前を変更できませんでした。
+File.Message.RotateFailure                                   =	ネットワークまたはアクセス許可の問題があるため、回転をすることができませんでした。
+File.Message.RotateFailureGeneral                            =	ファイルが存在しないため、またはアクセス許可の問題があるため回転することができませんでした。
+File.Message.SaveFailedNetwork                               =	ネットワークまたはアクセス許可の問題があるため、デバイスへの保存に失敗しました。
+File.Message.SaveFileToDevice                                =	本当に「{0}」への変更を保存しますか?
+File.Message.SaveSucceed                                     =	正常に保存されました。
+File.Message.SaveToPCOfDisconnection                         =	すみません、デバイスの接続が切断されました。PCに保存しますか？
+File.Message.SaveToPhoneFailure                              =	すみません、保存できませんでした。
+File.Message.Saving                                          =	保存中
+File.Message.SendFriendRespFail                              =	{0}から友達リクエストの承認に失敗しました。こちらをクリックし手動的に承認してください。
+File.Message.SendLogToAirDroidTeam                           =	AirDroid Teamにログファイルを送信しますか？
+File.Message.ShareToSNS                                      =	遠隔転送ではファイルサイズは{0}を超えることはできません。\r\nプレミアム版にアップグレードすることで、上限を{1}まで上げることができます。
+File.Message.SourceAndTargetWithSameName                     =	ソースの名前、ターゲットの名前が同じになっています
+File.Message.StartToReceiveFile                              =	ファイル受信が開始されました...
+File.Message.Stop                                            =	いったん停止すると、未完了のタスクからやり直す必要があります。
+File.Message.StorageNotEnough                                =	十分な容量がないため、 "{0}" を転送できませんでした。
+File.Message.SystemFileNoPermission                          =	承認が読み取れません。
+File.Message.SystemFileWarning                               =	1. ファイルシステムの変更や削除によるシステム異常の可能性があります。\r\n2. 一部のシステムファイルの処理は、予期せぬファイルのアクセスにより失敗する可能性があります。
+File.Message.TwitterShare                                    =	USBケーブルがいらず、自分のPCや周辺のデバイス、更にお友達と楽しくファイルの共有ができますよ。
+File.Message.TwitterShareDownload                            =	Google Play: {0}
+File.Message.TwitterShareWebSite                             =	WEBサイト: {0}
+File.Message.UnsupportRotationFormat                         =	{0} フォーマットで写真を回転させることはできません。JPG (JPEG) のみがサポートされています。
+File.Message.UploadStopped                                   =	インポートが停止しました。
+File.Message.UploadSuccess                                   =	"{0}" のインポートに成功しました。
+File.Messgae.NotPerssionForFolder                            =	"{0}"をインポートできませんでした。
+File.Messgae.UploadFailedNetwork                             =	ネットワークに問題があり、"{0}"をアップロードできませんでした。
+File.OpenFileDialog.SelectFile                               =	ファイルを選択
+File.Text.SearchFilesTip                                     =	エンターを押して検索してください
+File.TreeNode.FileSearchResult                               =	結果を検索
+File.TreeNode.MyFavorite                                     =	お気に入り
+
+File_Message_ExtSD_Upload_Failed                             =	アップロードに失敗しました。外部 SD カードへの書き込み権限がありません。
+
+FileManagement.Label.NoDeviceHintFileManagement              =	PC上でデバイスのファイルを管理
+
+Flating.Button.HideFlatingButton                             =	ウィジェットを隠す（1回）
+Flating.Button.HideFlatingButtonAlways                       =	ウィジェットを隠す（常に）
+Flating.Button.MarginConceal                                 =	スクリーンのエッジ部に自動的に隠す
+Flating.Button.TopMost                                       =	常に表示
+Flating.Button.Transparency                                  =	不透明度
+Flating.Button.TransparencyNo                                =	不透明
+
+Floating.Button.Friends                                      =	友達
+Floating.Button.My                                           =	デバイス
+Floating.Button.Neibour                                      =	周辺
+Floating.Button.Notify                                       =	通知
+Floating.Label.InstallBonjourGuide                           =	同一ネットに周辺デバイスを探すには\r\nBonjourサービスが必要です。
+Floating.Lable.DragAndDropFile                               =	ウィジェットにファイルを\r\nドラッグ＆ドロップで転送
+Floating.Message.DisableSilentMode                           =	通知をオフ-有効
+Floating.Message.EnableSilentMode                            =	通知をオフ-無効
+
+Game.Label.Game                                              =	お薦めのゲーム
+
+ImageView.Message.RotateFailure                              =	ネットワークまたはアクセス許可の問題があるため、デバイスへの保存に失敗しました。
+ImageView.Message.UnsupportRotation                          =	こちらのAirDroidアンドロイドクライアントのバージョンが旧式のものであるために、デバイスへの保存に失敗しました。アップデートをご確認ください。
+ImageView.Message.UnsupportRotationFormat                    =	{0}のフォーマットでは写真を保存できません。サポートされているのはJPG (JPEG) だけです。
+
+Login.Authorization                                          =	AirDroid授権限
+Login.Button.AgainExamine                                    =	完了しました
+Login.Button.AirDroidWeb                                     =	AirDroid Web
+Login.Button.AuthenticatingLogin                             =	認証中...
+Login.Button.AuthenticatingRegister                          =	サインアップ中...
+Login.Button.BindingDevice                                   =	完了しました
+Login.Button.BindingDeviceLater                              =	閉じる。後で通知する
+Login.Button.CheckUpdate                                     =	アップデート確認
+Login.Button.ClearAllNotificationPop                         =	すべての通知を消去
+Login.Button.CloseNextTime                                   =	閉じる。後で通知する
+Login.Button.Exit                                            =	閉じる
+Login.Button.FastTransfer                                    =	高速転送
+Login.Button.ForgetPassword                                  =	パスワードを忘れた場合?
+Login.Button.GoNoNextTime                                    =	後で通知する
+Login.Button.HasVerified                                     =	認証しました
+Login.Button.iSee                                            =	OK
+Login.Button.logout                                          =	サインアウト
+Login.Button.OpenMainWindow                                  =	AirDroidを実行する
+Login.Button.OpenVNC                                         =	Remote Control
+Login.Button.ReConnect                                       =	再接続
+Login.Button.Register                                        =	サインアップ
+Login.Button.ReLogin                                         =	サインイン
+Login.Button.ShowFloatingFrom                                =	ウィジェットを表示
+Login.Button.SilentMode                                      =	通知をオフ
+Login.Button.UpdateDevice                                    =	アップデート
+Login.Button.VerifyNow                                       =	今すぐ確認
+Login.Checkbox.AutoLogin                                     =	サインイン状態を保持
+Login.Label.AccountPasswordFailed                            =	電子メールまたはパスワードが正しくありません。
+Login.Label.AddBeta                                          =	Betaコミュニティに参加する
+Login.Label.AddDevice                                        =	デバイスを追加
+Login.Label.AddDeviceContext                                 =	このアカウントに接続されたデバイスがありません。デバイスを追加してください。
+Login.Label.AlreadyInstall                                   =	インストール済み
+Login.Label.ChooseUnbindDevices                              =	削除したいデバイスをキックして下さい:
+Login.Label.Code                                             =	認証コード
+Login.Label.ConnectServerFailed                              =	サーバーへの接続に失敗
+Login.Label.DirectDownloadAPK                                =	APKファイルをダウンロード
+Login.Label.DownloadAndroidPCBateTitle                       =	AirDroid PC版を最新Beta版に更新くてください
+Login.Label.DownloadAndroidPCChinaDiscussion                 =	ご意見ご感想などQQグループにお気軽にお問い合わせください： {0}
+Login.Label.DownloadAndroidPCDiscussion                      =	ご意見ご感想などお気軽にお問い合わせください：{0}
+Login.Label.DownloadAndroidTitle                             =	AirDroid Android版を最新公式版に更新くてください
+Login.Label.DownloadAPK                                      =	ダウンロード
+Login.Label.DownloadPCAndroidBateTitle                       =	AirDroid PC版を最新Beta版に更新くてください
+Login.Label.DownloadPCBate                                   =	Beta版に更新
+Login.Label.Email                                            =	メールアドレス
+Login.Label.EmailExist                                       =	このメールアドレスは登録されました
+Login.Label.EmailFormatFailed                                =	無効なメールアドレスです
+Login.Label.EnterEmail                                       =	メールアドレスを入力してください
+Login.Label.EnterPassword                                    =	パスワードを入力してください
+Login.Label.EnterVerificationCode                            =	認証コードを入力してください
+Login.Label.EulaPrivacyPolicy                                =	<eula>EULA</eula> && <privacy>プライバシーポリシー</privacy>に同意する
+Login.Label.FailedCountNimiety                               =	期間内でサインイン回数は一定回数に超えたため、 10分後で再試行してください。
+Login.Label.FailedToLogin                                    =	サインインに失敗しました
+Login.Label.Function1                                        =	方法1
+Login.Label.Function2                                        =	方法2
+Login.Label.Function3                                        =	方法3
+Login.Label.HoldDevices                                      =	キックして {0} 個以上のデバイスを削除して下さい。
+Login.Label.HowToAddDevice                                   =	デバイスを追加する方法
+Login.Label.HowUpdateDevice                                  =	AirDroid 3にアップデートする方法
+Login.Label.HowUpdateDeviceIntroduce1                        =	AirDroidアプリ内にアップデートを確認する。
+Login.Label.HowUpdateDeviceIntroduce2                        =	Google Playでアップデートする。
+Login.Label.HowUpdateDeviceIntroduce3                        =	QRコードを読み込み、APKファイルをダウンロードする。
+Login.Label.InterfaceAstrict                                 =	期間内でサインイン回数は一定回数に超えたため、 しばらくお待ち下さい。
+Login.Label.IntroducePage1Content                            =	マルチスクリーンライフを楽しみましょう
+Login.Label.IntroducePage2Content                            =	許可した通話、SMS、アプリ通知などは、\r\nあなたがフォーカスしているコンピューターの大画面に映ります。
+Login.Label.IntroducePage2Title                              =	よりフォーカスへ
+Login.Label.IntroducePage3Content                            =	物理キーボードで入力したり、マウスでコントロールしてみてください。\r\nケーブルを探さなくても、より速くファイルなどを移動させることができます。\r\nよりよい機能で、よりよい生活を。
+Login.Label.IntroducePage3Title                              =	よりよい機能へ
+Login.Label.IntroducePage4Content                            =	リモート操作は、PC/Macとお使いのAndroidがつながる新しい方法です。\r\nお使いのAndroidと、そばにあるコンピューターで、今すぐにです。
+Login.Label.IntroducePage4Title                              =	より素早く接続へ
+Login.Label.InvalidNickname                                  =	ニックネームに正しくない文字が含めています。
+Login.Label.InvalidToken                                     =	アカウントセキュリティを保護するため、サインインし直してください。
+Login.Label.KnockOut                                         =	お使いのAirDroidアカウントが {0} に別の場所からサインインされたため、サインアウトされました。\r\nもしご自身でサインアウトされたお心当たりがない場合は、直ちにAirDroidアカウントで<password> パスワード変更 </password>を実施し、\r\nもしくは<log> 詳しく見る </log>をクリックしてください。
+Login.Label.Logout                                           =	サインアウトでよろしいですか？
+Login.Label.MaxDeviceLimit                                   =	他のデバイスを接続できませんでした
+Login.Label.NeedNickname                                     =	ニックネームを設定してください。
+Login.Label.NeedPwd                                          =	セキュリティ安全のため、パスワードを入力して登録してください。
+Login.Label.NetworkDisconnected                              =	サーバーへの接続が切断されましたため、Androidデバイスからの通知は受信できません。ネットワークの接続状況を確認してください。
+Login.Label.NetworkDisconnectedTitle                         =	サーバーへの接続が切断されました
+Login.Label.Nickname                                         =	ニックネーム
+Login.Label.NicknameFormatFailed                             =	ニックネームには: \ / : * “<> | ‘ && を含めてはいけません
+Login.Label.NicknameWithin15                                 =	ニックネームには15文字以内にしてください
+Login.Label.NoBindingDevice                                  =	このアカウントに接続されたデバイスがありません。
+Login.Label.OnPublicComputer                                 =	信頼されたパソコンのみご利用ください。
+Login.Label.Or                                               =	または
+Login.Label.Password                                         =	パスワード
+Login.Label.PasswordChanged                                  =	パスワードが {0}に変更されました。もう一度サインインし直してください。
+Login.Label.PasswordEmpty                                    =	パスワードを入力してください
+Login.Label.PasswordFormatFailed                             =	パスワードは8文字以上で英数字を含んでいる必要があります。
+Login.Label.PasswordVerificationFailed                       =	パスワードが間違っています
+Login.Label.PremiunExpired                                   =	お客様のプレミアムサブスクリプションは期限が切れました。
+Login.Label.Ready                                            =	サービス準備が完了しました。ここに最小化されます。
+Login.Label.Scan                                             =	QRコードを読み込む
+Login.Label.ScanTwoDimensionalCodeDownload                   =	スキャンしてダウンロード
+Login.Label.Skip                                             =	スキップ
+Login.Label.Step1                                            =	ステップ１
+Login.Label.Step1Context                                     =	あなたのデバイスにAirDroidをインストールしましょう
+Login.Label.Step2                                            =	ステップ２
+Login.Label.Step2Context                                     =	AirDroidを開いてアカウントとパスワードを入力して下さい
+Login.Label.Step3                                            =	ステップ 3
+Login.Label.Step3Context                                     =	サインインが完了したら、AirDroidが楽しめます
+Login.Label.ToAndroidUpgrade                                 =	Android のクライアントからアップデート
+Login.Label.ToGooglePlayDownload                             =	Google Playからアップデートする
+Login.Label.TooManyPasswordRetries                           =	期間内でエラー回数は一定回数に超えたため、 10分後で再試行してください。
+Login.Label.ToPhoneDownload                                  =	<Link>デバイスでAPKファイルをダウンロード</Link>
+Login.Label.ToPhoneDownloadEnd                               =	ダウンロード中...デバイスでタップしてインストールしてください
+Login.Label.ToPhoneDownloadRetry                             =	<Retry>APKファイルを{0}にプッシュに失敗しました。再試行。</Retry>
+Login.Label.UnbindExtraDevices                               =	あなたのプレミアムの登録は有効期限が切れているため、このアカウントでは{0}のデバイスしか管理することができません。既存のデバイスの接続を解除するか、プレミアムにアップグレードしてデバイスの割り当てを増やしてください。
+Login.Label.UnbindExtraDevicesVIP                            =	現在のプレミアムアカウントは最大 {0} のデバイスに接続できます。 さらに接続するには、接続されているデバイスの接続を解除するか、デバイスクォータを更新します。
+Login.Label.UnbindPC                                         =	お使いのAirDroidアカウントが {0} にこのパソコンから切断されました。\r\n \r\nもしご自身でサインアウトされたお心当たりがない場合は、直ちにAirDroidアカウントで<password> パスワード変更 </password>を実施し、\r\nもしくは<log> 詳しく見る </log>をクリックしてください。
+Login.Label.UnsupportTwoStepAuth                             =	2段階認証を有効にするには最新バージョンに更新してください。
+Login.Label.UpdateAirDroid3                                  =	AirDroid 3にアップデート
+Login.Label.UpdateAirDroid3Context                           =	下記デバイスにインストールされたAirDroidは旧バージョンです。多くの新機能を搭載したAirDroid 3が登場しました！すぐアップデートしましょう！
+Login.Label.UpgradeToBackupVideo                             =	最新バージョンでビデオをバックアップする (プレミア機能)
+Login.Label.UpgradeToNewest                                  =	Android のクライアントをアップデートする必要があります
+Login.Label.UpgradeToUseAirCloud                             =	今すぐアップデートして、スマホからコンピューターへのファイルバックアップを開始しましょう。
+Login.Label.UpgradeToUseAirIME                               =	コンピューターのキーボードを使用して携帯電話に入力
+Login.Label.UpgradeToUseClipboard                            =	コンピューターと Android のクリップボードの内容を共有
+Login.Label.VerificationFailed                               =	認証コートが間違っています。
+Login.Label.VersionTooLow                                    =	バージョンが低いため、公式サイトへダウンロードしてください。
+Login.Message.ClickToLogin                                   =	クリックしてサインイン
+Login.Message.ForbiddenKnockout                              =	あなたのアカウントに関して禁止行為を検出し、リモート接続を禁止しました。ご質問がある場合はご連絡ください。
+Login.Message.Knock                                          =	サインアウトされました
+Login.Message.NotVerified                                    =	まだ認証が完了していません
+Login.Message.UnbindFailed                                   =	デバイスを削除できませんでした。もう1度お試し下さい
+Login.Message.VeryfyEmail                                    =	メールは認証されていません。アカウントのセキュリティのためにメールを認証してください。
+Login.NotifyIcon.Connected                                   =	AirDroid 3\r\n実行しています
+Login.NotifyIcon.Connecting                                  =	AirDroid 3\r\n接続しています...
+Login.NotifyIcon.DisConnected                                =	AirDroid 3\r\n切断されました
+
+Main.Button.FileSystem                                       =	ファイル
+Main.Button.UDisk                                            =	Uディスク
+Main.Button.UpdateNow                                        =	AirDroidを閉じてアップデート
+Main.Message.CheckingUpgrade                                 =	アップデートを確認中...
+Main.Message.DownloadingNewVersion                           =	最新バージョンをダウンロード中...
+Main.Message.NetworkDisconnectCanNotUpgrade                  =	アップデートに失敗しました。ネットワーク接続状況を確認して下さい。
+Main.Message.UpdatedNewVersion                               =	{0}は既に最新バージョンです。
+Main.Message.UpdateNow                                       =	アップデートを続行するには、実行中のAirDroidを強制終了します。
+Main.Upgrade.Button.Ignore                                   =	スキップ
+Main.Upgrade.Button.UpgradeAtOnce                            =	アップデート
+Main.Upgrade.Button.UpgradeLater                             =	後でする
+Main.Upgrade.Label.ForceUpgrade                              =	お使いのバージョンが旧いため提供いたしません。最新バージョンに更新してください。
+Main.Upgrade.Label.GetLogFailed                              =	更新日記の読み込みに失敗しました。
+Main.Upgrade.Label.UpgradeInfo                               =	最新バージョンが利用できますよ！お使いのバージョンは{0}です。AirDroid最新バージョンにアップデートしましょう！
+Main.Upgrade.Text                                            =	最新バージョンが利用可能
+
+Main_Code_Expire                                             =	認証コートが無効になりました。
+
+Main_InvalidCode                                             =	認証コートが間違っています
+
+Main_SendValid_Fail                                          =	認証メールの再送信に失敗しました
+
+Main_Signup_inputpwd                                         =	サインアップを完了するにはパスワードを入力してください
+
+Main_signup_inputpwdAndMail                                  =	登録手続きを完了させるためにメールアドレスとパスワードを設定してください
+
+Media.Label.Empty                                            =	コンテンツが無いか、許可がありません
+Media.Message.Finished                                       =	完了しました
+
+MessageForm.Button.CopyAndReplace                            =	コピーと再ペースト
+MessageForm.Button.CopyAndReplaceToolTip                     =	あなたがコピーしているファイルを、\r\n目的のフォルダのファイルに置き換えてください
+MessageForm.Button.CopyNew                                   =	コピーしてください、でもどちらのファイルもそのままにしてください
+MessageForm.Button.CopyNewToolTip                            =	ファイルが変更されませんでした。このファイルを\r\n目的のフォルダにおいてください
+MessageForm.Button.Uncopy                                    =	コピーしないでください
+MessageForm.CheckBox.ExecuteSameOperation                    =	全てのコンフリクトのためにこれを行ってください
+MessageForm.Label.IncludeSameName                            =	"{1}" の名前のファイルは既に "{0}"に存在します。
+MessageForm.Label.IncludeSameNameOnPC                        =	"{0}"というファイルはすでにコンピューター上に存在します。
+
+MsgCenter.Label.ConnectFailureGuide                          =	接続についてのよくある質問
+MsgCenter.Label.HowToUpdate                                  =	最新バージョンにアップデートする方法
+MsgCenter.Label.UpdateAirDroid                               =	お利用しているAirDroidは旧バージョンです。アップデートしましょう。
+
+Music.Message.DeleteSuccessed                                =	削除しました。
+Music.Message.DeletingMusic                                  =	削除しています: {0}
+
+Notification.Button.AddToBlackList                           =	ブロック
+Notification.Label.DeviceDisableNotificationService          =	下記手順に沿って有効にしてください：
+Notification.Label.GetBlackListFailed                        =	ブロックアプリリストの読み取りに失敗しました。
+Notification.Label.NoNewNotification                         =	内容がありません
+Notification.Label.NoNotification                            =	通知なし
+Notification.Message.AddToBlackListFailed                    =	ブロックに失敗しました。
+Notification.Message.RemoveAll                               =	すべての通知を削除しますか？
+Notification.Message.RemoveFromBlackListFailed               =	ブロック解除に失敗しました。
+
+Notify.Button.ClearUnread                                    =	既読とする
+Notify.Button.Disable                                        =	ブロック
+Notify.Button.Dismiss                                        =	表示しない
+Notify.Button.More                                           =	もっと
+Notify.Button.SyetemNotify                                   =	システム通知
+Notify.Label.AddBackListFailure                              =	{0}のブロックに失敗しました。。
+Notify.Label.DeleteMessage                                   =	この履歴を削除しますか？
+Notify.Label.DeleteSMSFailure                                =	{0}からのSMSの削除に失敗しました。
+Notify.Label.DeleteSystemNotify                              =	通知を削除しますか？
+Notify.Label.DeleteTitle                                     =	削除
+Notify.Label.DismissNotifyFailure                            =	{0}"の操作に失敗しました。
+Notify.Label.Empty                                           =	通知がありません
+Notify.Label.MessageReplyFailure                             =	“{1}”を{0}に送信に失敗しました。
+Notify.Label.NoDeviceHintNotify                              =	アカウントをデバイスと連携すると、パソコンでデバイスの通知お見逃しなく！
+Notify.Label.NoSystemNotify                                  =	システム通知がありません
+Notify.Label.Notify                                          =	通知
+Notify.Label.OperationFailure                                =	{0}： {1}の操作に失敗しました。
+Notify.Label.PopApp                                          =	ブロックアプリがありません
+Notify.Label.ReceiveNewSMS                                   =	{0} 件のメッセージを受信しました
+Notify.Label.RemoveBackListFailure                           =	{0}のブロック解除に失敗しました。
+Notify.Label.SelectNotify                                    =	通知を選択
+Notify.Label.Silent                                          =	ブロックアプリ
+Notify.Label.SilentInfo                                      =	ブロックアプリからの通知は\r\n表示されません。
+
+Notiyf.Label.NoDisturbMessage                                =	このアプリからの通知をブロックします。
+
+OpenNoty.Label.Content                                       =	メッセージ、不在着信やLineなどの\r\n重要な通知をパソコンで受信できません。
+OpenNoty.Label.MeStepContent1                                =	デバイスにAirDroidを開き、「 私-セキュリティ＆リモート機能」をタップしてください
+OpenNoty.Label.MeStepContent2                                =	デスクトップの通知をタップしてください
+OpenNoty.Label.MeStepContent3                                =	「AirDroidプッシュ通知送信機能」を有効にします
+OpenNoty.Label.NotyServe                                     =	プッシュ通知送信機能
+OpenNoty.Label.StepContent1                                  =	デバイスでAirDroidアプリを開き、「設定」をタップします。
+OpenNoty.Label.StepContent2                                  =	「プッシュ通知送信機能」をタップします。
+OpenNoty.Label.StepContent3                                  =	「AirDroidプッシュ通知送信機能」を有効にします
+OpenNoty.Label.Title                                         =	デスクトップ通知は、{0} で有効になっていません。
+OpenNoty.Label.V4StepContent1                                =	AirDroidをお使いのスマートフォンで開くには、「ツール」 > 「デスクトップの通知」から選択してください。
+OpenNoty.Label.V4StepContent2                                =	「デスクトップ通知」をタップ>「有効にする」
+
+Popup.Button.Accept                                          =	応答
+Popup.Button.Custom                                          =	カスタム内容...
+Popup.Button.Decline                                         =	拒否
+Popup.Button.Deleting                                        =	削除中...
+Popup.Button.HelperMeAccept                                  =	OK
+Popup.Button.Mute                                            =	通知をオフ
+Popup.Button.NoAccept                                        =	拒否
+Popup.Button.Reply                                           =	返信
+Popup.Button.Send                                            =	送信
+Popup.Label.ConfirmDeleteSMS                                 =	このメッセージを削除しますか？
+Popup.Label.From                                             =	{0} から
+Popup.Label.InputSMSContent                                  =	メッセージを作成
+Popup.Label.MissedCall                                       =	{0} 通の不在着信
+Popup.Label.NewDevice                                        =	新しいデバイスが接続されました：{0}
+Popup.Label.NoSupportAnswer                                  =	パソコンで電話を応答してスマホで続行しますか？
+Popup.Label.RemoveDevice                                     =	{0} 接続が切断されました。
+Popup.Label.ReplyPlaceHolder                                 =	内容を入力して送信します...
+Popup.Message.AcceptFailed                                   =	応答に失敗しました。
+Popup.Message.AcceptSuccess                                  =	成功しました
+Popup.Message.CallYouLater                                   =	後でかけ直します。
+Popup.Message.DecliningFailed                                =	操作に失敗しました。
+Popup.Message.DeniedVerify                                   =	{0} <{1}> があなたの友達リクエストを拒否しました。
+Popup.Message.InMetting                                      =	会議中です。
+Popup.Message.MutingFailed                                   =	操作に失敗しました。
+Popup.Message.PassedVerify                                   =	{0} <{1}>があなたの友達リクエストを承認しました。
+Popup.Message.RemoveFriend                                   =	友達を削除
+Popup.Message.SendSuccessful                                 =	送信が完了しました
+Popup.Message.VerifyFriend                                   =	友達リクエスト
+
+Register.Label.InvalidNickname                               =	ニックネームに正しくない文字が含めています。
+
+rs_addon_not_install                                         =	アドオンがデバイスにインストールされていないため、遠隔操作に失敗しました。
+
+rs_common_biznetworkissue_tips                               =	接続できませんでした、ご使用中にネットワークをご確認ください
+
+rs_common_message_connectrestore                             =	接続が復旧しました
+
+rs_common_rsnetworkissue_tips                                =	接続に失敗しました。他のユーザーのネットワークを確認してからもう一度やり直してください。
+
+rs_gesture_content_disable                                   =	無効
+
+rs_gesture_content_enable                                    =	有効
+
+rs_gesture_title                                             =	チュートリアルジェスチャー
+
+rs_voicemessage_autosend                                     =	1分以上のトークを自動送信
+
+Setting.Button.About                                         =	説明
+Setting.Button.BasicSetting                                  =	一般
+Setting.Button.NearbyDevice                                  =	デバイス
+Setting.Button.NotificationSettings                          =	通知
+Setting.Button.Set                                           =	設定
+Setting.CheckBox.Allow                                       =	常時
+Setting.CheckBox.Auto                                        =	自動
+Setting.CheckBox.AutoCloseSMSNotify                          =	7秒後メッセージの通知を非表示
+Setting.CheckBox.AutoDownloadCloudFile                       =	オフラインのファイルを自動的にダウンロードする
+Setting.CheckBox.ClickNotifyOpenVNC                          =	リモート操作を開く
+Setting.CheckBox.FirstTry                                    =	一回のみ
+Setting.CheckBox.Forbid                                      =	転送しない
+Setting.CheckBox.NameSurname                                 =	名前、名字
+Setting.CheckBox.NoShowSMSContent                            =	メッセージの詳細を非表示します
+Setting.CheckBox.OpenNotifyVoice                             =	通知音を有効化
+Setting.CheckBox.ShowUnreadNotifyCount                       =	未読件数をメニューに表示
+Setting.CheckBox.SpellCheck                                  =	スペルチェック
+Setting.CheckBox.StartWhenOpenSystem                         =	ログイン時に開く
+Setting.CheckBox.SurnameName                                 =	名字、名前
+Setting.Label.AlwaysAskAirMirror                             =	次回表示する
+Setting.Label.BackupFolder                                   =	バックアップ:
+Setting.Label.CloseAirMirror                                 =	リモート操作を終了時：
+Setting.Label.CommonNotifyCloseTime                          =	通知ポップアップを閉じる：
+Setting.Label.DeviceName                                     =	デバイス名
+Setting.Label.DirectCloseAirMirror                           =	閉じる
+Setting.Label.FileSendFailure                                =	リモートでファイル転送：
+Setting.Label.FormatMinute                                   =	{0} 分
+Setting.Label.FormatSecond                                   =	{0}秒
+Setting.Label.FullScreen                                     =	フルスクリーンでプログラムを実行する時自動的に通知をオフにします
+Setting.Label.IPAddress                                      =	IPアドレス
+Setting.Label.KeepAliveTenMinutesAirMirror                   =	接続状態保持
+Setting.Label.Language                                       =	言語：
+Setting.Label.NoAutoClose                                    =	閉じない
+Setting.Label.NoDisturbance                                  =	通知をオフ：
+Setting.Label.NoDisturbanceMessage                           =	有効化してポップアップ表示及び音声をオフにします。
+Setting.Label.NotilfyRemind                                  =	通知：
+Setting.Label.NoTrustDevice                                  =	信頼されたデバイスがありません。
+Setting.Label.ReceiveFileFolder                              =	受信済みファイルの保存先：
+Setting.Label.RecordingFolder                                =	以下に画像情報の記録を保存します：
+Setting.Label.ScreenshotFolder                               =	スクリーンショット/動画:
+Setting.Label.Settings                                       =	設定
+Setting.Label.ShowOrder                                      =	連絡先の表示順：
+Setting.Label.SMSNotifyCloseTime                             =	SMSポップアップを閉じる：
+Setting.Label.SortOrder                                      =	連絡先の並び替え順：
+Setting.Label.Start                                          =	起動する
+Setting.Label.Trust                                          =	信頼されたデバイス
+Setting.Label.TrustRemark                                    =	信頼されたデバイス：信頼されたデバイスからのファイルは自動的に受信されます。
+Setting.Message.CannotWriteInFolder                          =	アクセスが拒否されました。別のフォルダを選択してください。
+Setting.Message.RestarApp                                    =	言語設定が変更されました。ソフトウェアを再起動し、設定を有効にしますか？
+
+SMS.Button.Emotion                                           =	エモーティコン
+SMS.Button.NewMessage                                        =	メッセージを作成
+SMS.Label.DeleteGroup                                        =	会話を削除しますか？
+SMS.Label.DeleteingGroup                                     =	削除中...
+SMS.Label.DeleteSelectSMS                                    =	このメッセージを削除しますか？
+SMS.Label.Message                                            =	メッセージ
+SMS.Label.NoDeviceHintSMS                                    =	パソコンでメッセージを送受信
+SMS.Label.NoSearchSMS                                        =	該当する内容がありません
+SMS.Label.SearchGroup                                        =	連絡先によって検索
+SMS.Label.SearchSMS                                          =	内容によって検索
+SMS.Label.SelectSMSGroup                                     =	会話を選択
+SMS.Label.TemporarilyNoMessage                               =	メッセージなし
+SMS.Message.CannotDeleteConversion                           =	メッセージの削除はAndroid 4.4以降に対応していません。
+SMS.Message.CanotFoundSIM                                    =	SIMカードが見つかりません
+SMS.Message.ConversionEmpty                                  =	メッセージがありません
+SMS.Message.DeleteFailure                                    =	削除に失敗しました
+SMS.Message.DeleteSelectSMSFailure                           =	選択されたメッセージ{0}の削除に失敗しました。
+SMS.Message.DeleteSelectSMSPemissionDenied                   =	“{0}”のSMSを削除できませんでした。「設定 > アプリ> AirDroid > 許可」へ行き、すべてのアクセス許可を有効にしてください。<Link>詳細</Link>
+SMS.Message.DeleteSucceed                                    =	削除が完了しました
+SMS.Message.IfDeleteConversion                               =	{0} 通の会話を削除しますか？
+SMS.Message.MessageCanotEmpty                                =	内容を入力してください
+SMS.Message.MessageSendFailure                               =	メッセージ送信に失敗した可能性があります。デバイスで送信状態を確認してください。
+SMS.Message.NewMessageTo                                     =	{0} にメッセージを送信
+SMS.Message.NoSelectContact                                  =	連絡先を選択してください
+SMS.Message.PermissionDenied                                 =	“{0}”へのSMS送信に失敗しました。「設定 > アプリ> AirDroid > 許可」へ行き、すべてのアクセス許可を有効にしてください。<Link>詳細</Link>
+SMS.Message.RemoteDeleteSelectSMSPemissionDenied             =	{0} のメール削除に失敗しました。\r\nスマホのAirDroidの「私-セキュリティ＆リモート機能」から「メッセージ」に関する承認を有効にしてください。
+SMS.Message.RemoteSendPermissionDenied                       =	{0} へのメール送信に失敗しました。スマホのAirDroidの「私-セキュリティ＆リモート機能」から「メッセージ」に関する承認を有効にしてください。
+SMS.Message.SendFail                                         =	{0} にメッセージの送信に失敗しました。
+SMS.Message.SureDeleteMessage                                =	このメッセージを削除しますか？
+
+transfer_chatitem_resend_action                              =	再送信
+
+Unbind.Button.Unbind                                         =	削除
+Unbind.Button.Unbinding                                      =	削除中...
+Unbind.Label.Info                                            =	{0}を削除しています。セキュリティを保護するため、AirDroidパスワードを入力してください。
+Unbind.Lable.FailToVerify                                    =	削除に失敗しました。再試行してください。
+Unbind.Lable.PasswordIncorrect                               =	パスワードが間違っています。
+
+Update.Message.GoToWebSite                                   =	アップデートに失敗しました。AirDroid公式サイトでダウンロードしてください。
+
+Upgrade.Message.ContinueUse                                  =	ダウンロードしています...
+
+USB.Button.EnableWebsocketAirmirror                          =	Non-Rootモードを試す
+USB.Button.HasEnableDebugMode                                =	完了
+USB.Button.ShowDebugModeGuide                                =	設定ガイド …
+USB.Label.AndroidNotsupport                                  =	申し訳ありません、{0} 以下のAndroid OSには互換性がありません。
+USB.Label.DisconnectedWithoutSceenShot                       =	スクリーンがミラーされていません。リトライをクリックして再試行するか、ノンルートモードを試してください:\r\n1) お使いのAndroid 端末でUSBデバッグを有効にしてください。\r\n2)USBケーブルを使って、Android端末とPCを接続してください。
+USB.Label.EnableUSBDebug                                     =	USBデバッグを有効にしてください
+USB.Label.EnableUSBDebugRestart                              =	これは一時的な設定です。再起動した場合はUSBケーブルで再度デバイスを接続する必要があることがあります。
+USB.Label.KillAirMirrorFailed                                =	お使いのAndroidデバイスでリモート操作のサービスを開始することができませんでした。続けるにはワンタイム設定を行ってください：\r\n1. お使いのAndroidデバイスでUSBデバッギングを有効にしてください。 \r\n2. USBケーブルでAndroidデバイスとPCを接続してください。
+USB.Label.NoRootCanUseNotRootAirMirror                       =	デバイスがルート化されていません。「非ルート権限でスタートする」ボタンをクリックして非ルートモード設定にしてから
+USB.Label.RootDeny                                           =	AirDroidがRoot許可を取得に失敗しました。以下をお試しください： \r\n1. Root管理アプリの設定を確認して、画面上で関連する許可リクエストを許可してください\r\n2. Non-Rootのリモートコントロールをお試しください： \r\n > AndroidデバイスでUSB debuggingを有効にする \r\n > AndroidデバイスとコンピューターをUSBケーブルで接続する
+USB.Label.StartADBAirMIrrorFailed                            =	申し訳ありません。あなたのデバイスはリモート操作に対応していません。お問い合わせのさいはsupport@airdroid.comへご連絡下さい。
+USB.Label.StartAirMirrorFailed                               =	遠隔デバイスからルート権限を取得できませんでした。\r\n1は可能です。ルート管理アプリケーションの設定を確認するか再度デバイスをルートしてください \r\n2。ルート以外の権限を要求しています。
+USB.Label.TryUSBConnect                                      =	非ルート権限でスタートする
+USB.Label.WaitingForDevice                                   =	USBケーブルでAndroidデバイスに接続してください
+USB.Title.USBDeviceFormTitle                                 =	接続中のデバイス - {0}
+
+UserCenter.Message.Buy                                       =	追加容量を購入
+
+View.Button.SaveToPhone                                      =	デバイスに保存する
+View.Message.RotateFailureGeneral                            =	ファイルが存在しないかあるいはアクセス権限の問題が原因で保存に失敗しました。
+
+VNC.Button.AirIME                                            =	AirIME
+VNC.Button.AlreadyInstallPlugin                              =	インストールしました
+VNC.Button.AlreadyUpgradePlugin                              =	完了
+VNC.Button.Camera                                            =	リモートカメラ機能
+VNC.Button.ChangeDevice                                      =	デバイスをスイッチ
+VNC.Button.DirectCloseAirMirror                              =	閉じる
+VNC.Button.GoEmbedded                                        =	リコール
+VNC.Button.GoOn                                              =	以前は使えましたが、<Link>再試行 </Link>
+VNC.Button.KeepAliveAirMirror                                =	接続状態保持
+VNC.Button.LookScreenshot                                    =	スクリーンショットの保存が完了しました。
+VNC.Button.LookScreenshotFailure                             =	スクリーンショット取得に失敗しました。
+VNC.Button.LookScreenshotIng                                 =	スクリーンショットを保存中...
+VNC.Button.LookScreenshotToClip                              =	クリップボードにコピーされました
+VNC.Button.NoHint                                            =	常に接続する
+VNC.Button.RetlyConnect                                      =	再試行
+VNC.Button.RetryRequest                                      =	再試行
+VNC.Button.UpgradeAirDroidRefreshDevices                     =	確認しています...
+VNC.Button.UpgradeAirDroidRetry                              =	再確認します
+VNC.Button.UseScreenShot                                     =	スクリーンミラーリング
+VNC.Label.AboveMethodNoHelp                                  =	まだうまくいきませんか？ <Open>フィードバックを送信してください</Open>
+VNC.Label.AndroidMaxNonsupport                               =	申し訳ありません。リモート操作は\r\nAndroid {0}に対応していません。今後の\r\nバージョンアップにお楽しみに。
+VNC.Label.AndroidNonsupport                                  =	お使いのAndroidシステムバージョンが低いです。\r\nリモート操作はAndroid 4.0以降に対応しています。
+VNC.Label.Camera                                             =	デスクトップからスマートフォンのカメラにアクセスする
+VNC.Label.CameraGoPremium                                    =	この機能を使用すると、デバイスのカメラを介して周囲を表示および聞くことができます。
+VNC.Label.CameraPermissionDenied                             =	カメラの開始に失敗しました。スマートフォンに行って、カメラの使用を許可してください。
+VNC.Label.ChangeUSBLine                                      =	別のUSBポートかケーブルをお試し下さい
+VNC.Label.CheckingFor                                        =	確認中...
+VNC.Label.CloseAirMirrorHint                                 =	本当に{0}を閉じますか?
+VNC.Label.ComputerControlPhone                               =	遠く離れたコンピュータから、お使いの携帯電話を制御します
+VNC.Label.ConnectADBFailInAirMirror                          =	デバイスが正しく接続されていません。AndroidデバイスがUSBケーブルでPCに接続され、USBデバッギングが有効になっていることを確認してください。
+VNC.Label.ConnectFailureRetryUnderMethod                     =	{0}への接続に失敗しました。トラブルシューティング・ガイド:
+VNC.Label.ConnectingDeviceNoPulUpLine                        =	接続中はUSBケーブルを抜かないでください…
+VNC.Label.ConnectionDeviceLaterOn                            =	接続中のデバイス{0}…
+VNC.Label.ConnetDisconnectHint                               =	接続が中断されました。確認してください: \r\n1.リモート デバイス \r\n2.Androidデバイスのウェイクアップまたはロック解除\r\n3.をロック解除します。リモート デバイスの AirDroid を開いてみてください。
+VNC.Label.ConnetFailureHint                                  =	接続に失敗しました。解決策：\r\n1. リモートデバイスのネットワーク接続を確認してください。\r\n2. お使いのAndroidデバイスのロックを解除するかスリープ状態を解除してください。\r\n3. リモートデバイスのAirDroidを開いてください。
+VNC.Label.ContentDeviceClickOk                               =	USBケーブルを接続してから、デバイス上のOKをクリックしてください。
+VNC.Label.DeviceConnecting                                   =	接続中...
+VNC.Label.DownloadDriverFailureRetry                         =	ドライバのダウンロードに失敗しました、<Retry>もう一度お試しください</Retry>。
+VNC.Label.EnableScreenShot                                   =	スマートフォンの「今すぐ開始」をタップしてください
+VNC.Label.EnableScreenShotGuide                              =	便宜上、「再び表示しない」をチェックしてください。\r\n許可を求めるウィンドウが表示されない場合は、AirDroidを再起動してください。\r\n\r\n<Link>{0}</Link>秒以内に再度お試しください。
+VNC.Label.ESCCloseFullAirMirrorHint                          =	フルスクリーンを終了（Esc）
+VNC.Label.FailureVideo                                       =	画面の記録に失敗しました
+VNC.Label.FlowBeyondHint                                     =	今月分の容量が上限に達しました。\r\nプレミアム会員の場合「再試行」\r\nをクリックしてください！
+VNC.Label.GetRootContext                                     =	お使いのAndroidデバイスが既にroot化済みの場合は、\r\nデバイス上で「許可」をタップしてAirDroidのr\r\nroot権限取得を許可してください。
+VNC.Label.GetRootFailuretHint                                =	root化済みのデバイス、または一部承認\r\n \r\nされた非root化のデバイスのみ対応します。\r\n \r\n今後、より多くのデバイスメーカー、キャリア\r\n及び機種の承認をいただくように努力\r\nしております。
+VNC.Label.GetRootFailureTop                                  =	お使いのデバイスに対応していません。
+VNC.Label.GetRootTop                                         =	root権限をリクエスト...
+VNC.Label.GoEmbeddedGuide                                    =	別のウィンドウで{0}を実行しています
+VNC.Label.HowOpenUSBDebug                                    =	<Open>USBデバッグを有効にする方法</Open>をクリックして確認する
+VNC.Label.InstallAirMirrorPlugin                             =	Android上でのリモート操作 Pluginをアップデートします。
+VNC.Label.InstallDriverFailureRetry                          =	{0}のドライバのインストールに失敗しました。インストールをやり直してください。
+VNC.Label.InstallDriverLoading                               =	ドライバをインストール中はコンピューターを再起動しないでください。インストール実行中に確認ボタンをクリックする必要がある場合があります。
+VNC.Label.InstallPluginFailuretHint                          =	リモート操作 Pluginをインストールし、パソコンでAndroidデバイスを操作してください。
+VNC.Label.KillServiceFailed                                  =	リモート操作が実行できませんでした。デバイスを最起動してもう一度試してください。
+VNC.Label.NoBindingAndroidDevice                             =	リモート操作はAndroidデバイス向け機能です。今利用できるデバイスはありません。
+VNC.Label.NoBindingDevice                                    =	Android デバイスをアカウントに追加しリモートで制御する。
+VNC.Label.NoConnectDeviceOpenUSBDebug                        =	携帯電話に接続できませんでした。\r\nUSBデバッグを有効にしてください。
+VNC.Label.NoConnetDevice                                     =	連携されたデバイスがありません。
+VNC.Label.NoDeviceHintVNC                                    =	遠く離れたコンピュータから、お使いの携帯電話を制御します
+VNC.Label.NonRoot                                            =	Non-Root
+VNC.Label.NoRootCanUseScreenShot                             =	1. デバイスを遠隔でコントロールする場合は、デバイスでのUSBデバッギングを有効にし、USBケーブルでPCに接続した後に「設定が完了しました。スタート」をクリックしてください。\r\n2. スクリーンショットを撮影するだけの場合や、スクリーンを記録するだけの場合は、「スクリーンミラーリング (non-root)」をクリックしてください。この時、USBケーブルを接続する必要はありません。
+VNC.Label.NoSupportDeviceHint                                =	申し訳ありません。\r\n現在お使いの機種に対応していません。\r\n今後ご期待ください。
+VNC.Label.NoSupportVncHint                                   =	申し訳ありません。\r\n現在お使いの機種に対応していません。\r\n今後ご期待ください。
+VNC.Label.NotRootHint                                        =	root化済みのデバイスのみ対応します。\r\nお使いのデバイスが未root化です。
+VNC.Label.OpenDirectory                                      =	すべてを表示
+VNC.Label.RefreshFlow                                        =	今月分の容量が上限に達しました。更新してください。
+VNC.Label.RefreshFlowSucceed                                 =	リモート接続容量が十分です。
+VNC.Label.RefreshIngFlow                                     =	更新しています...
+VNC.Label.RetryComputerPhone                                 =	携帯電話かPCを再起動する
+VNC.Label.RetryInstall                                       =	再インストール
+VNC.Label.RootDenyHint                                       =	AirDroidにはroot権限が必要です。権限取得を許可して再試行してください。
+VNC.Label.SaveAs                                             =	別名で保存...
+VNC.Label.SaveToClip                                         =	スクリーンショットをコピーする
+VNC.Label.SceenShotAuthDenied                                =	お使いのデバイス上でAirDroidへのスクリーンアクセスを有効にし、もう一度試してください。
+VNC.Label.SceenShotFailure                                   =	申し訳ありません、「スクリーンミラーリング」を起動できませんでした。以下のガイドに従って確認してください:\r\n1. ネットワークが正常に作動しているか確認してください。\r\n2. Androidのデバイスを起動、もしくはアンロックしてください。\r\n3. AirDroidを再起動してください。
+VNC.Label.ScreenshotGuide                                    =	ルートなしに、スマートフォンの画面を表示し記録する
+VNC.Label.ScreenshotNmae                                     =	AirDroidスクリーンショット
+VNC.Label.SelectDevice                                       =	デバイスを選択
+VNC.Label.SOS                                                =	Remote Support
+VNC.Label.StartAirMirrorServiceFailed                        =	root権限を取得できませんでした。権限取得を許可済みかとご確認ください。
+VNC.Label.StartAirMirrorTimeoutHint                          =	リモート操作が実行できませんでした。解決方法：\r\n1. デバイスのネットワークを確認してください。\r\n2. デバイスを再起動してください。
+VNC.Label.StartVideo                                         =	録画を開始しました。
+VNC.Label.StatusLAN                                          =	ローカルネットワーク
+VNC.Label.StatusWAN                                          =	リモートネットワーク
+VNC.Label.StopVideo                                          =	画像情報が記録され、ビデオを作成しています...
+VNC.Label.SuccessVideo                                       =	録画が成功しました。クリックして閲覧。
+VNC.Label.ToDeviceRetryOpenUSBDebug                          =	USBデバッグを再度有効にする<How>やり方を見る</How>
+VNC.Label.ToDeviceVerifyAccredit                             =	USBデバッグが許可されているか確認してください<How>やり方を見る</How>
+VNC.Label.UpdateAirMirrorAndroid                             =	Android上でのAirDroidをアップデートします。
+VNC.Label.UpdateAirMirrorPlugin                              =	Android上でのリモート操作 Pluginをアップデートします。
+VNC.Label.UpdateAirMirrorWindows                             =	PC上でのAirDroidをアップデートします。
+VNC.Label.UpdatePluginFailuretHint                           =	パソコンでAndroidデバイスを操作するには\r\nリモート操作 Pluginをアップデートしてください。
+VNC.Label.UpdateTheseApplication                             =	続行には下記手順に沿って進めてください：
+VNC.Label.UpgradeAirDroidHint                                =	リモート操作は当バージョンに対応していません。\r\nAirDroid 3にアップデートしてください。
+VNC.Label.WillSupportHint                                    =	リモート操作はもうすぐ未rootデバイスに対応できるようになります！
+VNC.Menu.HD                                                  =	HD
+VNC.Menu.LD                                                  =	LD
+VNC.Menu.SD                                                  =	SD
+VNC.Message.FirstUseCamera                                   =	デバイス上のカメラは AirDroid で使用している間、一時的に無効になります。
+VNC.Message.FlashOnFailed                                    =	フラッシュライト点灯に失敗しました。
+VNC.Message.IsSwitchingCamera                                =	切り替えています...
+VNC.Message.MaxCocurrentLimit                                =	フリーアカウントでは、1回につき{0} 台のデバイスを操作できます。もっと多くのデバイスをリクエストしたい場合は、プレミアムにアップグレードして下さい。
+VNC.Message.MaxCocurrentLimitToBusiness                      =	プレミアムアカウントでは、1回につき{0}台のデバイスを操作きます。もっと多くのデバイスをリクエストしたい場合は、AirDroidビジネスのご利用をお試し下さい。
+VNC.Message.NoRootGuideInRemotePermissionDenied              =	あなたのデバイスが非ルートの場合は、最初にルート化を行うか、またはリモートコントロールのために非ルート化権限を取得してください。<Link>非ルート化権限の取得方法を確認</Link>
+VNC.Message.OtherMaxCocurrentLimit                           =	あなたのデバイスは、他の人によって遠隔操作されています。フリーアカウントでは、1回につき{0}台のデバイスを操作できます。もっと多くのデバイスをリクエストしたい場合は、プレミアムにアップグレードして下さい。
+VNC.Message.OtherMaxCocurrentLimitBusiness                   =	あなたのデバイスはその他の物によって遠隔操作されています。プレミアムアカウントでは、1回につき{0} 台のデバイスを操作きます。もっと多くのデバイスをリクエストしたい場合は、AirDroidビジネスのご利用をお試し下さい。
+VNC.Message.SameDeviceConnetecByOther                        =	現在お使いのデバイスは他のデスクトップクライアントに接続しています。
+VNC.Message.StartCameraFailed                                =	カメラの起動に失敗しました。デバイスにカメラが搭載されているかどうかを確認してから、スマートフォンに移動してカメラを終了するか、カメラの許可を有効にしてから、もう一度お試しください。
+VNC.Message.StartCameraFailedShort                           =	カメラの開始に失敗しました。スマートフォンに行って、カメラの使用を許可してください。
+VNC.Message.SwitchingDefinition                              =	解像度の変更
+VNC.Message.UpgradeToSupportScreenShot                       =	この機能を使用するには、Androidクライアントを最新版にアップデートする必要があります。
+
+Webkit.ContextMenu.Print                                     =	印刷する
+
+Welcome.Button.SaveToPC                                      =	PCに保存されました
+Welcome.Label.BuiltInSDCard                                  =	SD カード
+Welcome.Label.Phone                                          =	システム
+Welcome.Label.SDCard                                         =	外部SDカード

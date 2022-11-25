@@ -1,0 +1,1233 @@
+﻿About.Label.AirDroidForWin                                   =	AirDroid Windows
+About.Label.Context                                          =	AirDroid brings you an easy and secure way to fully control your mobile devices on computer, without USB cable.
+About.Label.OfficialWebsite                                  =	Official Website
+About.Label.PrivacyPolicy                                    =	Privacy Policy
+About.Label.Version                                          =	Version
+
+ad_verify_mail_resend                                        =	Resend
+
+AirCloud.Button.BackupNow                                    =	Backup
+AirCloud.Button.CancelBackup                                 =	Stop
+AirCloud.Button.ContinueBackup                               =	Resume
+AirCloud.Button.StartBackup                                  =	Backup
+AirCloud.Label.Backuping                                     =	Backing up: {0}%
+AirCloud.Label.CancelBackup                                  =	{0} files backed up. {1} files not backed up.
+AirCloud.Label.ConnectFailed                                 =	The phone and computer need to be on the same LAN network.
+AirCloud.Label.EnableAutoBackup                              =	2. Make sure Automatic backup is turned on to start backup automatically.
+AirCloud.Label.FirstBackup                                   =	Not backed up yet
+AirCloud.Label.GuideText                                     =	Backup photos and videos from the phone to computer via LAN network.
+AirCloud.Label.GuideTitle                                    =	Safe and fast file backup
+AirCloud.Label.IsPreparing                                   =	Preparing data for backup
+AirCloud.Label.LastBackupTime                                =	Last backup time: {0}
+AirCloud.Label.NeedPremium                                   =	<Premium>Upgrade to Premium</Premium> to backup video
+AirCloud.Label.NeedUpgrade                                   =	<Upgrade>Update to the latest version</Upgrade> on the phone to backup video
+AirCloud.Label.NeedUpgradeAndPremium                         =	<Premium>Premium feature: </Premium><Upgrade>Update to the latest version</Upgrade> on the phone to backup video
+AirCloud.Label.NotCurrentPC                                  =	Please set this computer as a backup destination in AirDroid on the phone.
+AirCloud.Label.OpenFolderGuide                               =	Open folder
+AirCloud.Label.PCNotSetted                                   =	Please set a computer as a backup destination in AirDroid on the phone.
+AirCloud.Label.Progress                                      =	Backed up {0} files of {1} files
+AirCloud.Label.Result                                        =	Backed up {0} files
+AirCloud.Label.SettingGuide                                  =	1. Open AirDroid and tap the Backup icon.
+AirCloud.Label.SettingOnPhone                                =	Setting on phone required
+AirCloud.Label.UpToDate                                      =	All files are backed up.
+AirCloud.Message.CanCancelBack                               =	Are you sure you want to stop the backup?
+AirCloud.Message.DownloadFailed                              =	Failed to transfer the files for backup
+AirCloud.Message.EmptyFiles                                  =	Nothing to backup
+AirCloud.Message.PermissionDenied                            =	<Link>Permission denied. Please go to Settings > Apps > AirDroid > Permissions, and enable Storage permission. </Link>
+AirCloud.Message.SaveFailed                                  =	Please make sure there's enough free disk space.
+
+AirCloud_Update_Premium2                                     =	<premium>Upgrade to premium</premium> allows you to back up videos. Or you can <exchange>get free premium</exchange> here
+
+AirIme,Label.ToSettingCheckedAirIme                          =	Enable AirDroid Keyboard in Language & input
+
+AirIME.Button.Done                                           =	Done
+AirIME.Button.Skip                                           =	Skip
+AirIME.Label.AutoSwitch                                      =	Input methods may switch automatically
+AirIme.Label.ClickInput                                      =	Tap an input field on the phone
+AirIme.Label.CloseKeyboard                                   =	AirIME is off
+AirIme.Label.ComputerInputPhone                              =	Use computer keyboard to type on your phone
+AirIme.Label.ConnectingAirIme                                =	Enabling AirDroid Keyboard...
+AirIME.Label.EnableUSBDebug                                  =	Enable USB debugging (<Link>Help</Link>)
+AirIME.Label.LinkUSB                                         =	Connect phone and computer
+AirIme.Label.NoConnected                                     =	AirIME Disconnected
+AirIme.Label.NoFind                                          =	(Help)
+AirIme.Label.OpenIme                                         =	Turn on
+AirIme.Label.OpenKeyboard                                    =	AirIME Ready
+AirIme.Label.ReplyConnecting                                 =	Reconnecting...
+AirIme.Label.SendToPhone                                     =	Text sent to phone\r\n(Common shortcuts supported)
+AirIME.Label.USBConnectFailed                                =	Non-Root failed, please retry
+AirIME.Label.USBSubTitle                                     =	Click ‘Start Non-Root authority’ button to request the permission, then return to this page, your device will switch on AirDroid Keyboard automatically. (Do this again once rebooted.)
+AirIME.Label.USBTitle                                        =	Switch input methods automatically
+
+AirIME_Guid_Button_Skip                                      =	Turn on AirIME manually
+
+AirMirror.Button.Back                                        =	Back
+AirMirror.Button.Down                                        =	Swipe Down
+AirMirror.Button.FlashOff                                    =	Flashlight off
+AirMirror.Button.FlashOn                                     =	Flashlight on
+AirMirror.Button.FullScreen                                  =	Enter full screen
+AirMirror.Button.Home                                        =	Home screen
+AirMirror.Button.Keyboard                                    =	Switch keyboard
+AirMirror.Button.LockScreen                                  =	Lock screen
+AirMirror.Button.Menu                                        =	Menu
+AirMirror.Button.NormalScreen                                =	Exit full screen
+AirMirror.Button.Recrod                                      =	Record screen
+AirMirror.Button.RotateScreen                                =	Rotate screen
+AirMirror.Button.ScreenShot                                  =	Take screenshot
+AirMirror.Button.StartRecording                              =	Start recording
+AirMirror.Button.StopRecording                               =	Stop recording
+AirMirror.Button.SwitchCamera                                =	Switch
+AirMirror.Button.SwitchResolution                            =	Switch the display quality
+AirMirror.Button.Tasks                                       =	Switch task
+AirMirror.Button.Up                                          =	Swipe Up
+AirMirror.Button.UseAirDroidIME                              =	Switch to AirDroid Keyboard
+AirMirror.Button.UseDefaultIME                               =	Switch to system keyboard
+AirMirror.Button.UseHighResolution                           =	Switch to high quality
+AirMirror.Button.UseStandarResolution                        =	Switch to normal quality
+AirMirror.Button.Volumn                                      =	Volume control
+
+AirMirror_NotAccessibility_Text1                             =	The accessibility permission is not granted, or the permission has been revoked, failed to proceed with remote control. Please grant the permission on the device via [Me]-[Security & Remote Features]-[Remote Control]. You can also root the device or use the Non-Root method.
+
+AirMirror_NotAccessibility_Text2                             =	The add-on is not installed, failed to proceed with remote control. Please install the add-on on the device via [Me]-[Security & Remote Features]-[Remote Control]. You can also root the device or use the Non-Root method.
+
+AirMirror_NotRoot_NewText2                                   =	The device is not rooted, please navigate to "Non-Root" to perform the setup. You can also upgrade AirDroid on the device to the latest version to control the device via the control add-on.
+
+AirSOS.Label.EnterShareCode                                  =	Enter 9-digit Connection Code
+AirSOS.Label.ShareCodeGuide                                  =	How to use:\r\n1. Invite the other one to install and open AirDroid on their Android device.\r\n2. Ask them to go to "Tools" > "AirSOS" > "Generate Connection Code", and tell you the 9-digit Connection Code generated.\r\n3. Enter the Connection Code in the box above to connect to their device.
+AirSOS.Label.StartGuide                                      =	AirSOS allows you to view the screen of another one's Android device to help them troubleshoot problems.
+
+am_setting_screen_qa_airmirror345_high                       =	High
+
+am_setting_screen_qa_airmirror345_low                        =	Low
+
+am_setting_screen_qa_airmirror345_standard                   =	Medium
+
+am_setting_screen_qa_selection                               =	Image Quality
+
+am_setting_screen_qa_stream_auto_select_hint                 =	Balance image quality and connection speed based on network conditions.
+
+am_setting_screen_qa_stream_auto_select_mode                 =	Balanced Mode
+
+am_setting_screen_qa_stream_quality_mode                     =	High Definition Mode
+
+am_setting_screen_qa_stream_speed_mode                       =	Speed Mode
+
+am_setting_screen_qa_switched_to                             =	Switch to {0}
+
+Avatar.Form.Title                                            =	Edit photo
+
+Business_RemoteControl_Lock_nosupport                        =	The controlled device is running below the Android 9.0 system, cannot use this function
+
+Call.Label.CallLog                                           =	Call History
+Call.Label.LoadFailed                                        =	Failed to load
+Call.Label.NoDeviceHintCall                                  =	View missed calls and other call history.
+Call.Label.SelectCall                                        =	Click a call history to view detailed info
+Call.Label.TemporarilyNoCallLog                              =	No Call History
+Call.Message.DeleteLog                                       =	Delete this call history: {0}?
+
+commom_get_free_premium                                      =	Get Free Premium
+
+Common.About                                                 =	About:
+Common.Accept                                                =	Accept
+Common.AddToDictionary                                       =	Add to dictionary
+Common.AirDroid                                              =	AirDroid
+Common.All                                                   =	All
+Common.Button.AutoClose                                      =	Auto close
+Common.Button.Close                                          =	Close
+Common.Button.Delete                                         =	Delete logs
+Common.Button.Maximize                                       =	Maximize
+Common.Button.Refresh                                        =	Refresh
+Common.Button.Restore                                        =	Restore down
+Common.Button.Save                                           =	Save
+Common.Cancel                                                =	Cancel
+Common.Click                                                 =	Get help
+Common.Columns.Size                                          =	Size
+Common.CommingSoon                                           =	Upcoming feature
+Common.Connect                                               =	Connect
+Common.ConnectFailed                                         =	Failed to connect
+Common.Copy                                                  =	Copy
+Common.CopyRight                                             =	©
+Common.Cut                                                   =	Cut
+Common.Dailog                                                =	Device
+Common.DataConnectFailed                                     =	Failed to connect to the AirDroid server, please check your network connection and try again later.
+Common.Day                                                   =	days
+Common.Delete                                                =	Delete
+Common.DeleteAll                                             =	Clear all
+Common.Deny                                                  =	Reject
+Common.DiscardSave                                           =	Don't save
+Common.EnterToSend                                           =	Press [Enter] to send
+Common.Error                                                 =	Error
+Common.File                                                  =	Files
+Common.Folder                                                =	Folder
+Common.Help                                                  =	Help Center:
+Common.Hour                                                  =	hours
+Common.HowBindingDevice                                      =	How to add a mobile device?
+Common.Ignore                                                =	Ignore
+Common.Info                                                  =	Notice
+Common.JustNow                                               =	Just now
+Common.Label.ColumnType                                      =	Type
+Common.Label.HowToAuth                                       =	How to grant AirDroid the permission?
+Common.Label.HowToTrustMe                                    =	Go to Settings > Installed apps > AirDroid > Manage permissions,\r\nand enable all permissions. Detailed steps may vary by device.
+Common.Label.ModifyDate                                      =	Modify date
+Common.Label.MyPhone                                         =	AirDroid
+Common.Label.Name                                            =	Name
+Common.Label.NoCallHistoryDataPermission                     =	No Call History or AirDroid can't access\r\nCall History. Please grant AirDroid\r\nthe permission and try again.
+Common.Label.NoCallHistoryPermission                         =	Permission required to access call logs. \r\nPlease enable Phone permission for AirDroid.
+Common.Label.NoContactDataPermission                         =	No Contact or AirDroid can't access\r\nContact. Please grant AirDroid\r\nthe permission and try again.
+Common.Label.NoContactPermission                             =	Permission required to access contacts. \r\nPlease enable Contacts permission for AirDroid.
+Common.Label.NoFilePermission                                =	No permission to access file system. \r\nPlease grant AirDroid storage permission\r\nand try again.
+Common.Label.NoSMSDataPermission                             =	No SMS or AirDroid can't access\r\nSMS. Please grant AirDroid\r\nthe permission and try again.
+Common.Label.NoSMSPermission                                 =	Permission required to access SMS. \r\nPlease enable SMS permission for AirDroid.
+Common.Label.PermissionDenied                                =	Please go to Settings > Apps > AirDroid > Permissions, and enable all permissions. \r\n<Link>Learn more</Link>
+Common.Label.PermissionDeniedWithLink                        =	Insufficient permissions. (<Link>View setting guide</Link>)
+Common.Label.PushDisconnectAndRetry                          =	Connection fails. <Retry>Retry</Retry>
+Common.Label.ReconnectingPush                                =	Reconnecting...
+Common.Label.ReconnectingPushDetail                          =	You may miss important notifications now. Reconnecting...
+Common.Label.ReconnectingPushTitle                           =	Server connection interrupted
+Common.Label.RemoteCameraPermissionDenied                    =	Please enabled "Camera" related permissions through "Me-Security & Remote Features" on phone's AirDroid.
+Common.Label.RemoteContactPermissionDenied                   =	Please enabled "Contacts" related permissions through "Me-Security & Remote Features" on phone's AirDroid.
+Common.Label.RemoteControlPermissionDenied                   =	Please enabled "Remote Control" related permissions through "Me-Security & Remote Features" on phone's AirDroid.
+Common.Label.RemoteFilePermissionDenied                      =	Please enabled "Files" related permissions through "Me-Security & Remote Features" on phone's AirDroid.
+Common.Label.RemotePermissionDenied                          =	Remote permissions disabled.
+Common.Label.RemoteSMSPermissionDenied                       =	Please enabled "Messages" related permission through "Me-Security & Remote Features" on phone's AirDroid.
+Common.Label.RemoteVirtualDisplayPermissionDenied            =	Please enabled "Screen Mirroring" related permission through "Me-Security & Remote Features" on phone's AirDroid.
+Common.Label.SendFileFromPhone                               =	New file: {0}
+Common.Lable.Size                                            =	Size:
+Common.Loading                                               =	Loading...
+Common.LoadingFailure                                        =	Failed to connect the device.\r\nPlease check the network and try again.
+Common.LoadingFailureGuide                                   =	Connection failed:\r\n1. Please check your network connection\r\nand try again.\r\n2. It's helpful to open AirDroid on your\r\ndevice and keep it running in the\r\nforeground.
+Common.LoadingFailureMin                                     =	Failed to load
+Common.LoadingFailureOneLine                                 =	Failed to connect the device. Please check the network and try again.
+Common.Login                                                 =	Sign In
+Common.Message.DataFlowInsufficient                          =	Your remote data quota is about to use up. Please upgrade to Premium to get unlimited data.
+Common.Message.ExitNoAccount                                 =	Are you sure you want to quit?
+Common.Message.FailToLoadFile                                =	Files Load Fail!
+Common.Message.OperationFailed                               =	Operation failed
+Common.Message.PermissionDenied                              =	Permission denied. Please go to Settings > Apps > AirDroid > Permissions, and enable all permissions. <Link>Learn more</Link>
+Common.Message.ReconnectPhoneFailed                          =	Connection failed. Check your network and try again later.
+Common.Message.RestartPhone                                  =	Reboot the device, gain the Root permission or request the Non-Root authority
+Common.Minute                                                =	mins
+Common.MinutesAgo                                            =	{0} mins ago
+Common.Missed                                                =	Missed
+Common.NeedLogin                                             =	Please sign in to continue
+Common.NewFolder                                             =	New Folder
+Common.No                                                    =	No
+Common.NoBindingDeviceContent                                =	Please add an Android device to continue.
+Common.NoBindingDeviceContentInFloating                      =	No device connected\r\n<Link>Add a device</Link>
+Common.NoBindingDeviceTitle                                  =	The feature is only supported with Android devices
+Common.NoHint                                                =	Don't show this again
+Common.NoSupportDeviceTitle                                  =	This feature is not supported with iOS.
+Common.OK                                                    =	OK
+Common.OpenFileDialog.PicFile                                =	Picture files
+Common.Paste                                                 =	Paste
+Common.PhoneOfflineGuide                                     =	Remote device failed connect to server: \r\n1.  Check your network connection and try again.  \r\n2. It's helpful to open AirDroid on your device and keep it running in the foreground.
+Common.PhotoAndVideo                                         =	Photos & Videos
+Common.Privilege                                             =	Gift
+Common.Processing                                            =	Processing
+Common.Redo                                                  =	Redo
+common.resend_email                                          =	Resend verification mail
+Common.Resume                                                =	Resume
+Common.Retry                                                 =	Retry
+Common.RotateFailure                                         =	Failed to rotate
+Common.Search                                                =	Search
+Common.Searching                                             =	Searching
+Common.Second                                                =	secs
+Common.SelectOneDevice                                       =	Select a device
+common.send_email                                            =	An email with a verification code was sent to
+Common.SendViaAirDroid                                       =	Send via AirDroid
+Common.StartUse                                              =	Get started
+Common.Stop                                                  =	Stop
+Common.TheDayBeforeYesterday                                 =	2 days ago
+Common.Today                                                 =	Today
+Common.Undo                                                  =	Undo
+Common.Update                                                =	Update:
+Common.Warning                                               =	Warning
+Common.WelcomeUpgrade                                        =	Welcome to {0}
+Common.Yes                                                   =	Yes
+Common.Yesterday                                             =	Yesterday
+
+Common_Accessibility_invalid_input                           =	You are tapping outside of the screen
+
+Common_Accessibility_permission_denied                       =	Accessibility permission has been disabled, please enable it
+
+Common_Accessibility_service_not_started                     =	Accessibility permission is no longer available on the remote device, please re-enable it.
+
+Common_account_Email_Need_Verify                             =	*We need to verify your email, please enter a valid one
+
+Common_account_verification_code_input                       =	Enter Verification Code
+
+Common_account_verification_error_invalid                    =	Invalid verification code
+
+Common_account_verification_modify                           =	Change verify email
+
+Common_account_verification_next                             =	Next
+
+Common_account_verification_title                            =	Verify email
+
+Common_ad_pc_quick_nonroot_exit                              =	Are you sure you want to quit Non-Root setup?
+
+Common_ad_permission_voice_title                             =	One-Way Audio
+
+Common_airmirror_openvoice_fail                              =	Failed to activate
+
+Common_Airmirror_voice_error_tip_1                           =	Failed to mirror device screen
+
+Common_Airmirror_voice_error_tip_2                           =	. You can:
+
+Common_Airmirror_voice_error_tip_3                           =	\r\n1. Click Retry to try again. \r\n2. Switch to General Mode. \r\n(“One-Way Audio” is not supported under General Mode)
+
+Common_Airmirror_voice_error_tip2                            =	Failed to mirror device screen.\r\nYou can: \r\n1. Click Retry to try again. \r\n2. Switch to General Mode.
+
+Common_Airmirror_voice_notsupt_feedback                      =	Your device (this computer) is not support One-Way Audio. Please feedback to us, we'll help you to solve your problems soon.
+
+Common_Airmirror_voice_notsupt_toast                         =	“One-Way Audio” is not supported under General Mode.
+
+Common_AndroidQDontSupportToutch_Tip                         =	You are using a higher Android version. You may only view your device screen while remote control is unavailable.
+
+Common_back                                                  =	Back
+
+Common_biz_access_limit_dev_connect                          =	Restricted Access is turned on at the controlled device, to remote access, please tap "Accept" on the device or turn off Restricted Access
+
+Common_biz_access_limit_dev_reject                           =	Failed to connect the controlled device. Restricted Access is turned on at the controlled device and refused your request
+
+Common_biz_access_limit_dev_timeout                          =	Failed to connect the controlled device. Restricted Access is turned on at the device and did not answer your request
+
+common_biz_setting_airmirror345_hint                         =	Faster connection speed, lower frame rate, lower data consumption.
+
+common_biz_setting_stream_hint                               =	Compatible for acquiring remote sound. To reduce lag, the system will auto-adjust the display quality based on the network conditions.
+
+Common_camera_start_failed_title                             =	Failed to access device camera
+
+Common_clear_all                                             =	Clear all
+
+Common_colon                                                 =	:
+
+Common_copyright_info                                        =	© 2022 Sand Studio
+
+Common_dialpad_bulk                                          =	Queued Dialing
+
+Common_dialpad_bulk_bubble_tips                              =	Click to start
+
+Common_dialpad_bulk_content1                                 =	With Queue Dialing, you can import dozens of phone numbers at once. The system will auto-dial them in sequence.
+
+Common_dialpad_bulk_content2                                 =	##Please input the contact information in the following format. We'll generate a list automatically.\r\n##Format: Phone number (You DO NOT need to input "##" ahead)\r\n##\r\n##Here's an example:\r\n##2703424444\r\n##270-234-3333\r\n##\r\n##Note: \r\n##Input only one phone number for each line; please enter the next phone number in the next line.\r\n##The format supports: numeric, #, *, -, +, () in the phone number. Other characters will cause that line to be invalid.\r\n##You can start input here:
+
+Common_dialpad_call                                          =	Make call
+
+Common_dialpad_call_cancel                                   =	Cancel
+
+Common_dialpad_call_end                                      =	Call ended
+
+Common_dialpad_call_fail                                     =	Failed to make call
+
+Common_dialpad_calling                                       =	Calling
+
+Common_dialpad_content                                       =	Enter the phone number
+
+Common_dialpad_dialing                                       =	You're currently in a call, failed to make another
+
+Common_dialpad_duration                                      =	Duartion {0}
+
+Common_dialpad_empty_content                                 =	Clear all imported phone numbers?
+
+Common_dialpad_feedback_content1                             =	Hi, any feedback about dialpad? We're glad to hear the voice from you, we care about your opinions.
+
+Common_dialpad_feedback_content2                             =	Tell us your opinion or advice for this feature
+
+Common_dialpad_feedback_error1                               =	Tell us more about your opinion
+
+Common_dialpad_feedback_error2                               =	Failed to submit, please retry
+
+Common_dialpad_feedback_success                              =	Submitted! We'll value and look into it soon.
+
+Common_dialpad_hangup_fail                                   =	Current device type does not support end the call remotely. Please end the call manually on the device.
+
+Common_dialpad_noconnect                                     =	No answered
+
+Common_dialpad_nonephone                                     =	Phone number is empty or invalid
+
+Common_dialpad_nonetwork                                     =	Failed to connect, please confirm remote device network condition
+
+Common_dialpad_nosupport                                     =	Current device is unable to make a call
+
+Common_dialpad_permission_title                              =	You haven't grant permission of "Phone" or "Display over other apps"
+
+Common_dialpad_Redial                                        =	Restart Queued Dialing? Previous call logs will be cleared.
+
+Common_dialpad_setting                                       =	Call interval
+
+Common_dialpad_status                                        =	Next in queue
+
+Common_dialpad_title                                         =	Dialpad
+
+Common_dialpad_update_content                                =	Remote device's AirDroid version is too low to use dialpad. Please update to the latest version.
+
+Common_dialpad_update_title                                  =	Update AirDroid to the latest version
+
+Common_dialpad_vip1                                          =	Dialpad is only available under the local network for free users. If you want to connect your PC and device using different networks, please upgrade to Premium.
+
+Common_dialpad_vip2                                          =	Queued Dialing is an exclusive feature for Premium users. With Queue Dialing, you can import dozens of phone numbers at once. The system will auto-dial them in sequence.
+
+Common_disconnect_tip                                        =	Disconnected due to other user's network issue.
+
+Common_disconnect_title                                      =	Disconnected due to other user's network issue. Click "Retry" to connect.
+
+Common_externalSD_Android10_tip                              =	Please grant SD card full access permission to AirDroid if you want to make any changes to the files(upload or edit) stored on your SD card. (Open AirDroid on your Android, go to Tools -> Files -> SD Card.)
+
+Common_externalSD_new_allow_button                           =	Tap "ALLOW"
+
+Common_externalSD_new_new_title                              =	Please grant SD card full access permission to AirDroid if you want to make any changes to the files(upload or edit) stored on your SD card.
+
+Common_externalSD_new_tip                                    =	*Please follow the guide display on your device and tap [SELECT "SD CARD"] if you've tapped "DENY" and ticked "Don't ask again".
+
+Common_feedback                                              =	Feedback
+
+Common_gotit_tip                                             =	Got it
+
+Common_login_DeviceVerify_Text                               =	You are logging into a new device and will require device verification. A message has been sent to {0} for validation purposes.
+
+Common_login_DeviceVerify_Title                              =	Verification Needed
+
+Common_no_empty_tips                                         =	Content cannot be empty!
+
+Common_nonroot_setup_again                                   =	How to regrant the Non-Root permission if the permission is revoked?
+
+Common_NoSupportAndroidQ_Tip                                 =	You're using a higher Android version, current feature is unavailable on current device.
+
+Common_OpenAudioPlay_PermissionDenied                        =	Your device "Microphone" permission is unavailable, please go to "AirDroid-Me-Security & Remote Features" and tap corresponding feature to enable it.
+
+Common_OpenAudioPlay_RemoteAccessDenied                      =	Your device "One-Way Audio" function is off, please go to "AirDroid-Me-Security & Remote Features" and tap corresponding feature to enable it.
+
+Common_RemoteControl_nonroot_login                           =	Non-Root Setup
+
+Common_RemoteMode_Option                                     =	Dynamic Mode|General Mode
+
+Common_rename_empty                                          =	Device name cannot be empty!
+
+Common_rename_fail                                           =	Failed to rename
+
+Common_rename_formatfailed                                   =	Name cannot include following characters: \ / : * “<> | ‘ & ?
+
+Common_rename_ios                                            =	Device rename is not support for iOS devices ()
+
+Common_rename_success                                        =	Successfully renamed
+
+Common_rename_toolong                                        =	The device name could not be more than {0} characters.
+
+Common_send_shortcut_enter                                   =	Press “Enter” to send
+
+Common_send_shortcut_enter_ctrl                              =	Press "Ctrl + Enter" to send
+
+Common_Setting_UseStream_Button                              =	Connection Mode:
+
+Common_submit                                                =	Submit
+
+Common_SwitchToSimple_Button                                 =	Switch to General Mode
+
+Common_system_permission_disabled                            =	Permission Not Granted
+
+Common_unknow                                                =	Unknown
+
+common_UpdateToAdvanced_title                                =	AirDroid Premium Membership Features
+
+common_UpdateToAdvanced_voice                                =	One-Way Audio allows you to listen to device surroundings through the device microphone.
+
+Common_WaitMicrophoneAuthorize_Tip                           =	Waiting to grant Microphone permission...
+
+Components.ImageView.Label.Current                           =	Picture :
+Components.ImageView.Label.Location                          =	Path: {0}
+
+Connect.Status.Data                                          =	(Cellular)
+Connect.Status.LAN                                           =	Local
+Connect.Status.OffLine                                       =	Offline
+Connect.Status.WAN                                           =	Remote
+Connect.Status.Wifi                                          =	(Wi-Fi)
+
+Contact.Button.ShowAll                                       =	All contacts
+Contact.Button.ShowWithNumber                                =	Contacts with number
+Contact.Label.Contact                                        =	Contact
+Contact.Label.LoadFailure                                    =	Failed to load.
+Contact.Label.NoContact                                      =	No Contact
+Contact.Label.NoDeviceHintContact                            =	Manage phone contacts on computer.
+Contact.Label.NoSearchContact                                =	No contact found
+Contact.Label.SelectContact                                  =	Select a contact
+
+Dial_AddToList_Tip                                           =	The phone number has been added to queued dialling list
+
+Dialpad_vip3                                                 =	A call is making on the current device. Upgrade to AirDroid Premium to use Queued Dialing feature.
+
+Download.Button.Pause                                        =	Pause
+Download.Button.Start                                        =	Start
+Download.Label.Failed                                        =	Failed
+Download.Label.Operate                                       =	Actions
+Download.Label.Progress                                      =	Progress
+Download.Message.AreYouSureDeleteTask                        =	Are you sure you want to delete the task?
+Download.Message.DownloadFailed                              =	Failed to download
+Download.Message.InOperation                                 =	Processing...
+Download.Message.UploadFailed                                =	Failed to upload
+
+Email.Button.DontRemindMe                                    =	Don't show this again
+Email.Button.New                                             =	Send a new one
+Email.Button.Send                                            =	Send
+Email.Button.UseNow                                          =	Try now
+Email.Label.AddAttachment                                    =	<Link>Add a file</Link> (Size limit: {0})
+Email.Label.Content                                          =	Content:
+Email.Label.EmptyEmail                                       =	Please specify a recipient
+Email.Label.FailedToSend                                     =	Failed to send. Please try again.
+Email.Label.FailedToUpload                                   =	Failed to upload. <Retry>Try again</Retry>
+Email.Label.NoAttachment                                     =	Please add a file or enter your message.
+Email.Label.SendLargeFileDetail                              =	Failed to email photos, party videos as attachment? AirDroid now allows you to email files of any size to your friends. The email message your friends receive will contain the files' private downloadable links that are valid for 7 days.
+Email.Label.SendLargeFileTitle                               =	Share large files with friends
+Email.Label.SendSuccessfully                                 =	Sent successfully.
+Email.Label.Subject                                          =	Subject:
+Email.Label.To                                               =	To:
+Email.Label.UploadSuccessfully                               =	Uploaded
+Email.Message.ConfirmCancel                                  =	Discard the draft?
+
+Feedback.Form.Title                                          =	Feedback
+Feedback.Label.FailAndRetry                                  =	Failed to load. <Link>Retry</Link>
+
+File.Button.AddFriend                                        =	Add friends
+File.Button.AddToFavorite                                    =	Add to Favorites
+File.Button.AirMirror                                        =	Remote Control
+File.Button.Auth                                             =	Done
+File.Button.BuyMoreDevice                                    =	upgrade devices quota
+File.Button.DownloadToPC                                     =	Download
+File.Button.Friends                                          =	Friends
+File.Button.GetClipBoard                                     =	Copy text from phone's clipboard to computer
+File.Button.GoPremium                                        =	Upgrade
+File.Button.GoUp                                             =	Go up
+File.Button.HowToStartBonjour                                =	How to start?
+File.Button.InstallBonjour                                   =	Install
+File.Button.My                                               =	Contacts
+File.Button.MyDevice                                         =	My devices
+File.Button.Neibour                                          =	Nearby
+File.Button.Next                                             =	Next
+File.Button.OpenInFolder                                     =	Open in folder
+File.Button.Previous                                         =	Prev
+File.Button.RealSize                                         =	Actual size
+File.Button.RemoveFromFavorite                               =	Remove from Favorites
+File.Button.RotageLeft                                       =	Counterclockwise
+File.Button.RotageRight                                      =	Clockwise
+File.Button.SaveAndClose                                     =	Save and close
+File.Button.SaveAndContinue                                  =	Save
+File.Button.ScaleSize                                        =	Actual size
+File.Button.ScreenShot                                       =	Screenshot
+File.Button.SendByEmail                                      =	Send via email
+File.Button.SendFile                                         =	Send file
+File.Button.SendFolder                                       =	Send folder
+File.Button.SendLog                                          =	Send logs
+File.Button.SendMailAddFriend                                =	Add friends
+File.Button.SendMessage                                      =	Message
+File.Button.SetClipBoard                                     =	Copy text from computer's clipboard to phone
+File.Button.Skip                                             =	Skip
+File.Button.SkipAuth                                         =	Later
+File.Button.StartSearch                                      =	Search
+File.Button.StopAll                                          =	Stop all
+File.Button.StopSearching                                    =	Click to close search
+File.Button.TogetherAirDroidHint                             =	Enjoy AirDroid together
+File.Button.UploadFiles                                      =	Upload files
+File.Button.UploadToDevice                                   =	Upload
+File.Button.ZoomIn                                           =	Zoom in
+File.Button.ZoomOut                                          =	Zoom out
+File.CheckBox.MatchCase                                      =	Case sensitive
+File.Label.AddFriendFailed                                   =	Failed to add. Please try again.
+File.Label.AirCloud                                          =	Backup
+File.Label.AlreadyFriend                                     =	Already in your friend list.
+File.Label.AlterNicknameFailure                              =	Failed to change the nickname
+File.Label.AlterNicknameHint                                 =	A nickname helps your friends find you faster.
+File.Label.BonjourNotInstalled                               =	Bonjour service not installed
+File.Label.CantFindNearbyDevice                              =	Cannot find other devices?
+File.Label.CantFindNearbyDeviceDetailGuide                   =	Invite the other one to open AirDroid on their device, go to "Nearby", and tap to search. Their device needs to connect to the LAN network in order to be discovered. <detail>View details</detail>
+File.Label.CheckingDevicesInLAN                              =	Only devices in the same LAN network will be available.
+File.Label.ChooseAFriend                                     =	Select a friend
+File.Label.CurrnetLocation                                   =	Current location: {0}, column ({1}/{2})
+File.Label.DateNotExist                                      =	Path doesn't exist
+File.Label.DeleteMessages                                    =	Select to delete
+File.Label.DeletingFiles                                     =	Deleting files...
+File.Label.Downloading                                       =	Downloading : {0}
+File.Label.DownLoadPrepare                                   =	Preparing to download...
+File.Label.DropFile                                          =	Drop files here or click to transfer.
+File.Label.EmptyRecvFile                                     =	No transfer log yet
+File.Label.ExtSDAuthFail                                     =	Authorization failed
+File.Label.ExtSDAuthStep1                                    =	Open AirDroid on your Android, go to Tools -> Files -> SD Card
+File.Label.ExtSDAuthStep2                                    =	Tap Select SD card on the bottom
+File.Label.FileManagement                                    =	Files
+File.Label.FileTransfer                                      =	File Transfer
+File.Label.HomePage                                          =	Home
+File.Label.InputFriendEmail                                  =	Enter friend's email:
+File.Label.InstallBonjourGuide                               =	Please install Bonjour\r\nservice to find other\r\ndevices on your network.
+File.Label.LollipopExtSDAuthGuide                            =	Your device is running Android 5.0+, to edit files on external SD card, please tell AirDroid the external SD card path on the phone as follows.
+File.Label.LollipopExtSDAuthTitle                            =	Authorize external SD card access
+File.Label.NoDeviceRow                                       =	No devices connected
+File.Label.NoFriend                                          =	Add a friend to start
+File.Label.NoFriendHint                                      =	You haven't added any friends yet.
+File.Label.NoFriendInfo                                      =	Transfer files with your friends in\r\na super fast way. Add a friend to start.
+File.Label.NoFriendInfoInFloating                            =	Transfer files with your friends in a super\r\nfast way. Add a friend to start.
+File.Label.NoNearbyHint                                      =	No other AirDroid user on your local LAN network now. Tell your friends about AirDroid to enjoy fast file transfer.
+File.Label.NoSearchItem                                      =	No results matching your search
+File.Label.PhotoManagement                                   =	Photos
+File.Label.RecvFile                                          =	Transfer logs
+File.Label.RemoveFriendFailed                                =	Failed to remove {0}.
+File.Label.RetryLoadImage                                    =	Failed to load photos <Link>Try again</Link>
+File.Label.Search                                            =	Search:
+File.Label.Searching                                         =	Searching for nearby devices...
+File.Label.SearchingInNetwork                                =	Searching for devices connected under the LAN mode
+File.Label.SearchingTip                                      =	You can send files to other AirDroid users on the same LAN network here, safe and fast.
+File.Label.SearchNearbyDeviceInFloating                      =	Searching... Only devices in the same LAN network will be available.
+File.Label.SendAddFriendRequest                              =	Friend request sent. Waiting for confirmation.
+File.Label.SendByEmailDetail                                 =	Send files to your friends via Email as a downloadable link. Files will be available for 7 days and then deleted from AirDroid servers.
+File.Label.StartBonjourFailed                                =	Failed to start Bonjour service.
+File.Label.TransferList                                      =	File transfer list
+File.Label.Uploading                                         =	Uploading : {0}
+File.Label.UploadPrepare                                     =	Preparing to upload...
+File.Label.UseScreenShot                                     =	(Screen Mirroring)
+File.Label.Waiting                                           =	Wait to Upload...
+File.Label.WaitingForVerify                                  =	Pending
+File.Lable.AddAccountToFriend                                =	Send a friend request to {0}?
+File.Lable.AddFriendInfo                                     =	Friends can share files with each other over Internet.
+File.Lable.AlreadyFriend                                     =	You've already added this person before.
+File.Lable.FriendNotVerified                                 =	Your friend request is waiting for confirmation.
+File.Lable.NeibourTransferSingleSubMsg                       =	A nearby device ({0}) is trying to send {1} ({2}) to you. Accept?
+File.Lable.NeibourTransferSubMsg                             =	A nearby device ({0}) is trying to send {1} files ({2}) to you. Accept?
+File.Lable.NoDeviceHintFile                                  =	Transfer files between mobile device and computer.
+File.Lable.RecentSessions                                    =	Recent
+File.Lable.RemoveFriend                                      =	Remove {0} from your friend list?
+File.Lable.RemoveFriendInfo                                  =	You can't send files/messages to each other once removed.
+File.Lable.SearchEmptyDevice                                 =	No matching devices.
+File.Lable.SearchEmptyFriend                                 =	No matching friends.
+File.Lable.Transfering                                       =	Transferring
+File.Lable.VerifyFriend                                      =	{0} <{1}> sent you a friend request.
+File.Menu.CopyPath                                           =	Copy path
+File.Menu.PasteFromPC                                        =	Paste from computer
+File.Menu.PasteFromPhone                                     =	Paste from phone
+File.Menu.Rename                                             =	Rename
+File.Menu.SearchCurrentFolder                                =	Current folder
+File.Menu.SearchSubFolder                                    =	Current folder and sub folders
+File.Menu.UploadFolder                                       =	Upload a folder
+File.Menu.UseInternalTextEditor                              =	Edit
+File.Message.AddFavSuccessed                                 =	Selected items added to Favorites successfully
+File.Message.AddFriendTooFrequently                          =	You've already invited him/her today. You can try again tomorrow.
+File.Message.AddMyFavSuccessed                               =	{0} added to Favorites successfully.
+File.Message.AlwaysAccept                                    =	Always accept
+File.Message.AutoReceiveFile                                 =	{1} files ({2}) sent from {0}
+File.Message.CannotAddMyselfToFriend                         =	You can not add yourself.
+File.Message.CheckIfDelete                                   =	Are you sure you want to delete the {0} selected items?
+File.Message.CheckIfRemoveFromFavorite                       =	Are you sure you want to unfavorite the selected item(s)?
+File.Message.CloudSingeFileSpaceNotEnough                    =	File size cannot exceed {0} by remote transfer.
+File.Message.ConnectingDevice                                =	Connecting...
+File.Message.DeleteAllPromote                                =	Clear all logs?
+File.Message.DeleteFile                                      =	Delete the logs?
+File.Message.DeleteFileInEditor                              =	Are you sure to delete file "{0}"?
+File.Message.DirectoryInUsed                                 =	The file "{0}" in folder "{1}" is in use. Please close it and then try again.
+File.Message.DownloadStopped                                 =	Downloading stopped
+File.Message.DownloadSuccess                                 =	"{0}" downloaded successfully
+File.Message.EmptyMessage                                    =	Content cannot be empty
+File.Message.EnableSendFolder                                =	Please upgrade to Premium to get the folder transfer feature
+File.Message.ExitWithFileTransfering                         =	Some tasks are still in progress. Are you sure you want to leave?
+File.Message.FileCount                                       =	{0} files/folders
+File.Message.FileExportFailure                               =	Failed to download "{0}" due to network issues.
+File.Message.FileExportFailurePermission                     =	Failed to download "{0}".
+File.Message.FileExsited                                     =	The file is already in the list!
+File.Message.FileInUsed                                      =	The file "{0}" is in use. Please close it and then try again.
+File.Message.FileNameTooLong                                 =	File name cannot exceed 50 characters.
+File.Message.FileNotExisted                                  =	File does not exist
+File.Message.FileOpening                                     =	File {0} is already opened and cannot be opened again.
+File.Message.FileSearching                                   =	Searching folder {0} ...
+File.Message.FileUploadSucceed                               =	Files successfully uploaded.
+File.Message.FolderCannotUploadToCloud                       =	Folder not supported by remote transfer yet.
+File.Message.FreeFileSizeNotEnough                           =	File size cannot exceed {0} by remote transfer.\r\nUpgrade to AirDroid Premium to raise the limit to {1}.
+File.Message.FriendCannotSendDirectory                       =	It's not supported to send folder to a friend yet
+File.Message.HasFailed                                       =	Transfer not completed
+File.Message.ImageInUsed                                     =	The image "{0}" is in use.
+File.Message.InviteFriend                                    =	{0} is not registered. Send invitation via email?
+File.Message.IsUsingCloud                                    =	The device {0} is offline (Or connect with different network with PC), \r\n Try remote transfer, files will be available for download for 7 days. \r\n Clicking "Yes" you agree to <Link>{1}</Link>.
+File.Message.ItemCount                                       =	{0} item(s) in total
+File.Message.KitkatExtSDWarning                              =	Due to system restrictions of Android 4.4, some operations like uploading, deleting and creating new files on the external SD card may not be supported.
+File.Message.KitkatExtSDWarningTitle                         =	External SD card access might be restricted
+File.Message.ListOfDeleteFailure                             =	Failed to delete due to network issues
+File.Message.ListOfDeleteFailurePermission                   =	Failed to delete.
+File.Message.LoadFailed                                      =	Failed to fetch files due to network issues, please <refresh>refresh</refresh>.
+File.Message.LoadFolderPermission                            =	Failed to fetch files due to network or permission issues. Please <refresh>refresh</refresh> or grant permissions.\r\n<authorize>View how to authorize</authorize>
+File.Message.MaxEmailAttachment                              =	Please add no more than 128 attachments.
+File.Message.ModifyRemarkFailed                              =	Failed to add alias.
+File.Message.MultiNotSupport                                 =	Bulk operation not supported
+File.Message.NewFolderFailure                                =	Failed to create new folders due to network issues.
+File.Message.NewFolderFailurePermission                      =	Failed to create new folder.
+File.Message.NoFileTransfering                               =	No file/folder transfer in progress
+File.Message.NoNextImage                                     =	Last photo
+File.Message.NoPrevImage                                     =	First photo
+File.Message.NoSupportEncoding                               =	Files save failed, the files format can't be support yet.
+File.Message.NotContainSpecialChar                           =	The following characters are not allowed in file name: \r\n\ / : " * ? < > |
+File.Message.NotSupportVideoPreview                          =	Video preview not supported yet.
+File.Message.PasteFailure                                    =	Failed to paste due to network issues.
+File.Message.PasteFailureGeneral                             =	Failed to paste the files
+File.Message.PasteFailurePermission                          =	Failed to paste.
+File.Message.PasteToSub                                      =	"{0}" cannot be copied to its subfolder
+File.Message.PathNoExist                                     =	Path [{0}] doesn't exist.
+File.Message.Privacy                                         =	Privacy Policy
+File.Message.RememberMyChoice                                =	Remember my choice
+File.Message.RemoteFreeFileSizeNotEnough                     =	File size cannot exceed {0} by remote transfer.\r\nRaise the limit to {1} by upgrading to Premium.
+File.Message.RemoteShareToSNS                                =	File size cannot exceed {0} by remote transfer.\r\nRaise the limit to {1} by upgrading to Premium.
+File.Message.RemoteSingeFileSpaceNotEnough                   =	Size for single file cannot exceed {0} in Remote Connection Mode.
+File.Message.RemoveAllRecvRecord                             =	Clear all logs?
+File.Message.RemoveFavSuccessed                              =	Removed from Favorites
+File.Message.RemoveMyFavSuccessed                            =	{0} is removed from Favorites
+File.Message.RenameDuplication                               =	Failed to rename. A file/folder with the same name already exists here.
+File.Message.RenameFailure                                   =	Failed to rename due to network issues.
+File.Message.RenameFailurePermission                         =	Failed to rename.
+File.Message.RotateFailure                                   =	Failed to rotate due to network or permission issues.
+File.Message.RotateFailureGeneral                            =	Failed to rotate due to file non-existence or permission issues.
+File.Message.SaveFailedNetwork                               =	Failed to save to device due to network or permission issues.
+File.Message.SaveFileToDevice                                =	Are you sure to save the modified on"{0}"?
+File.Message.SaveSucceed                                     =	Successfully saved
+File.Message.SaveToPCOfDisconnection                         =	Sorry, the device is disconnected. Do you want to save it to the computer?
+File.Message.SaveToPhoneFailure                              =	Sorry, failed to save it.
+File.Message.Saving                                          =	Saving
+File.Message.SendFriendRespFail                              =	Failed to process the friend request from {0}. Click here to check it in Notification center.
+File.Message.SendLogToAirDroidTeam                           =	Send logs to AirDroid Team?
+File.Message.ShareToSNS                                      =	File size cannot exceed {0} by remote transfer.\r\nYou can raise the limit to {1} by upgrading to Premium.
+File.Message.SourceAndTargetWithSameName                     =	Source and target names are of the same
+File.Message.StartToReceiveFile                              =	Receiving files...
+File.Message.Stop                                            =	Once stopped, you would need to start over with the uncompleted tasks.
+File.Message.StorageNotEnough                                =	Transfer of "{0}" failed due to insufficient storage.
+File.Message.SystemFileNoPermission                          =	No permission to read.
+File.Message.SystemFileWarning                               =	1. Modifying or deleting system files may cause system error, please be cautious.\r\n2. Operations on some system files may fail due to unpredictable file permissions.
+File.Message.TwitterShare                                    =	AirDroid lets you send files to your computers, friends, and nearby devices, without USB cable.
+File.Message.TwitterShareDownload                            =	Google Play: {0}
+File.Message.TwitterShareWebSite                             =	Website: {0}
+File.Message.UnsupportRotationFormat                         =	Cannot rotate photo in {0} format. Only JPG (JPEG) is supported.
+File.Message.UploadStopped                                   =	Uploading stopped
+File.Message.UploadSuccess                                   =	"{0}" uploaded successfully
+File.Messgae.NotPerssionForFolder                            =	Failed to upload "{0}".
+File.Messgae.UploadFailedNetwork                             =	Failed to upload "{0}" due to network issues.
+File.OpenFileDialog.SelectFile                               =	Select Files
+File.Text.SearchFilesTip                                     =	Press Enter to search
+File.TreeNode.FileSearchResult                               =	Search result
+File.TreeNode.MyFavorite                                     =	Favorites
+
+File_Message_ExtSD_Upload_Failed                             =	Failed to upload. No write permission to external SD card.
+
+FileManagement.Label.NoDeviceHintFileManagement              =	Manage device files on the computer
+
+Flating.Button.HideFlatingButton                             =	Hide the widget once
+Flating.Button.HideFlatingButtonAlways                       =	Hide the widget forever
+Flating.Button.MarginConceal                                 =	Auto-fold at the edge of screen
+Flating.Button.TopMost                                       =	Always on top
+Flating.Button.Transparency                                  =	opacity
+Flating.Button.TransparencyNo                                =	Fully opaque
+
+Floating.Button.Friends                                      =	Friends
+Floating.Button.My                                           =	Devices
+Floating.Button.Neibour                                      =	Nearby
+Floating.Button.Notify                                       =	Notifs
+Floating.Label.InstallBonjourGuide                           =	Bonjour service is required\r\nto find other devices in your network.
+Floating.Lable.DragAndDropFile                               =	Drag && Drop files to\r\nthe widget to send
+Floating.Message.DisableSilentMode                           =	Mute Notifications - ON
+Floating.Message.EnableSilentMode                            =	Mute Notifications - OFF
+
+Game.Label.Game                                              =	Recommended games
+
+ImageView.Message.RotateFailure                              =	Failed to save to device due to network or permission issues.
+ImageView.Message.UnsupportRotation                          =	Failed to save to device as the AirDroid Android client version is too old. Please check for update.
+ImageView.Message.UnsupportRotationFormat                    =	Cannot save photo in {0} format. Only JPG (JPEG) is supported.
+
+Login.Authorization                                          =	AirDroid SNS authorization
+Login.Button.AgainExamine                                    =	Done
+Login.Button.AirDroidWeb                                     =	AirDroid Web
+Login.Button.AuthenticatingLogin                             =	Authenticating...
+Login.Button.AuthenticatingRegister                          =	Signing up...
+Login.Button.BindingDevice                                   =	Done
+Login.Button.BindingDeviceLater                              =	Exit and remind me next time
+Login.Button.CheckUpdate                                     =	Check for update
+Login.Button.ClearAllNotificationPop                         =	Clear all notifications
+Login.Button.CloseNextTime                                   =	Exit and remind me next time
+Login.Button.Exit                                            =	Exit
+Login.Button.FastTransfer                                    =	Fast Transfer
+Login.Button.ForgetPassword                                  =	Forgot password?
+Login.Button.GoNoNextTime                                    =	Remind me next time
+Login.Button.HasVerified                                     =	Verified
+Login.Button.iSee                                            =	OK
+Login.Button.logout                                          =	Sign out
+Login.Button.OpenMainWindow                                  =	Open AirDroid
+Login.Button.OpenVNC                                         =	Remote Control
+Login.Button.ReConnect                                       =	Reconnect
+Login.Button.Register                                        =	Sign up
+Login.Button.ReLogin                                         =	Sign in
+Login.Button.ShowFloatingFrom                                =	Show widget
+Login.Button.SilentMode                                      =	Mute Notifications
+Login.Button.UpdateDevice                                    =	Update now
+Login.Button.VerifyNow                                       =	Verify now
+Login.Checkbox.AutoLogin                                     =	Stay signed in
+Login.Label.AccountPasswordFailed                            =	The email or password is incorrect.
+Login.Label.AddBeta                                          =	Join Beta community
+Login.Label.AddDevice                                        =	Add a Device
+Login.Label.AddDeviceContext                                 =	No device found with your account. Please add a device to continue.
+Login.Label.AlreadyInstall                                   =	Installed already
+Login.Label.ChooseUnbindDevices                              =	Please kick the devices you want to remove:
+Login.Label.Code                                             =	Verification code
+Login.Label.ConnectServerFailed                              =	Failed to connect to the server
+Login.Label.DirectDownloadAPK                                =	Download APK
+Login.Label.DownloadAndroidPCBateTitle                       =	Please update AirDroid on your Android device to match the desktop version (beta), or you may encounter errors.
+Login.Label.DownloadAndroidPCChinaDiscussion                 =	Join discussions of new features in our QQ group: {0}
+Login.Label.DownloadAndroidPCDiscussion                      =	Join discussions of new features: {0}
+Login.Label.DownloadAndroidTitle                             =	Please update AirDroid on your Android device to match the desktop version, or you may encounter errors.
+Login.Label.DownloadAPK                                      =	Download Now
+Login.Label.DownloadPCAndroidBateTitle                       =	Please update AirDroid to match the beta version installed on your Android device, or you may encounter errors.
+Login.Label.DownloadPCBate                                   =	Update to Beta
+Login.Label.Email                                            =	Email
+Login.Label.EmailExist                                       =	The email address is already registered
+Login.Label.EmailFormatFailed                                =	Invalid email address
+Login.Label.EnterEmail                                       =	Please enter email
+Login.Label.EnterPassword                                    =	Please enter password
+Login.Label.EnterVerificationCode                            =	Please enter verification code
+Login.Label.EulaPrivacyPolicy                                =	I agree to <eula>EULA</eula> && <privacy>Privacy Policy</privacy>.
+Login.Label.FailedCountNimiety                               =	Too many failed attempts. Please try again in 10 minutes.
+Login.Label.FailedToLogin                                    =	Failed to sign in.
+Login.Label.Function1                                        =	Method 1
+Login.Label.Function2                                        =	Method 2
+Login.Label.Function3                                        =	Method 3
+Login.Label.HoldDevices                                      =	Please kick to remove at least {0} devices
+Login.Label.HowToAddDevice                                   =	How to add a device
+Login.Label.HowUpdateDevice                                  =	How to update to AirDroid 3
+Login.Label.HowUpdateDeviceIntroduce1                        =	Check for update in AirDroid.
+Login.Label.HowUpdateDeviceIntroduce2                        =	Update from Google Play.
+Login.Label.HowUpdateDeviceIntroduce3                        =	Download the APK by scanning\r\nthe QR code.
+Login.Label.InterfaceAstrict                                 =	Too many sign up attempts. Please take a break.
+Login.Label.IntroducePage1Content                            =	Delight Your Multi-Screen Life
+Login.Label.IntroducePage2Content                            =	Calls, SMS, and the app notifications you allowed,\r\nmirrored to the large computer screen you are focusing on.
+Login.Label.IntroducePage2Title                              =	Better focused
+Login.Label.IntroducePage3Content                            =	Type with full physical keyboard and control with mouse.\r\nTransfer things faster without looking for a cable.\r\nBetter equipments, better life.
+Login.Label.IntroducePage3Title                              =	Better equipped
+Login.Label.IntroducePage4Content                            =	Remote Control, a brand new way of interacting between PC/Mac and\r\nyour Android. Your Android, right on your computer, right now.
+Login.Label.IntroducePage4Title                              =	Better connected
+Login.Label.InvalidNickname                                  =	Nickname contains invalid characters or words.
+Login.Label.InvalidToken                                     =	Please sign in again for account security.
+Login.Label.KnockOut                                         =	You're signed out as the account is signed in on another computer at {0}.\r\n \r\nNot done by you? You can<password> change password</password> or <log>view details</log>.
+Login.Label.Logout                                           =	Are you sure you want to sign out?
+Login.Label.MaxDeviceLimit                                   =	No more devices can be connected
+Login.Label.NeedNickname                                     =	Please set a nickname.
+Login.Label.NeedPwd                                          =	For extra security, set a 2-step verification password.
+Login.Label.NetworkDisconnected                              =	Server connection interrupted and you may miss important notifications. Please check your network.
+Login.Label.NetworkDisconnectedTitle                         =	Server connection interrupted
+Login.Label.Nickname                                         =	Nickname
+Login.Label.NicknameFormatFailed                             =	The nickname should not contain: \ / : * “<> | ‘ &&
+Login.Label.NicknameWithin15                                 =	Nickname should be no more than 15 characters
+Login.Label.NoBindingDevice                                  =	No device found with this account
+Login.Label.OnPublicComputer                                 =	Only check this on trusted computer.
+Login.Label.Or                                               =	or
+Login.Label.Password                                         =	Password
+Login.Label.PasswordChanged                                  =	Your password has been changed at {0}. Please sign in again.
+Login.Label.PasswordEmpty                                    =	Please enter password
+Login.Label.PasswordFormatFailed                             =	Password must contain at least 8 characters,\r\nincluding a number and a letter.
+Login.Label.PasswordVerificationFailed                       =	Password is incorrect
+Login.Label.PremiunExpired                                   =	Your premium subscription has expired
+Login.Label.Ready                                            =	AirDroid is ready and minimized here.
+Login.Label.Scan                                             =	Scan the QR code
+Login.Label.ScanTwoDimensionalCodeDownload                   =	Scan to download
+Login.Label.Skip                                             =	Done
+Login.Label.Step1                                            =	Step 1
+Login.Label.Step1Context                                     =	Install AirDroid on your devices
+Login.Label.Step2                                            =	Step 2
+Login.Label.Step2Context                                     =	Open AirDroid and enter your account and password
+Login.Label.Step3                                            =	Step 3
+Login.Label.Step3Context                                     =	Sign in to your account to enjoy AirDroid
+Login.Label.ToAndroidUpgrade                                 =	Update from Android client
+Login.Label.ToGooglePlayDownload                             =	Update from Google Play
+Login.Label.TooManyPasswordRetries                           =	Too many failed attempts. Please try again in 10 minutes.
+Login.Label.ToPhoneDownload                                  =	<Link>Push APK to Android device</Link>
+Login.Label.ToPhoneDownloadEnd                               =	Downloading... Tap the notif to install once completed
+Login.Label.ToPhoneDownloadRetry                             =	<Retry>Pushing APK to {0} failed. Try again.</Retry>
+Login.Label.UnbindExtraDevices                               =	Your premium subscription has expired, an account can only manage {0} devices, please disconnect an existing one or upgrade to Premium to increase devices quota.
+Login.Label.UnbindExtraDevicesVIP                            =	Current premium account can connect up to {0} devices. To connect more, please disconnect an existing one or upgrade devices quota.
+Login.Label.UnbindPC                                         =	You disconnected this computer from your account at {0}. \r\n \r\nNot done by you? Please <password> change password</password> to protect your account.  <log>View details</log>.
+Login.Label.UnsupportTwoStepAuth                             =	Please update to the latest version to support two-step verification
+Login.Label.UpdateAirDroid3                                  =	Update to AirDroid 3
+Login.Label.UpdateAirDroid3Context                           =	AirDroid installations on some of your devices are outdated.\r\nPlease update to AirDroid 3 on your device to enjoy all the amazing new features.
+Login.Label.UpgradeToBackupVideo                             =	Backup video with the latest version (Premium feature)
+Login.Label.UpgradeToNewest                                  =	The Android client needs to be updated
+Login.Label.UpgradeToUseAirCloud                             =	Update now to start backing up files from the phone to computer.
+Login.Label.UpgradeToUseAirIME                               =	Use computer keyboard to type on your phone
+Login.Label.UpgradeToUseClipboard                            =	Share clipboard content between computer and Android
+Login.Label.VerificationFailed                               =	Verification code is incorrect.
+Login.Label.VersionTooLow                                    =	Your AirDroid Windows is out of date. Please update to the latest version.
+Login.Message.ClickToLogin                                   =	Click to sign in
+Login.Message.ForbiddenKnockout                              =	We detected prohibited activity about your account and has been banned remote connection, contact us if you have any questions.
+Login.Message.Knock                                          =	You're signed out
+Login.Message.NotVerified                                    =	Still unfinished verify
+Login.Message.UnbindFailed                                   =	Failed to remove the devices, please retry
+Login.Message.VeryfyEmail                                    =	Your email is not verified. For account security, please verify your email.
+Login.NotifyIcon.Connected                                   =	AirDroid 3\r\nRunning
+Login.NotifyIcon.Connecting                                  =	AirDroid 3\r\nConnecting...
+Login.NotifyIcon.DisConnected                                =	AirDroid 3\r\nDisconnected
+
+Main.Button.FileSystem                                       =	Files
+Main.Button.UDisk                                            =	U Disk
+Main.Button.UpdateNow                                        =	Close AirDroid and update
+Main.Message.CheckingUpgrade                                 =	Checking for updates...
+Main.Message.DownloadingNewVersion                           =	Downloading the update...
+Main.Message.NetworkDisconnectCanNotUpgrade                  =	Failed to update. Please check your network and retry.
+Main.Message.UpdatedNewVersion                               =	{0} is up to date.
+Main.Message.UpdateNow                                       =	AirDroid is running. Continue with the update will force close it.
+Main.Upgrade.Button.Ignore                                   =	Skip this update
+Main.Upgrade.Button.UpgradeAtOnce                            =	Update now
+Main.Upgrade.Button.UpgradeLater                             =	Later
+Main.Upgrade.Label.ForceUpgrade                              =	The currently installed version is no longer supported. Please update to the latest version to continue.
+Main.Upgrade.Label.GetLogFailed                              =	Failed to load the update log.
+Main.Upgrade.Label.UpgradeInfo                               =	Hooray! A new version is available now!\r\nStill using {0}? Update to enjoy a better AirDroid!
+Main.Upgrade.Text                                            =	update available
+
+Main_Code_Expire                                             =	Verification code is expired.
+
+Main_InvalidCode                                             =	Verification code is incorrect.
+
+Main_SendValid_Fail                                          =	Failed to resend the verification mail
+
+Main_Signup_inputpwd                                         =	Please enter a password to complete the signup
+
+Main_signup_inputpwdAndMail                                  =	Please set an email and password to complete the signup process
+
+Media.Label.Empty                                            =	No content or no permission
+Media.Message.Finished                                       =	Complete
+
+MessageForm.Button.CopyAndReplace                            =	Copy and replace
+MessageForm.Button.CopyAndReplaceToolTip                     =	Replace the file in the destination folder with the file \r\nyou are copying
+MessageForm.Button.CopyNew                                   =	Copy, but keep both files
+MessageForm.Button.CopyNewToolTip                            =	No files will be changed. Leave this file in the \r\ndestination folder
+MessageForm.Button.Uncopy                                    =	Don't copy
+MessageForm.CheckBox.ExecuteSameOperation                    =	Do this for all the conflicts
+MessageForm.Label.IncludeSameName                            =	A file with the name "{1}" already exists on "{0}"
+MessageForm.Label.IncludeSameNameOnPC                        =	A file with the name "{0}" already exists on the computer.
+
+MsgCenter.Label.ConnectFailureGuide                          =	FAQ for connection
+MsgCenter.Label.HowToUpdate                                  =	Update to the latest version
+MsgCenter.Label.UpdateAirDroid                               =	The AirDroid installation on this device is outdated.
+
+Music.Message.DeleteSuccessed                                =	Delete success.
+Music.Message.DeletingMusic                                  =	Deleting: {0}
+
+Notification.Button.AddToBlackList                           =	Block
+Notification.Label.DeviceDisableNotificationService          =	Please enable the service as follows:
+Notification.Label.GetBlackListFailed                        =	Failed to get blocked apps list.
+Notification.Label.NoNewNotification                         =	Nothing here, keep going.
+Notification.Label.NoNotification                            =	No notification
+Notification.Message.AddToBlackListFailed                    =	Failed to block.
+Notification.Message.RemoveAll                               =	Clear all notifications?
+Notification.Message.RemoveFromBlackListFailed               =	Failed to unblock.
+
+Notify.Button.ClearUnread                                    =	Mark as read
+Notify.Button.Disable                                        =	Block
+Notify.Button.Dismiss                                        =	Dismiss
+Notify.Button.More                                           =	More
+Notify.Button.SyetemNotify                                   =	System
+Notify.Label.AddBackListFailure                              =	Failed to block {0}.
+Notify.Label.DeleteMessage                                   =	Delete this notification log?
+Notify.Label.DeleteSMSFailure                                =	Failed to delete the SMS from {0}.
+Notify.Label.DeleteSystemNotify                              =	Delete this notification?
+Notify.Label.DeleteTitle                                     =	Delete
+Notify.Label.DismissNotifyFailure                            =	Failed to dismiss "{0}".
+Notify.Label.Empty                                           =	No notification
+Notify.Label.MessageReplyFailure                             =	Failed to send “{1}” to {0}.
+Notify.Label.NoDeviceHintNotify                              =	Add an Android device to your account, and get Android notifications on computer!
+Notify.Label.NoSystemNotify                                  =	No system notification
+Notify.Label.Notify                                          =	Notification
+Notify.Label.OperationFailure                                =	{0}: Failed to {1}
+Notify.Label.PopApp                                          =	No blocked app
+Notify.Label.ReceiveNewSMS                                   =	{0} new messages
+Notify.Label.RemoveBackListFailure                           =	Failed to unblock {0}.
+Notify.Label.SelectNotify                                    =	Select a notification
+Notify.Label.Silent                                          =	Blocked
+Notify.Label.SilentInfo                                      =	All notifications from blocked apps\r\nwill not be displayed.
+
+Notiyf.Label.NoDisturbMessage                                =	Block all notifications from this app.
+
+OpenNoty.Label.Content                                       =	Enable Notification Mirror to receive all mobile notifications,\r\nincluding SMS, calls, WhatsApp and Facebook, on the computer, in real time.
+OpenNoty.Label.MeStepContent1                                =	Open AirDroid on device, tap "Me-Security & Remote Features"
+OpenNoty.Label.MeStepContent2                                =	Tap Desktop Notif.
+OpenNoty.Label.MeStepContent3                                =	Enabled "AirDroid Notification Mirror Service"
+OpenNoty.Label.NotyServe                                     =	Notification Mirror service
+OpenNoty.Label.StepContent1                                  =	Open AirDroid Settings on Android
+OpenNoty.Label.StepContent2                                  =	Tap "Notification Mirror service"
+OpenNoty.Label.StepContent3                                  =	Enabled "AirDroid Notification Mirror service"
+OpenNoty.Label.Title                                         =	Desktop Notification is not enabled on {0}.
+OpenNoty.Label.V4StepContent1                                =	Open AirDroid on your phone, go to "Tools" > "Desktop Notif"
+OpenNoty.Label.V4StepContent2                                =	Tap "Desktop Notif." > "Enable"
+
+Popup.Button.Accept                                          =	Answer
+Popup.Button.Custom                                          =	Custom...
+Popup.Button.Decline                                         =	Decline
+Popup.Button.Deleting                                        =	Deleting
+Popup.Button.HelperMeAccept                                  =	OK
+Popup.Button.Mute                                            =	Mute
+Popup.Button.NoAccept                                        =	Cancel
+Popup.Button.Reply                                           =	Reply
+Popup.Button.Send                                            =	Send
+Popup.Label.ConfirmDeleteSMS                                 =	Delete this SMS?
+Popup.Label.From                                             =	from {0}
+Popup.Label.InputSMSContent                                  =	Type message
+Popup.Label.MissedCall                                       =	{0} missed calls
+Popup.Label.NewDevice                                        =	New device connected: {0}
+Popup.Label.NoSupportAnswer                                  =	Accept and proceed on the phone?
+Popup.Label.RemoveDevice                                     =	{0} successfully disconnected.
+Popup.Label.ReplyPlaceHolder                                 =	Send your message…
+Popup.Message.AcceptFailed                                   =	Failed to accept.
+Popup.Message.AcceptSuccess                                  =	Success
+Popup.Message.CallYouLater                                   =	I'll call you back later.
+Popup.Message.DecliningFailed                                =	Failed to decline.
+Popup.Message.DeniedVerify                                   =	{0} <{1}> rejected your friend request.
+Popup.Message.InMetting                                      =	I'm in a meeting.
+Popup.Message.MutingFailed                                   =	Failed to mute.
+Popup.Message.PassedVerify                                   =	{0} <{1}> accepted your friend request.
+Popup.Message.RemoveFriend                                   =	Remove friend
+Popup.Message.SendSuccessful                                 =	Successfully sent
+Popup.Message.VerifyFriend                                   =	Friend request
+
+Register.Label.InvalidNickname                               =	Nickname contains invalid characters or words.
+
+rs_addon_not_install                                         =	The add-on is not installed on the device, failed to remote control.
+
+rs_common_biznetworkissue_tips                               =	Failed to connect, please check your network
+
+rs_common_message_connectrestore                             =	The connection was restored
+
+rs_common_rsnetworkissue_tips                                =	Failed to connect, please check the other user's network and try again
+
+rs_gesture_content_disable                                   =	Disabled
+
+rs_gesture_content_enable                                    =	Enabled
+
+rs_gesture_title                                             =	Tutorial Gesture
+
+rs_voicemessage_autosend                                     =	Voice recording is too long, auto sending
+
+Setting.Button.About                                         =	About
+Setting.Button.BasicSetting                                  =	General
+Setting.Button.NearbyDevice                                  =	Devices
+Setting.Button.NotificationSettings                          =	Notifications
+Setting.Button.Set                                           =	Settings
+Setting.CheckBox.Allow                                       =	Always allowed
+Setting.CheckBox.Auto                                        =	Auto
+Setting.CheckBox.AutoCloseSMSNotify                          =	Dismiss SMS notification after 7 seconds
+Setting.CheckBox.AutoDownloadCloudFile                       =	Download offline files automatically
+Setting.CheckBox.ClickNotifyOpenVNC                          =	Click notification to launch Remote Control
+Setting.CheckBox.FirstTry                                    =	Ask me every time
+Setting.CheckBox.Forbid                                      =	Never allowed
+Setting.CheckBox.NameSurname                                 =	First name, Last name
+Setting.CheckBox.NoShowSMSContent                            =	Hide message content in SMS pop-up
+Setting.CheckBox.OpenNotifyVoice                             =	Enable notification sound
+Setting.CheckBox.ShowUnreadNotifyCount                       =	Unread message count on menu icon
+Setting.CheckBox.SpellCheck                                  =	Spell check
+Setting.CheckBox.StartWhenOpenSystem                         =	Open at login
+Setting.CheckBox.SurnameName                                 =	Last name, First name
+Setting.Label.AlwaysAskAirMirror                             =	Always ask
+Setting.Label.BackupFolder                                   =	Backups:
+Setting.Label.CloseAirMirror                                 =	Option for closing Remote Control:
+Setting.Label.CommonNotifyCloseTime                          =	Close notification pop-up:
+Setting.Label.DeviceName                                     =	Device name
+Setting.Label.DirectCloseAirMirror                           =	Close immediately
+Setting.Label.FileSendFailure                                =	Remote transfer:
+Setting.Label.FormatMinute                                   =	{0} min
+Setting.Label.FormatSecond                                   =	{0} s
+Setting.Label.FullScreen                                     =	Mute notifications in full-screen mode
+Setting.Label.IPAddress                                      =	IP address
+Setting.Label.KeepAliveTenMinutesAirMirror                   =	Keep running for 10 mins
+Setting.Label.Language                                       =	Language:
+Setting.Label.NoAutoClose                                    =	Never
+Setting.Label.NoDisturbance                                  =	Mute Notifications:
+Setting.Label.NoDisturbanceMessage                           =	Turn on to disable notification pop-ups and sound.
+Setting.Label.NotilfyRemind                                  =	Notification:
+Setting.Label.NoTrustDevice                                  =	No trusted devices yet.
+Setting.Label.ReceiveFileFolder                              =	Save received files to:
+Setting.Label.RecordingFolder                                =	Save screen recordings to:
+Setting.Label.ScreenshotFolder                               =	Screenshots/videos:
+Setting.Label.Settings                                       =	Settings
+Setting.Label.ShowOrder                                      =	Contact name format:
+Setting.Label.SMSNotifyCloseTime                             =	Close SMS pop-up:
+Setting.Label.SortOrder                                      =	Sort contacts by:
+Setting.Label.Start                                          =	Start
+Setting.Label.Trust                                          =	Trusted
+Setting.Label.TrustRemark                                    =	Trusted: Files sent from trusted devices are automatically accepted.
+Setting.Message.CannotWriteInFolder                          =	Permission denied. Please choose a different folder.
+Setting.Message.RestarApp                                    =	You've changed language settings. Restart the software to take effect?
+
+SMS.Button.Emotion                                           =	Emoticon
+SMS.Button.NewMessage                                        =	New message
+SMS.Label.DeleteGroup                                        =	Delete this conversation?
+SMS.Label.DeleteingGroup                                     =	Deleting...
+SMS.Label.DeleteSelectSMS                                    =	Delete the selected SMS?
+SMS.Label.Message                                            =	SMS
+SMS.Label.NoDeviceHintSMS                                    =	Receive and send SMS on computer.
+SMS.Label.NoSearchSMS                                        =	No SMS found
+SMS.Label.SearchGroup                                        =	Conversation search
+SMS.Label.SearchSMS                                          =	Full text search
+SMS.Label.SelectSMSGroup                                     =	Select a conversation
+SMS.Label.TemporarilyNoMessage                               =	No SMS
+SMS.Message.CannotDeleteConversion                           =	Sorry, AirDroid does not support deleting SMS on Android 4.4+.
+SMS.Message.CanotFoundSIM                                    =	SIM card not detected
+SMS.Message.ConversionEmpty                                  =	No SMS
+SMS.Message.DeleteFailure                                    =	Failed to delete
+SMS.Message.DeleteSelectSMSFailure                           =	Failed to delete the selected SMS from {0}.
+SMS.Message.DeleteSelectSMSPemissionDenied                   =	Failed to delete “{0}”'s SMS. Please go to Settings > Apps > AirDroid > Permissions, and enable all permissions. <Link>Learn more</Link>
+SMS.Message.DeleteSucceed                                    =	Deleted successfully
+SMS.Message.IfDeleteConversion                               =	Delete {0} conversations?
+SMS.Message.MessageCanotEmpty                                =	SMS cannot be empty
+SMS.Message.MessageSendFailure                               =	SMS sending might have failed. Please check it on the phone.
+SMS.Message.NewMessageTo                                     =	New message to {0}
+SMS.Message.NoSelectContact                                  =	Please specify at least one recipient
+SMS.Message.PermissionDenied                                 =	Failed to send SMS to “{0}”. Please go to Settings > Apps > AirDroid > Permissions, and enable all permissions. <Link>Learn more</Link>
+SMS.Message.RemoteDeleteSelectSMSPemissionDenied             =	Fail to delete messages "{0}"\r\nPlease enabled "Messages" related permission through "Me-Security & Remote Features" on phone's AirDroid.
+SMS.Message.RemoteSendPermissionDenied                       =	Fail to send messages to "{0}" , please enabled "Messages" related permission through "Me-Security & Remote Features" on phone's AirDroid.
+SMS.Message.SendFail                                         =	Failed to send to {0}.
+SMS.Message.SureDeleteMessage                                =	Delete this message?
+
+transfer_chatitem_resend_action                              =	Resend
+
+Unbind.Button.Unbind                                         =	Delete
+Unbind.Button.Unbinding                                      =	Deleting...
+Unbind.Label.Info                                            =	You are trying to delete {0}. For security, please enter your AirDroid password.
+Unbind.Lable.FailToVerify                                    =	Failed to delete, please try again.
+Unbind.Lable.PasswordIncorrect                               =	Password is not correct.
+
+Update.Message.GoToWebSite                                   =	Failed to download the update. You can manually download it from the official website.
+
+Upgrade.Message.ContinueUse                                  =	Downloading...
+
+USB.Button.EnableWebsocketAirmirror                          =	Try Non-Root mode
+USB.Button.HasEnableDebugMode                                =	Done
+USB.Button.ShowDebugModeGuide                                =	Setting guide...
+USB.Label.AndroidNotsupport                                  =	Sorry, Android OS lower than {0} is not compatible yet.
+USB.Label.DisconnectedWithoutSceenShot                       =	Screen cannot be mirrored. You can: \r\n1. Click Retry to try again \r\n2.Try the Non-Root mode: \r\n > Enable USB debugging on your Android device. \r\n > Connect Android device and computer via USB cable.
+USB.Label.EnableUSBDebug                                     =	Enable USB debugging, connect via USB cable to start
+USB.Label.EnableUSBDebugRestart                              =	This is one-time setting. But you may need to connect the device via USB cable again once it is rebooted.
+USB.Label.KillAirMirrorFailed                                =	Remote Control service failed to start on your Android device. Please do a one-time setting to continue: \r\n1. Enable USB debugging on your Android device. \r\n2. Connect Android device and computer via USB cable.
+USB.Label.NoRootCanUseNotRootAirMirror                       =	The device is not rooted. Please click the 'Start Non-Root authority' button to complete the Non-Root mode settings
+USB.Label.RootDeny                                           =	AirDroid failed to get Root permissions. You can: \r\n1. Please check the settings of your root management app and allow the related permission request on your screen \r\n2.Try Remote Control Non-Root mode:   \r\n > Enable USB debugging on your Android device \r\n > Connect Android device and computer via USB cable
+USB.Label.StartADBAirMIrrorFailed                            =	Sorry, your device is not compatible with Remote Control yet. Contact us at support@airdroid.com for help.
+USB.Label.StartAirMirrorFailed                               =	Failed to get Root permission from your remote device. You can: \r\n1. Please check the settings of your root management app or Root your device again \r\n2. Requesting Non-Root authority
+USB.Label.TryUSBConnect                                      =	Start Non-Root authority
+USB.Label.WaitingForDevice                                   =	Please connect your Android device via USB cable
+USB.Title.USBDeviceFormTitle                                 =	Connecting device - {0}
+
+UserCenter.Message.Buy                                       =	Buy
+
+View.Button.SaveToPhone                                      =	Save to device
+View.Message.RotateFailureGeneral                            =	Failed to save due to file non-existence or permission issues.
+
+VNC.Button.AirIME                                            =	AirIME
+VNC.Button.AlreadyInstallPlugin                              =	Done
+VNC.Button.AlreadyUpgradePlugin                              =	Done
+VNC.Button.Camera                                            =	Remote Camera
+VNC.Button.ChangeDevice                                      =	Switch device
+VNC.Button.DirectCloseAirMirror                              =	Close
+VNC.Button.GoEmbedded                                        =	Recall
+VNC.Button.GoOn                                              =	It worked before? <Link>Try again.</Link>
+VNC.Button.KeepAliveAirMirror                                =	Keep running
+VNC.Button.LookScreenshot                                    =	Screenshot saved. Click to view.
+VNC.Button.LookScreenshotFailure                             =	Failed to capture screenshot.
+VNC.Button.LookScreenshotIng                                 =	Saving screenshot...
+VNC.Button.LookScreenshotToClip                              =	Copied to clipboard
+VNC.Button.NoHint                                            =	Always try to connect
+VNC.Button.RetlyConnect                                      =	Retry
+VNC.Button.RetryRequest                                      =	Try again
+VNC.Button.UpgradeAirDroidRefreshDevices                     =	Checking...
+VNC.Button.UpgradeAirDroidRetry                              =	Check again
+VNC.Button.UseScreenShot                                     =	Screen Mirroring
+VNC.Label.AboveMethodNoHelp                                  =	Still not working? <Open>Send feedback</Open>
+VNC.Label.AndroidMaxNonsupport                               =	Sorry, Android {0} is not supported\r\nby Remote Control yet. Stay tuned as\r\nwe're improving the compatibility.
+VNC.Label.AndroidNonsupport                                  =	Android version too low.\r\nRemote Control requires Android 4.0 and later.
+VNC.Label.Camera                                             =	Access phone camera from desktop
+VNC.Label.CameraGoPremium                                    =	This feature allows you view and listen surroundings through device camera.
+VNC.Label.CameraPermissionDenied                             =	Failed to start the camera. Please go to your phone and enable camera permission.
+VNC.Label.ChangeUSBLine                                      =	Try a different USB port or cable
+VNC.Label.CheckingFor                                        =	Checking for update...
+VNC.Label.CloseAirMirrorHint                                 =	Are you sure you want to close {0}?
+VNC.Label.ComputerControlPhone                               =	Control your phone from computer remotely
+VNC.Label.ConnectADBFailInAirMirror                          =	Device not connected properly. Please confirm that the Android device is connected to the computer via USB cable and USB debugging is enabled.
+VNC.Label.ConnectFailureRetryUnderMethod                     =	Failed to connect to {0}.\r\nTroubleshooting guides:
+VNC.Label.ConnectingDeviceNoPulUpLine                        =	Please do NOT disconnect the USB cable while connecting...
+VNC.Label.ConnectionDeviceLaterOn                            =	Connecting device {0}...
+VNC.Label.ConnetDisconnectHint                               =	Connection interrupted. Please check: \r\n1. Check the network connection of your remote device \r\n2. Wakeup or unlock the Android device\r\n3. Please try opening AirDroid on the remote device.
+VNC.Label.ConnetFailureHint                                  =	Connection failed. You can:\r\n1. Check the network connection of your remote device. \r\n2. Unlock or wake up your Android device.\r\n3. Please try opening AirDroid on the remote device.
+VNC.Label.ContentDeviceClickOk                               =	Click OK on the device after you connect the USB cable.
+VNC.Label.DeviceConnecting                                   =	Connecting...
+VNC.Label.DownloadDriverFailureRetry                         =	Failed to download driver, please <Retry>Retry</Retry>.
+VNC.Label.EnableScreenShot                                   =	Please tap "START NOW" on the phone
+VNC.Label.EnableScreenShotGuide                              =	For convenience, please check "Don't show again".\r\nIf the permission window is not displayed, please relaunch AirDroid.\r\n\r\n Try again in <Link>{0}</Link> seconds.
+VNC.Label.ESCCloseFullAirMirrorHint                          =	Exit Full Screen (Esc)
+VNC.Label.FailureVideo                                       =	Failed to record screen
+VNC.Label.FlowBeyondHint                                     =	Your remote data quota is used up.\r\nPlease click "Retry" if you have upgraded\r\nto Premium.
+VNC.Label.GetRootContext                                     =	Please grant AirDroid root permission\r\nif your Android device is already rooted.
+VNC.Label.GetRootFailuretHint                                =	Only rooted or certified devices are supported.\r\n \r\nWe're working with mobile carriers and Android device manufacturers to get more device models certified.
+VNC.Label.GetRootFailureTop                                  =	Your device is not supported.
+VNC.Label.GetRootTop                                         =	Requesting root permissions...
+VNC.Label.GoEmbeddedGuide                                    =	{0} is running in its separate window
+VNC.Label.HowOpenUSBDebug                                    =	Click <Open>How to enable USB debugging?</Open> for guide
+VNC.Label.InstallAirMirrorPlugin                             =	Install Remote Control Plugin on Android.
+VNC.Label.InstallDriverFailureRetry                          =	Failed to install driver for {0}. Please reinstall it.
+VNC.Label.InstallDriverLoading                               =	Please do not restart the computer while installing driver. You might need to click confirm button during the installation.
+VNC.Label.InstallPluginFailuretHint                          =	Please install the Remote Control Plugin for your Android device to view and operate it from the computer.
+VNC.Label.KillServiceFailed                                  =	Failed to start Remote Control service. Please reboot your mobile device and try again.
+VNC.Label.NoBindingAndroidDevice                             =	Remote Control is a feature for Android devices, please add an Android device first.
+VNC.Label.NoBindingDevice                                    =	Add an Android device to your account to control it remotely.
+VNC.Label.NoConnectDeviceOpenUSBDebug                        =	Failed to connect the phone.\r\nPlease enable USB debugging on it.
+VNC.Label.NoConnetDevice                                     =	The device is unbound.
+VNC.Label.NoDeviceHintVNC                                    =	Control your phone from computer remotely
+VNC.Label.NonRoot                                            =	Non-Root
+VNC.Label.NoRootCanUseScreenShot                             =	1. If you want to control your device remotely, please enable USB Debugging on it and connect it via USB cable, and then click "Setting completed. Start".\r\n2. If you only want to take screenshot or record screen, please click Screen Mirroring (Non-Root), and there's no need to connect a USB cable.
+VNC.Label.NoSupportDeviceHint                                =	Sorry, your device model is not\r\nsupported by now. Please stay tuned\r\nas we are improving the compatibility.
+VNC.Label.NoSupportVncHint                                   =	Sorry, your device model is not\r\nsupported by now, please stay tuned\r\nas we are improving the compatibility.
+VNC.Label.NotRootHint                                        =	Only rooted devices are supported.\r\n Your device has not been rooted.
+VNC.Label.OpenDirectory                                      =	View all
+VNC.Label.RefreshFlow                                        =	Your remote data quota is used up. Click to refresh.
+VNC.Label.RefreshFlowSucceed                                 =	Your remote data quota is sufficient.
+VNC.Label.RefreshIngFlow                                     =	Refreshing...
+VNC.Label.RetryComputerPhone                                 =	Restart phone or computer
+VNC.Label.RetryInstall                                       =	Reinstall
+VNC.Label.RootDenyHint                                       =	AirDroid requires some root permissions. Please set it on the Android device and try again.
+VNC.Label.SaveAs                                             =	Save as...
+VNC.Label.SaveToClip                                         =	Copy screenshot
+VNC.Label.SceenShotAuthDenied                                =	Please enable screen access for AirDroid on your device and try again.
+VNC.Label.SceenShotFailure                                   =	Sorry, "Screen Mirroring" cannot get started. Please refer to the following guide:\r\n1. Check if the network is working normally.\r\n2. Wake or unlock your Android device.\r\n3. Restart AirDroid.
+VNC.Label.ScreenshotGuide                                    =	View and record phone screen without root
+VNC.Label.ScreenshotNmae                                     =	AirDroidScreenshot
+VNC.Label.SelectDevice                                       =	Select a device
+VNC.Label.SOS                                                =	Remote Support
+VNC.Label.StartAirMirrorServiceFailed                        =	Failed to get the root permission. Please check the permission setting in your root tool, or root again.
+VNC.Label.StartAirMirrorTimeoutHint                          =	Failed to start Remote Control service. Troubleshooting guide: \r\n1. Click Retry to try again \r\n2. Requesting Non-Root authority
+VNC.Label.StartVideo                                         =	Recording started.
+VNC.Label.StatusLAN                                          =	Local Network
+VNC.Label.StatusWAN                                          =	Remote Network
+VNC.Label.StopVideo                                          =	Screen recorded, creating the video...
+VNC.Label.SuccessVideo                                       =	Record success. Click to view.
+VNC.Label.ToDeviceRetryOpenUSBDebug                          =	Re-enable USB debugging <How>View how-to</How>
+VNC.Label.ToDeviceVerifyAccredit                             =	Confirm if USB debugging is allowed \r\n<How>View how-to</How>
+VNC.Label.UpdateAirMirrorAndroid                             =	Update AirDroid on Android.
+VNC.Label.UpdateAirMirrorPlugin                              =	Update Remote Control Plugin on Android.
+VNC.Label.UpdateAirMirrorWindows                             =	Update AirDroid on PC.
+VNC.Label.UpdatePluginFailuretHint                           =	Please update Remote Control Plugin on device\r\nto view and operate your Android on computer.
+VNC.Label.UpdateTheseApplication                             =	Please complete the following actions to continue:
+VNC.Label.UpgradeAirDroidHint                                =	Please update to AirDroid 3 on your device\r\nto remotely control it from the computer.
+VNC.Label.WillSupportHint                                    =	Remote Control support (without rooting) for your device is coming soon.
+VNC.Menu.HD                                                  =	HD
+VNC.Menu.LD                                                  =	LD
+VNC.Menu.SD                                                  =	SD
+VNC.Message.FirstUseCamera                                   =	Camera on the device will be temporarily disabled while you're using it in AirDroid.
+VNC.Message.FlashOnFailed                                    =	Failed to turn on Flashlight
+VNC.Message.IsSwitchingCamera                                =	Switching...
+VNC.Message.MaxCocurrentLimit                                =	It's allowed control {0} devices each time for free account. More devices request, please upgrade to Premium
+VNC.Message.MaxCocurrentLimitToBusiness                      =	It's allowed control {0} devices each time for Premium account. More devices request, please try to use AirDroid Business
+VNC.Message.NoRootGuideInRemotePermissionDenied              =	If your device is not Rooted, please Root first or gain Non-Root authority to remote control. <Link>View how to gain Non-Root authority</Link>
+VNC.Message.OtherMaxCocurrentLimit                           =	Your device is remote controlling by others.It's allowed control {0} devices each time for free account. More devices request, please upgrade to Premium
+VNC.Message.OtherMaxCocurrentLimitBusiness                   =	Your device is remote controlling by others. It's allowed control {0} devices each time for Premium account. More devices request, please try to use AirDroid Business
+VNC.Message.SameDeviceConnetecByOther                        =	Your current device is connecting on others desktop client
+VNC.Message.StartCameraFailed                                =	Failed to launch camera. Please confirm if your device has a camera, and then go to your phone and exit camera or enable camera permission, and then try again.
+VNC.Message.StartCameraFailedShort                           =	Failed to start the camera. Please go to your phone and enable camera permission.
+VNC.Message.SwitchingDefinition                              =	Switching resolution
+VNC.Message.UpgradeToSupportScreenShot                       =	You need to update the Android client to its latest version to use this feature.
+
+Webkit.ContextMenu.Print                                     =	Print
+
+Welcome.Button.SaveToPC                                      =	Saved to computer
+Welcome.Label.BuiltInSDCard                                  =	SD Card
+Welcome.Label.Phone                                          =	System
+Welcome.Label.SDCard                                         =	External SD

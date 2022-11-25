@@ -1,0 +1,1233 @@
+﻿About.Label.AirDroidForWin                                   =	AirDroid Windows
+About.Label.Context                                          =	AirDroid是一款让您可以通过电脑轻松接管移动设备的应用。在电脑端可以接收设备的通知，回复短信，电脑与设备高效互传文件，远程控制更能实现电脑完全控制安卓设备。
+About.Label.OfficialWebsite                                  =	官网
+About.Label.PrivacyPolicy                                    =	隐私条款
+About.Label.Version                                          =	Version
+
+ad_verify_mail_resend                                        =	重新发送
+
+AirCloud.Button.BackupNow                                    =	立即备份
+AirCloud.Button.CancelBackup                                 =	取消备份
+AirCloud.Button.ContinueBackup                               =	继续备份
+AirCloud.Button.StartBackup                                  =	我要备份
+AirCloud.Label.Backuping                                     =	正在备份（{0}%）
+AirCloud.Label.CancelBackup                                  =	备份了{0}个文件，{1}个文件未备份
+AirCloud.Label.ConnectFailed                                 =	与设备不在同一个局域网中
+AirCloud.Label.EnableAutoBackup                              =	2.确认开启自动备份选项，才会做自动备份
+AirCloud.Label.FirstBackup                                   =	你还没有备份过
+AirCloud.Label.GuideText                                     =	通过局域网，把手机拍的图片和视频备份到电脑上
+AirCloud.Label.GuideTitle                                    =	安全又快捷
+AirCloud.Label.IsPreparing                                   =	正在准备备份数据中
+AirCloud.Label.LastBackupTime                                =	备份时间：{0}
+AirCloud.Label.NeedPremium                                   =	<Premium>升级高级帐户</Premium>可以备份视频
+AirCloud.Label.NeedUpgrade                                   =	高级帐户手机端<Upgrade>升级到最新版本</Upgrade>可以备份视频
+AirCloud.Label.NeedUpgradeAndPremium                         =	<Premium>高级帐户</Premium>手机端<Upgrade>升级到最新版本</Upgrade>可以备份视频
+AirCloud.Label.NotCurrentPC                                  =	请到手机上设置这台电脑为备份电脑
+AirCloud.Label.OpenFolderGuide                               =	打开文件夹
+AirCloud.Label.PCNotSetted                                   =	你尚未在手机上设置允许备份的电脑
+AirCloud.Label.Progress                                      =	备份了{0}个文件，共{1}个文件
+AirCloud.Label.Result                                        =	备份了{0}个文件
+AirCloud.Label.SettingGuide                                  =	1.手机端打开AirDroid，点击相册备份图标
+AirCloud.Label.SettingOnPhone                                =	在手机端设置
+AirCloud.Label.UpToDate                                      =	手机文档没有新增，不需要进行备份。
+AirCloud.Message.CanCancelBack                               =	确定要取消备份吗？
+AirCloud.Message.DownloadFailed                              =	下载文件失败
+AirCloud.Message.EmptyFiles                                  =	手机上没有内容需要备份
+AirCloud.Message.PermissionDenied                            =	<Link>权限不足，请到“设置->应用->AirDroid->权限”打开存储权限。</Link>
+AirCloud.Message.SaveFailed                                  =	保存下载的文件失败，请确认磁盘是否还有空间
+
+AirCloud_Update_Premium2                                     =	<premium>升级高级帐户</premium>可以备份视频或者通过<exchange>免费兑换会员</exchange>升级为会员
+
+AirIme,Label.ToSettingCheckedAirIme                          =	进入手机输入法设置，勾选AirDroid输入法
+
+AirIME.Button.Done                                           =	我已设置
+AirIME.Button.Skip                                           =	下次再说
+AirIME.Label.AutoSwitch                                      =	输入法将自动切换
+AirIme.Label.ClickInput                                      =	点击手机上的输入框
+AirIme.Label.CloseKeyboard                                   =	AirDroid远程输入法未打开
+AirIme.Label.ComputerInputPhone                              =	电脑当手机的键盘，轻松输入
+AirIme.Label.ConnectingAirIme                                =	正在开启AirDroid远程输入法...
+AirIME.Label.EnableUSBDebug                                  =	打开USB调试模式，<Link>如何打开</Link>
+AirIME.Label.LinkUSB                                         =	把手机用USB连接到电脑
+AirIme.Label.NoConnected                                     =	AirDroid远程输入法未连接
+AirIme.Label.NoFind                                          =	（无法找到？）
+AirIme.Label.OpenIme                                         =	打开
+AirIme.Label.OpenKeyboard                                    =	AirDroid远程输入法已打开
+AirIme.Label.ReplyConnecting                                 =	正在重连中
+AirIme.Label.SendToPhone                                     =	已将文字发送到设备\r\n（支持常用快捷键）
+AirIME.Label.USBConnectFailed                                =	免Root失败，请重试
+AirIME.Label.USBSubTitle                                     =	点击“执行免Root操作”按钮进行免Root操作，成功后返回此页面，手机即可自动切换AirDroid输入法
+AirIME.Label.USBTitle                                        =	智能切换输入法
+
+AirIME_Guid_Button_Skip                                      =	手动开启AirIME
+
+AirMirror.Button.Back                                        =	后退
+AirMirror.Button.Down                                        =	屏幕下划
+AirMirror.Button.FlashOff                                    =	手电筒关闭
+AirMirror.Button.FlashOn                                     =	手电筒开启
+AirMirror.Button.FullScreen                                  =	全屏
+AirMirror.Button.Home                                        =	主屏幕
+AirMirror.Button.Keyboard                                    =	切换键盘
+AirMirror.Button.LockScreen                                  =	锁屏
+AirMirror.Button.Menu                                        =	菜单
+AirMirror.Button.NormalScreen                                =	还原
+AirMirror.Button.Recrod                                      =	录制屏幕
+AirMirror.Button.RotateScreen                                =	旋转屏幕
+AirMirror.Button.ScreenShot                                  =	手机截图
+AirMirror.Button.StartRecording                              =	开始录屏
+AirMirror.Button.StopRecording                               =	结束录屏
+AirMirror.Button.SwitchCamera                                =	摄像头切换
+AirMirror.Button.SwitchResolution                            =	切换画质
+AirMirror.Button.Tasks                                       =	切换任务
+AirMirror.Button.Up                                          =	屏幕上划
+AirMirror.Button.UseAirDroidIME                              =	切换到AirDroid输入法
+AirMirror.Button.UseDefaultIME                               =	切换到系统输入法
+AirMirror.Button.UseHighResolution                           =	切换到高清模式
+AirMirror.Button.UseStandarResolution                        =	切换到标准模式
+AirMirror.Button.Volumn                                      =	音量控制
+
+AirMirror_NotAccessibility_Text1                             =	远程设备未给予辅助权限，或辅助权限已被回收，无法远程控制，请在远程设备上的【个人】-【安全及远程功能设置】-【远程控制】重新开启权限。您也可以Root您的设备或使用免Root方式进行远程控制。
+
+AirMirror_NotAccessibility_Text2                             =	远程设备未安装相关插件，无法进行控制，请在远程设备上的【个人】-【安全及远程功能设置】-【远程控制】下载相关插件。您也可以Root您的设备或使用免Root方式进行远程控制。
+
+AirMirror_NotRoot_NewText2                                   =	此设备未Root，请点击“执行免Root操作”按钮进行免Root操作。您也可以升级远程设备的AirDroid到最新版本，即可通过新的插件方式进行远程控制。
+
+AirSOS.Label.EnterShareCode                                  =	请输入9位连接码
+AirSOS.Label.ShareCodeGuide                                  =	使用说明：\r\n1. 请对方在安卓设备上下载并打开AirDroid；\r\n2. 请对方点击【工具箱】>【屏幕共享】>【生成连接码】，然后将界面上出现的9位连接码告诉给您；\r\n3. 收到连接码后在上方输入框中输入，开始连接对方设备。
+AirSOS.Label.StartGuide                                      =	AirSOS 可以帮助你在电脑上观察您客户安卓设备的屏幕，以帮助解决他们的问题。
+
+am_setting_screen_qa_airmirror345_high                       =	高清
+
+am_setting_screen_qa_airmirror345_low                        =	流畅
+
+am_setting_screen_qa_airmirror345_standard                   =	标清
+
+am_setting_screen_qa_selection                               =	画质选择
+
+am_setting_screen_qa_stream_auto_select_hint                 =	根据网络情况，动态调节画质和流畅度。
+
+am_setting_screen_qa_stream_auto_select_mode                 =	平衡模式
+
+am_setting_screen_qa_stream_quality_mode                     =	画质优先
+
+am_setting_screen_qa_stream_speed_mode                       =	流畅度优先
+
+am_setting_screen_qa_switched_to                             =	已切换至{0}
+
+Avatar.Form.Title                                            =	编辑头像
+
+Business_RemoteControl_Lock_nosupport                        =	被控端设备安卓系统低于9.0，无法使用此功能
+
+Call.Label.CallLog                                           =	通话记录
+Call.Label.LoadFailed                                        =	加载失败
+Call.Label.NoDeviceHintCall                                  =	查看安卓设备的通话记录、未接来电
+Call.Label.SelectCall                                        =	请选择一条通话记录
+Call.Label.TemporarilyNoCallLog                              =	暂无通话记录
+Call.Message.DeleteLog                                       =	您确定要删除 {0} 这条记录吗？
+
+commom_get_free_premium                                      =	免费兑换会员
+
+Common.About                                                 =	关于：
+Common.Accept                                                =	接受
+Common.AddToDictionary                                       =	添加进词典
+Common.AirDroid                                              =	AirDroid
+Common.All                                                   =	全部
+Common.Button.AutoClose                                      =	自动关闭
+Common.Button.Close                                          =	关闭
+Common.Button.Delete                                         =	删除记录
+Common.Button.Maximize                                       =	最大化
+Common.Button.Refresh                                        =	刷新
+Common.Button.Restore                                        =	还原
+Common.Button.Save                                           =	保存
+Common.Cancel                                                =	取消
+Common.Click                                                 =	点击进入
+Common.Columns.Size                                          =	大小
+Common.CommingSoon                                           =	功能即将上线
+Common.Connect                                               =	连接
+Common.ConnectFailed                                         =	连接失败
+Common.Copy                                                  =	复制
+Common.CopyRight                                             =	©
+Common.Cut                                                   =	剪切
+Common.Dailog                                                =	会话
+Common.DataConnectFailed                                     =	无法连接AirDroid服务器，请检查网络连接是否正常后重试
+Common.Day                                                   =	天
+Common.Delete                                                =	删除
+Common.DeleteAll                                             =	删除全部
+Common.Deny                                                  =	拒绝
+Common.DiscardSave                                           =	不保存
+Common.EnterToSend                                           =	按[Enter] 发送
+Common.Error                                                 =	错误
+Common.File                                                  =	文件
+Common.Folder                                                =	文件夹
+Common.Help                                                  =	帮助中心：
+Common.Hour                                                  =	小时
+Common.HowBindingDevice                                      =	如何绑定设备？
+Common.Ignore                                                =	忽略更新
+Common.Info                                                  =	提示
+Common.JustNow                                               =	刚刚
+Common.Label.ColumnType                                      =	类型
+Common.Label.HowToAuth                                       =	权限不足，如何授权？
+Common.Label.HowToTrustMe                                    =	在您的设备上找到系统工具“授权管理”，在授权管理列表中找到“AirDroid”，\r\n打开管理界面选择“我信任该程序”
+Common.Label.ModifyDate                                      =	修改日期
+Common.Label.MyPhone                                         =	AirDroid
+Common.Label.Name                                            =	名称
+Common.Label.NoCallHistoryDataPermission                     =	无通话记录；或者没有读取通话记录的权限，\r\n请先赋予AirDroid电话权限后重试
+Common.Label.NoCallHistoryPermission                         =	没有读取通话记录的权限，\r\n请先赋予AirDroid电话权限后重试
+Common.Label.NoContactDataPermission                         =	无联系人；或者没有读取联系人的权限，\r\n请先赋予AirDroid读取权限后重试
+Common.Label.NoContactPermission                             =	没有读取联系人的权限，\r\n请先赋予AirDroid读取权限后重试
+Common.Label.NoFilePermission                                =	没有读取文件系统的权限，\r\n请先赋予AirDroid读取权限后重试
+Common.Label.NoSMSDataPermission                             =	无短信记录；或者没有读取短信的权限，\r\n请先赋予AirDroid读取权限后重试
+Common.Label.NoSMSPermission                                 =	没有读取短信的权限，\r\n请先赋予AirDroid读取权限后重试
+Common.Label.PermissionDenied                                =	请到“设置->应用->AirDroid->权限”打开所有权限。\r\n<Link>更多详情</Link>
+Common.Label.PermissionDeniedWithLink                        =	权限不足（<Link>如何设置权限</Link>）
+Common.Label.PushDisconnectAndRetry                          =	连接服务器失败  <Retry>重试</Retry>
+Common.Label.ReconnectingPush                                =	正在重连服务器...
+Common.Label.ReconnectingPushDetail                          =	这期间将无法及时收到安卓设备上的通知，程序正在自动重连...
+Common.Label.ReconnectingPushTitle                           =	AirDroid已断开与服务器的连接
+Common.Label.RemoteCameraPermissionDenied                    =	请在手机端“个人-安全及远程功能设置”中开启“远程相机”的远程权限。
+Common.Label.RemoteContactPermissionDenied                   =	请在手机端“个人-安全及远程功能设置”中开启“联系人管理”的远程权限。
+Common.Label.RemoteControlPermissionDenied                   =	请在手机端“个人-安全及远程功能设置”中开启“远程控制”的远程权限。
+Common.Label.RemoteFilePermissionDenied                      =	请在手机端“个人-安全及远程功能设置”中开启“文件管理”的远程权限。
+Common.Label.RemotePermissionDenied                          =	远程权限被关闭
+Common.Label.RemoteSMSPermissionDenied                       =	请在手机端“个人-安全及远程功能设置”中开启“远程短信”的远程权限。
+Common.Label.RemoteVirtualDisplayPermissionDenied            =	请在手机端“个人-安全及远程功能设置”中开启“屏幕镜像”的远程权限。
+Common.Label.SendFileFromPhone                               =	发来文件： {0}
+Common.Lable.Size                                            =	大小：
+Common.Loading                                               =	正在加载...
+Common.LoadingFailure                                        =	连接设备失败，\r\n请检查设备网络是否正常
+Common.LoadingFailureGuide                                   =	设备连接失败：\r\n1. 检查手机网络是否正常\r\n2. 尝试在手机上打开AirDroid，并保持前\r\n台运行，将有助于您的连接
+Common.LoadingFailureMin                                     =	加载失败
+Common.LoadingFailureOneLine                                 =	连接设备失败，请检查设备网络是否正常
+Common.Login                                                 =	登录
+Common.Message.DataFlowInsufficient                          =	您的远程数据流量不足，升级为高级帐户将不限制远程数据流量。
+Common.Message.ExitNoAccount                                 =	确定退出当前操作吗？
+Common.Message.FailToLoadFile                                =	文件加载失败！
+Common.Message.OperationFailed                               =	操作失败
+Common.Message.PermissionDenied                              =	权限不足，请到“设置->应用->AirDroid->权限”打开所有权限。<Link>更多详情</Link>
+Common.Message.ReconnectPhoneFailed                          =	连接失败，请重试
+Common.Message.RestartPhone                                  =	请重启远程设备，重启后需要重新授权AirDroid使用Root权限或是执行免Root操作
+Common.Minute                                                =	分
+Common.MinutesAgo                                            =	{0}分钟前
+Common.Missed                                                =	未接来电
+Common.NeedLogin                                             =	此功能需要登录，请登录后使用
+Common.NewFolder                                             =	新建文件夹
+Common.No                                                    =	否
+Common.NoBindingDeviceContent                                =	您的帐号下未绑定安卓设备，请先绑定
+Common.NoBindingDeviceContentInFloating                      =	您的帐号下未绑定设备\r\n<Link>如何绑定设备</Link>
+Common.NoBindingDeviceTitle                                  =	此功能仅支持安卓设备
+Common.NoHint                                                =	不再提示
+Common.NoSupportDeviceTitle                                  =	此功能暂不支持iOS设备
+Common.OK                                                    =	确定
+Common.OpenFileDialog.PicFile                                =	图片文件
+Common.Paste                                                 =	粘贴
+Common.PhoneOfflineGuide                                     =	远程设备无法连接服务器：\r\n1. 检查手机网络是否正常\r\n2. 尝试在手机上打开AirDroid，并保持前台运行，将有助于您的连接
+Common.PhotoAndVideo                                         =	图片与视频
+Common.Privilege                                             =	特权
+Common.Processing                                            =	处理中
+Common.Redo                                                  =	恢复
+common.resend_email                                          =	重新发送验证邮件
+Common.Resume                                                =	继续
+Common.Retry                                                 =	重试
+Common.RotateFailure                                         =	旋转失败
+Common.Search                                                =	搜索
+Common.Searching                                             =	正在搜索
+Common.Second                                                =	秒
+Common.SelectOneDevice                                       =	请选择一台设备
+common.send_email                                            =	一封包含验证码的电子邮件已发送至
+Common.SendViaAirDroid                                       =	通过AirDroid发送到我的设备
+Common.StartUse                                              =	开始使用
+Common.Stop                                                  =	停止
+Common.TheDayBeforeYesterday                                 =	前天
+Common.Today                                                 =	今天
+Common.Undo                                                  =	撤销
+Common.Update                                                =	更新：
+Common.Warning                                               =	警告
+Common.WelcomeUpgrade                                        =	欢迎使用 {0}
+Common.Yes                                                   =	是
+Common.Yesterday                                             =	昨天
+
+Common_Accessibility_invalid_input                           =	您点击的位置超出屏幕范围
+
+Common_Accessibility_permission_denied                       =	远程设备辅助权限已关闭，请开启辅助权限
+
+Common_Accessibility_service_not_started                     =	远程设备辅助权限已失效，请重新开启辅助权限
+
+Common_account_Email_Need_Verify                             =	*该邮箱需要验证，请使用有效邮箱
+
+Common_account_verification_code_input                       =	请输入验证码
+
+Common_account_verification_error_invalid                    =	验证码错误
+
+Common_account_verification_modify                           =	更改验证邮箱
+
+Common_account_verification_next                             =	下一步
+
+Common_account_verification_title                            =	验证邮箱
+
+Common_ad_pc_quick_nonroot_exit                              =	确定退出免Root模式吗？
+
+Common_ad_permission_voice_title                             =	单向聆听
+
+Common_airmirror_openvoice_fail                              =	开启失败
+
+Common_Airmirror_voice_error_tip_1                           =	无法显示设备界面
+
+Common_Airmirror_voice_error_tip_2                           =	，你可以：
+
+Common_Airmirror_voice_error_tip_3                           =	\r\n1. 点击“重试”重新向设备发送请求。\r\n2. 使用普通模式进行连接。\r\n（普通模式暂不支持“单向聆听”功能）
+
+Common_Airmirror_voice_error_tip2                            =	无法显示设备界面。你可以：\r\n1. 点击“重试”重新向设备发送请求。\r\n2. 使用普通模式进行连接。
+
+Common_Airmirror_voice_notsupt_feedback                      =	当前电脑暂不支持使用单向聆听功能，您可以通过“反馈中心”与我们取得联系，我们将帮助您解决问题
+
+Common_Airmirror_voice_notsupt_toast                         =	普通模式下，不支持“单向聆听”功能。
+
+Common_AndroidQDontSupportToutch_Tip                         =	当前设备的安卓版本较高。可能仅支持屏幕镜像，无法远程控制设备。
+
+Common_back                                                  =	返回
+
+Common_biz_access_limit_dev_connect                          =	当前设备已开启访问限制，请对方点击“接受”允许此次连接
+
+Common_biz_access_limit_dev_reject                           =	连接设备失败，当前设备已开启访问限制，对方拒绝了您的访问
+
+Common_biz_access_limit_dev_timeout                          =	连接设备失败，当前设备已开启访问限制，对方没有回应您的连接请求
+
+common_biz_setting_airmirror345_hint                         =	更快的连接速度，更低的显示帧数，更低的流量消耗。
+
+common_biz_setting_stream_hint                               =	具有收听远程设备声音功能，并能根据您的网络状况，动态的平衡显示效果，拥有更低的画面延迟。
+
+Common_camera_start_failed_title                             =	无法获取设备摄像头画面
+
+Common_clear_all                                             =	全部清除
+
+Common_colon                                                 =	：
+
+Common_copyright_info                                        =	© 2022 Sand Studio
+
+Common_dialpad_bulk                                          =	批量拨号
+
+Common_dialpad_bulk_bubble_tips                              =	点击开始批量拨号
+
+Common_dialpad_bulk_content1                                 =	通过批量拨号功能，您可以一次性导入多个电话，我们将根据您导入的顺序，帮您按顺序自动拨打这些电话。
+
+Common_dialpad_bulk_content2                                 =	##请按照以下格式输入相关信息，我们将会按照您输入的内容生成拨号列表\r\n##输入格式：电话号码（前面无需添加##）\r\n##\r\n##举例：\r\n##2703424444\r\n##270-234-3333\r\n##\r\n##注意：\r\n##每行只能有一个电话号码，下一个电话号码请换行输入\r\n##每行中的电话号码，支持包含数字、#、*、+、-、（）等符号，当有其他符号时该行信息无效\r\n##请将要导入的电话号码填写在横线下方：
+
+Common_dialpad_call                                          =	呼叫
+
+Common_dialpad_call_cancel                                   =	取消拨号
+
+Common_dialpad_call_end                                      =	结束通话
+
+Common_dialpad_call_fail                                     =	拨打失败
+
+Common_dialpad_calling                                       =	正在呼叫
+
+Common_dialpad_content                                       =	请输入号码
+
+Common_dialpad_dialing                                       =	当前设备正在通话中，暂时无法拨号
+
+Common_dialpad_duration                                      =	通话时长{0}
+
+Common_dialpad_empty_content                                 =	清空所有导入的电话号码？
+
+Common_dialpad_feedback_content1                             =	使用过拨号盘功能感觉如何？欢迎在下方提交您的使用反馈，您的意见对我们十分重要！
+
+Common_dialpad_feedback_content2                             =	请输入您的意见或建议
+
+Common_dialpad_feedback_error1                               =	反馈内容太少
+
+Common_dialpad_feedback_error2                               =	提交反馈失败，请重试
+
+Common_dialpad_feedback_success                              =	您的反馈已提交成功，我们一定尽快阅读并认真处理。
+
+Common_dialpad_hangup_fail                                   =	当前连接的设备不支持远程挂断通话。请到设备上挂断通话
+
+Common_dialpad_noconnect                                     =	未接通
+
+Common_dialpad_nonephone                                     =	未输入任何电话号码或输入的电话号码均为无效号码
+
+Common_dialpad_nonetwork                                     =	连接设备失败，请检查远程设备的网络情况
+
+Common_dialpad_nosupport                                     =	当前连接的设备没有通话功能
+
+Common_dialpad_permission_title                              =	未给予电话或允许在最上层使用权限
+
+Common_dialpad_Redial                                        =	是否重新开始批量拨号？开始后之前的拨打记录将会被清空。
+
+Common_dialpad_setting                                       =	自动拨号间隔时间
+
+Common_dialpad_status                                        =	即将拨打
+
+Common_dialpad_title                                         =	拨号盘
+
+Common_dialpad_update_content                                =	当前远程设备的AirDroid版本过低，无法使用拨号盘功能，请升级AirDroid至最新版本。
+
+Common_dialpad_update_title                                  =	请升级AirDroid版本
+
+Common_dialpad_vip1                                          =	免费用户仅限在局域网下使用拨号盘功能，如需远程使用，请升级为高级帐户。
+
+Common_dialpad_vip2                                          =	批量拨号属于高级会员特权功能，通过批量拨号功能，您可以一次性导入多个电话，我们将根据您导入的顺序，帮您按顺序自动拨打这些电话。
+
+Common_disconnect_tip                                        =	对方网络异常导致连接断开
+
+Common_disconnect_title                                      =	对方网络异常导致连接断开，点击“重试”尝试连接。
+
+Common_externalSD_Android10_tip                              =	如果您需要向外置SD卡上传、编辑文件，请打开手机端“工具箱 -> 文件管理 -> SD卡”，根据手机端上的引导开启AirDroid外置SD卡的读取权限。
+
+Common_externalSD_new_allow_button                           =	点击“允许”
+
+Common_externalSD_new_new_title                              =	如果您需要向外置SD卡上传、编辑文件，请在手机上确认开启AirDroid的外置SD卡读取权限。
+
+Common_externalSD_new_tip                                    =	*如果您选择“拒绝”且勾选了“不再提示”，下次需要开启权限时，请按手机上的引导，点击弹出界面下方的[选择"SD卡"]按钮。
+
+Common_feedback                                              =	反馈
+
+Common_gotit_tip                                             =	我知道了
+
+Common_login_DeviceVerify_Text                               =	您正在登录一台新设备，需要进行设备验证。验证邮件已发送至：{0}。请在邮件中完成新设备的验证。
+
+Common_login_DeviceVerify_Title                              =	需要验证您的身份
+
+Common_no_empty_tips                                         =	内容不能为空！
+
+Common_nonroot_setup_again                                   =	免Root后，要求重新执行免Root怎么办？
+
+Common_NoSupportAndroidQ_Tip                                 =	当前设备Android版本过高，暂不支持使用此功能
+
+Common_OpenAudioPlay_PermissionDenied                        =	设备未开启麦克风权限，请到AirDroid-个人-安全及远程功能设置点击对应功能开启。
+
+Common_OpenAudioPlay_RemoteAccessDenied                      =	设备未开启单向聆听功能，请到AirDroid-个人-安全及远程功能设置点击对应功能开启。
+
+Common_RemoteControl_nonroot_login                           =	执行免Root
+
+Common_RemoteMode_Option                                     =	动态模式|普通模式
+
+Common_rename_empty                                          =	设备名不能为空
+
+Common_rename_fail                                           =	重命名失败
+
+Common_rename_formatfailed                                   =	名称不能包含下列字符：\ / : * “<> | ‘ & ?
+
+Common_rename_ios                                            =	暂不支持iOS设备重命名（您可以在手机系统设置-【名称】中进行修改）
+
+Common_rename_success                                        =	重命名成功
+
+Common_rename_toolong                                        =	名称不能超过{0}个字符
+
+Common_send_shortcut_enter                                   =	按 Enter 发送
+
+Common_send_shortcut_enter_ctrl                              =	按 Ctrl + Enter 发送
+
+Common_Setting_UseStream_Button                              =	远程连接模式：
+
+Common_submit                                                =	提交
+
+Common_SwitchToSimple_Button                                 =	切换到普通模式
+
+Common_system_permission_disabled                            =	系统权限不足
+
+Common_unknow                                                =	未知
+
+common_UpdateToAdvanced_title                                =	高级帐户特权功能
+
+common_UpdateToAdvanced_voice                                =	单向聆听功能可以让您获取到设备周围的声音。
+
+Common_WaitMicrophoneAuthorize_Tip                           =	等待麦克风授权中...
+
+Components.ImageView.Label.Current                           =	图片：
+Components.ImageView.Label.Location                          =	路径：{0}
+
+Connect.Status.Data                                          =	（移动数据）
+Connect.Status.LAN                                           =	局域网连接
+Connect.Status.OffLine                                       =	离线
+Connect.Status.WAN                                           =	远程连接
+Connect.Status.Wifi                                          =	（Wi-Fi）
+
+Contact.Button.ShowAll                                       =	所有联系人
+Contact.Button.ShowWithNumber                                =	有号码的联系人
+Contact.Label.Contact                                        =	联系人
+Contact.Label.LoadFailure                                    =	加载失败，请
+Contact.Label.NoContact                                      =	没有联系人
+Contact.Label.NoDeviceHintContact                            =	在电脑上管理安卓设备上的联系人
+Contact.Label.NoSearchContact                                =	没有搜索到符合条件的联系人
+Contact.Label.SelectContact                                  =	请选择一个联系人
+
+Dial_AddToList_Tip                                           =	电话已加入批量拨号列表
+
+Dialpad_vip3                                                 =	当前设备正在拨号中，如需使用批量拨号功能，请购买 AirDroid 高级会员。
+
+Download.Button.Pause                                        =	暂停
+Download.Button.Start                                        =	开始
+Download.Label.Failed                                        =	失败
+Download.Label.Operate                                       =	操作
+Download.Label.Progress                                      =	进度
+Download.Message.AreYouSureDeleteTask                        =	您确定要删除任务吗？
+Download.Message.DownloadFailed                              =	下载失败
+Download.Message.InOperation                                 =	正在处理文件...
+Download.Message.UploadFailed                                =	上传失败
+
+Email.Button.DontRemindMe                                    =	不再提示
+Email.Button.New                                             =	再发一封
+Email.Button.Send                                            =	发送
+Email.Button.UseNow                                          =	立即使用
+Email.Label.AddAttachment                                    =	<Link>添加附件</Link> (文件大小限制： {0})
+Email.Label.Content                                          =	正文：
+Email.Label.EmptyEmail                                       =	收件人不能为空
+Email.Label.FailedToSend                                     =	邮件发送失败，请重新发送
+Email.Label.FailedToUpload                                   =	上传失败，<Retry>重试</Retry>
+Email.Label.NoAttachment                                     =	邮件正文和附件不能同时为空
+Email.Label.SendLargeFileDetail                              =	想分享照片、派对视频给朋友，却因为文件太大，无法用邮件发送？AirDroid可以发送超大附件给你的朋友，无论他使用何种邮箱服务！你的朋友收到邮件后的7天内，都可以通过点击邮件中的下载链接下载超大附件
+Email.Label.SendLargeFileTitle                               =	使用AirDroid发送大附件
+Email.Label.SendSuccessfully                                 =	邮件发送成功！
+Email.Label.Subject                                          =	主题：
+Email.Label.To                                               =	收件人：
+Email.Label.UploadSuccessfully                               =	上传成功
+Email.Message.ConfirmCancel                                  =	确定要清空邮件中已输入的内容及附件？
+
+Feedback.Form.Title                                          =	反馈中心
+Feedback.Label.FailAndRetry                                  =	加载失败 <Link>重试</Link>
+
+File.Button.AddFriend                                        =	添加好友
+File.Button.AddToFavorite                                    =	添加到收藏
+File.Button.AirMirror                                        =	远程控制
+File.Button.Auth                                             =	我已授权
+File.Button.BuyMoreDevice                                    =	升级设备数量
+File.Button.DownloadToPC                                     =	下载
+File.Button.Friends                                          =	我的好友
+File.Button.GetClipBoard                                     =	复制手机剪贴板文字到电脑
+File.Button.GoPremium                                        =	升级为高级帐户
+File.Button.GoUp                                             =	向上
+File.Button.HowToStartBonjour                                =	如何启动？
+File.Button.InstallBonjour                                   =	立即安装
+File.Button.My                                               =	我的
+File.Button.MyDevice                                         =	我的设备
+File.Button.Neibour                                          =	附近设备
+File.Button.Next                                             =	下一个
+File.Button.OpenInFolder                                     =	打开所在文件夹
+File.Button.Previous                                         =	上一个
+File.Button.RealSize                                         =	屏幕原始尺寸
+File.Button.RemoveFromFavorite                               =	取消收藏
+File.Button.RotageLeft                                       =	向左旋转
+File.Button.RotageRight                                      =	向右旋转
+File.Button.SaveAndClose                                     =	保存并关闭
+File.Button.SaveAndContinue                                  =	保存并继续
+File.Button.ScaleSize                                        =	实际大小
+File.Button.ScreenShot                                       =	屏幕截图
+File.Button.SendByEmail                                      =	使用邮件发送
+File.Button.SendFile                                         =	发送文件
+File.Button.SendFolder                                       =	发送文件夹
+File.Button.SendLog                                          =	发送日志
+File.Button.SendMailAddFriend                                =	添加好友
+File.Button.SendMessage                                      =	发送消息
+File.Button.SetClipBoard                                     =	复制电脑剪贴板文字到手机
+File.Button.Skip                                             =	跳过
+File.Button.SkipAuth                                         =	暂不授权
+File.Button.StartSearch                                      =	开始搜索
+File.Button.StopAll                                          =	全部停止
+File.Button.StopSearching                                    =	停止搜索
+File.Button.TogetherAirDroidHint                             =	邀请朋友使用AirDroid
+File.Button.UploadFiles                                      =	上传文件
+File.Button.UploadToDevice                                   =	上传
+File.Button.ZoomIn                                           =	放大
+File.Button.ZoomOut                                          =	缩小
+File.CheckBox.MatchCase                                      =	区分大小写
+File.Label.AddFriendFailed                                   =	添加失败，请重试!
+File.Label.AirCloud                                          =	相册备份
+File.Label.AlreadyFriend                                     =	对方已经是您的好友
+File.Label.AlterNicknameFailure                              =	昵称修改失败
+File.Label.AlterNicknameHint                                 =	设置昵称，让好友能更快的认出你。
+File.Label.BonjourNotInstalled                               =	Bonjour服务未安装
+File.Label.CantFindNearbyDevice                              =	看不到要找的设备？
+File.Label.CantFindNearbyDeviceDetailGuide                   =	请对方在设备上打开"AirDroid",并到"附近设备"点击开始搜索。需要确保双方连接的是同一局域网才能搜索到。<detail>查看详情</detail>
+File.Label.CheckingDevicesInLAN                              =	请确保您要查找的设备与电脑在\r\n同一个局域网中
+File.Label.ChooseAFriend                                     =	请选择一位好友
+File.Label.CurrnetLocation                                   =	当前位置：{0}，第 {1} 行，共 {2} 行
+File.Label.DateNotExist                                      =	不存在
+File.Label.DeleteMessages                                    =	请选择要删除的信息
+File.Label.DeletingFiles                                     =	正在删除文件...
+File.Label.Downloading                                       =	下载中：{0}
+File.Label.DownLoadPrepare                                   =	正在准备下载 ...
+File.Label.DropFile                                          =	拖动文件或者点击此处传输文件
+File.Label.EmptyRecvFile                                     =	暂无接收记录
+File.Label.ExtSDAuthFail                                     =	您未授权成功
+File.Label.ExtSDAuthStep1                                    =	在手机上打开AirDroid，进入工具箱 -> 文件管理 -> SD卡
+File.Label.ExtSDAuthStep2                                    =	点击弹出界面最下方的 [选择 “SD卡”] 按钮
+File.Label.FileManagement                                    =	文件管理
+File.Label.FileTransfer                                      =	文件传输
+File.Label.HomePage                                          =	主页
+File.Label.InputFriendEmail                                  =	请输入对方的邮箱：
+File.Label.InstallBonjourGuide                               =	您的电脑上未安装Bonjour服务，\r\n无法使用附近功能，安装后点击右上角\r\n“刷新”图标即可
+File.Label.LollipopExtSDAuthGuide                            =	您的手机ROM版本为5.0 +，如果您要向外置SD卡上传文件、编辑文件，请按以下引导到手机上将外置SD卡的路径告诉AirDroid：
+File.Label.LollipopExtSDAuthTitle                            =	外置SD卡授权
+File.Label.NoDeviceRow                                       =	帐号下未绑定设备
+File.Label.NoFriend                                          =	未添加任何好友
+File.Label.NoFriendHint                                      =	你还没把好友添加到AirDroid好友列表里
+File.Label.NoFriendInfo                                      =	您未添加任何好友，点击“添加好友”\r\n按钮添加吧
+File.Label.NoFriendInfoInFloating                            =	您还未添加任何好友，添加好友后可快速传输文件
+File.Label.NoNearbyHint                                      =	同一个局域网没有人使用AirDroid，把AirDroid分享给\r\n身边的人，从此传送文件更快捷。
+File.Label.NoSearchItem                                      =	没有搜索到符合条件的项目
+File.Label.PhotoManagement                                   =	照片图库
+File.Label.RecvFile                                          =	接收记录
+File.Label.RemoveFriendFailed                                =	{0} 移除失败
+File.Label.RetryLoadImage                                    =	图片加载失败 <Link>重试</Link>
+File.Label.Search                                            =	搜索：
+File.Label.Searching                                         =	正在查找附近的设备...
+File.Label.SearchingInNetwork                                =	正在搜索同一局域网下的设备
+File.Label.SearchingTip                                      =	和你在同一个局域网且安装AirDroid的设备会出现在这里，局域网传输更安全、更快捷。
+File.Label.SearchNearbyDeviceInFloating                      =	正在查找设备...请确保您要查找的设备与电脑在同一个局域网中
+File.Label.SendAddFriendRequest                              =	已经发送好友请求，请等待对方验证
+File.Label.SendByEmailDetail                                 =	你可以通过AirDroid给你的朋友发文件，文件将在AirDroid服务器暂存7天，7天后将会被自动删除。（文件将以邮件形式发送）
+File.Label.StartBonjourFailed                                =	Bonjour服务启动失败
+File.Label.TransferList                                      =	传输列表
+File.Label.Uploading                                         =	正在上传：{0}
+File.Label.UploadPrepare                                     =	正在准备上传...
+File.Label.UseScreenShot                                     =	(屏幕镜像)
+File.Label.Waiting                                           =	等待传输...
+File.Label.WaitingForVerify                                  =	等待验证
+File.Lable.AddAccountToFriend                                =	确定要将 {0} 添加为好友吗？
+File.Lable.AddFriendInfo                                     =	对方接受请求后，将会出现在您的好友列表中，以后你们就可以方便地传文件了。
+File.Lable.AlreadyFriend                                     =	对方已经是您的好友。
+File.Lable.FriendNotVerified                                 =	该好友未通过验证，还不能传输文件及会话消息
+File.Lable.NeibourTransferSingleSubMsg                       =	附近的设备 {0} 发来文件： {1} ，共{2}，是否要接收？
+File.Lable.NeibourTransferSubMsg                             =	附近的设备 {0} 要向您发送{1}个文件，共{2}，是否要接收？
+File.Lable.NoDeviceHintFile                                  =	电脑与移动设备间轻松互传文件
+File.Lable.RecentSessions                                    =	最近会话
+File.Lable.RemoveFriend                                      =	确定要将 {0} 移出好友列表吗？
+File.Lable.RemoveFriendInfo                                  =	移除后您将从对方好友列表中消失，且不会再接收此人的会话消息
+File.Lable.SearchEmptyDevice                                 =	没有搜索到符合条件的设备
+File.Lable.SearchEmptyFriend                                 =	没有搜索到符合条件的好友
+File.Lable.Transfering                                       =	正在传输
+File.Lable.VerifyFriend                                      =	{0} <{1}> 请求加您为好友
+File.Menu.CopyPath                                           =	复制路径
+File.Menu.PasteFromPC                                        =	从电脑粘贴
+File.Menu.PasteFromPhone                                     =	从手机粘贴
+File.Menu.Rename                                             =	重命名
+File.Menu.SearchCurrentFolder                                =	当前文件夹
+File.Menu.SearchSubFolder                                    =	当前文件夹及子文件夹
+File.Menu.UploadFolder                                       =	上传文件夹
+File.Menu.UseInternalTextEditor                              =	编辑
+File.Message.AddFavSuccessed                                 =	所选项已经成功添加到收藏夹
+File.Message.AddFriendTooFrequently                          =	一天只能给同一个邮箱发送一次邀请
+File.Message.AddMyFavSuccessed                               =	{0} 成功添加到收藏夹
+File.Message.AlwaysAccept                                    =	总是接收
+File.Message.AutoReceiveFile                                 =	{0} 发来 {1} 个文件，共 {2} ，已自动接收
+File.Message.CannotAddMyselfToFriend                         =	不能添加自己为好友。
+File.Message.CheckIfDelete                                   =	您确定要从设备上删除选中的{0}个项目吗？
+File.Message.CheckIfRemoveFromFavorite                       =	您确定要从收藏夹中删除选中的项目吗？
+File.Message.CloudSingeFileSpaceNotEnough                    =	远程传输时单个文件大小不能超过{0}
+File.Message.ConnectingDevice                                =	正在连接...
+File.Message.DeleteAllPromote                                =	确定要删除所有记录吗？
+File.Message.DeleteFile                                      =	您确定要删除选中的记录？
+File.Message.DeleteFileInEditor                              =	您确定要删除文件"{0}"吗?
+File.Message.DirectoryInUsed                                 =	文件夹“{0}”中的“{1}”正在被其他程序占用，无法发送，请检查并关闭相应的程序。
+File.Message.DownloadStopped                                 =	下载停止
+File.Message.DownloadSuccess                                 =	“{0}”下载成功
+File.Message.EmptyMessage                                    =	发送内容不能为空
+File.Message.EnableSendFolder                                =	升级为高级帐户即可使用传输文件夹功能
+File.Message.ExitWithFileTransfering                         =	当前还有任务正在传输，请问您确定要离开？
+File.Message.FileCount                                       =	当前 {0} 个文件/文件夹
+File.Message.FileExportFailure                               =	“{0}”由于网络原因下载失败。
+File.Message.FileExportFailurePermission                     =	“{0}”下载失败。
+File.Message.FileExsited                                     =	您所选的文件已在传输列表。
+File.Message.FileInUsed                                      =	文件“{0}”正在被其他程序占用，无法发送，请检查并关闭相应的程序。
+File.Message.FileNameTooLong                                 =	文件名必须在50个字符内
+File.Message.FileNotExisted                                  =	文件不存在！
+File.Message.FileOpening                                     =	文件{0}已经被打开了，无法再次打开。
+File.Message.FileSearching                                   =	正在对{0}目录进行搜索 ...
+File.Message.FileUploadSucceed                               =	文件上传成功
+File.Message.FolderCannotUploadToCloud                       =	远程传输暂不支持传输文件夹
+File.Message.FreeFileSizeNotEnough                           =	远程传输时单个文件大小不能超过{0}，\r\n升级为高级帐户后单个文件大小可提升\r\n到{1}。
+File.Message.FriendCannotSendDirectory                       =	好友暂时不支持传输文件夹
+File.Message.HasFailed                                       =	有文件传输失败
+File.Message.ImageInUsed                                     =	图片“{0}”正在被其他程序占用，无法发送，请检查并关闭相应的程序。
+File.Message.InviteFriend                                    =	{0} 还不是AirDroid用户，继续添加将会发送邮件邀请他加入？
+File.Message.IsUsingCloud                                    =	您的设备{0}为离线状态（或者与电脑不在同一局域网），\r\n需使用远程传输文件，文件将在服务器暂存7天。\r\n点击“是”表示您同意我们的<Link>{1}</Link>进行离线文件传输。
+File.Message.ItemCount                                       =	共有 {0} 个文件
+File.Message.KitkatExtSDWarning                              =	该设备上运行着Android 4.4 KitKat，并且挂载了外置SD卡。谷歌在Android 4.4 KitKat上添加了新的限制：不允许第三方应用在外置SD卡上进行写入操作。所以在部分运行KitKat的设备上，可能无法在外置SD卡上进行上传、剪切、删除文件/文件夹，新建文件夹等操作。
+File.Message.KitkatExtSDWarningTitle                         =	外置SD卡可能被限制
+File.Message.ListOfDeleteFailure                             =	网络问题导致删除失败。
+File.Message.ListOfDeleteFailurePermission                   =	删除失败。
+File.Message.LoadFailed                                      =	因为网络问题导致获取文件失败，请<refresh>刷新</refresh>。
+File.Message.LoadFolderPermission                            =	因为网络问题或者权限不足导致获取文件失败，请<refresh>刷新</refresh>或授权。\r\n <authorize>如何设置授权</authorize>。
+File.Message.MaxEmailAttachment                              =	无法添加，附件数量不能超过128个。
+File.Message.ModifyRemarkFailed                              =	修改备注失败
+File.Message.MultiNotSupport                                 =	不支持多个项目操作
+File.Message.NewFolderFailure                                =	网络问题导致新建文件夹失败。
+File.Message.NewFolderFailurePermission                      =	新建文件夹失败。
+File.Message.NoFileTransfering                               =	暂时没有正在传输的文件/文件夹
+File.Message.NoNextImage                                     =	已到最后一张图片
+File.Message.NoPrevImage                                     =	已到第一张图片
+File.Message.NoSupportEncoding                               =	文件保存失败，暂不支持此文件的编码格式！
+File.Message.NotContainSpecialChar                           =	文件名不能包含下列字符之一：\r\n\ / : " * ? < > |
+File.Message.NotSupportVideoPreview                          =	目前不支持视频预览！
+File.Message.PasteFailure                                    =	网络问题导致粘贴失败。
+File.Message.PasteFailureGeneral                             =	粘贴文件失败
+File.Message.PasteFailurePermission                          =	粘贴失败。
+File.Message.PasteToSub                                      =	项目 "{0}" 不能复制到它所包含文件夹下
+File.Message.PathNoExist                                     =	路径【{0}】不存在。
+File.Message.Privacy                                         =	隐私条款
+File.Message.RememberMyChoice                                =	记住我的选择
+File.Message.RemoteFreeFileSizeNotEnough                     =	远程传输时单个文件大小不能超过{0}，\r\n升级为高级帐户后单个文件大小可提升\r\n到{1}。
+File.Message.RemoteShareToSNS                                =	远程传输时单个文件大小不能超过{0}，升级为高级帐户后单个文件大小可提升到{1}。
+File.Message.RemoteSingeFileSpaceNotEnough                   =	远程传输时单个文件大小不能超过{0}
+File.Message.RemoveAllRecvRecord                             =	确定要清空所有接收记录？
+File.Message.RemoveFavSuccessed                              =	所选项已经从收藏夹中移除
+File.Message.RemoveMyFavSuccessed                            =	{0} 已从收藏夹中移除
+File.Message.RenameDuplication                               =	无法重命名，此位置已经包含同名文件（夹）。
+File.Message.RenameFailure                                   =	网络原因导致重命名失败。
+File.Message.RenameFailurePermission                         =	重命名失败。
+File.Message.RotateFailure                                   =	网络问题或者权限不足导致旋转失败。
+File.Message.RotateFailureGeneral                            =	文件不存在或者权限不足导致旋转失败
+File.Message.SaveFailedNetwork                               =	网络问题或权限不足导致无法保存到手机
+File.Message.SaveFileToDevice                                =	是否保存对"{0}"所做的修改?
+File.Message.SaveSucceed                                     =	保存成功
+File.Message.SaveToPCOfDisconnection                         =	您的设备已经断开连接了，是否需要另存到电脑？
+File.Message.SaveToPhoneFailure                              =	保存失败
+File.Message.Saving                                          =	正在保存
+File.Message.SendFriendRespFail                              =	{0} 的好友请求处理失败，点击此处到通知中心手动处理。
+File.Message.SendLogToAirDroidTeam                           =	确定发送错误日志给AirDroid Team？
+File.Message.ShareToSNS                                      =	远程传输时单个文件大小不能超过{0}，\r\n升级为高级帐户后单个文件大小可提升到{1}。
+File.Message.SourceAndTargetWithSameName                     =	源文件名与目标文件名相同
+File.Message.StartToReceiveFile                              =	开始接收文件
+File.Message.Stop                                            =	停止任务后，未传完的文件需要重头开始传输，请问是否停止？
+File.Message.StorageNotEnough                                =	“{0}”因空间不足导致传输失败。
+File.Message.SystemFileNoPermission                          =	无法显示，AirDroid没有权限读取文件内容
+File.Message.SystemFileWarning                               =	1. 修改或删除系统文件可能导致您的手机变砖，请小心操作。\r\n2. 因权限问题，您对某些系统文件的操作可能会失败。
+File.Message.TwitterShare                                    =	介绍一个好用的文件传输工具给你：AirDroid
+File.Message.TwitterShareDownload                            =	AirDroid下载地址:{0}
+File.Message.TwitterShareWebSite                             =	AirDroid官网:{0}
+File.Message.UnsupportRotationFormat                         =	不支持旋转{0}格式，目前仅支持JPG（JPEG）格式。
+File.Message.UploadStopped                                   =	上传停止
+File.Message.UploadSuccess                                   =	“{0}”上传成功
+File.Messgae.NotPerssionForFolder                            =	“{0}”上传失败。
+File.Messgae.UploadFailedNetwork                             =	“{0}”因网络原因上传失败。
+File.OpenFileDialog.SelectFile                               =	选择文件
+File.Text.SearchFilesTip                                     =	按回车搜索
+File.TreeNode.FileSearchResult                               =	文件搜索结果
+File.TreeNode.MyFavorite                                     =	收藏
+
+File_Message_ExtSD_Upload_Failed                             =	上传失败，没有权限对外置SD卡进行写入操作
+
+FileManagement.Label.NoDeviceHintFileManagement              =	在电脑上管理安卓设备上的文件
+
+Flating.Button.HideFlatingButton                             =	关闭悬浮球（本次）
+Flating.Button.HideFlatingButtonAlways                       =	关闭悬浮球
+Flating.Button.MarginConceal                                 =	贴边隐藏
+Flating.Button.TopMost                                       =	保持窗口最前
+Flating.Button.Transparency                                  =	不透明度
+Flating.Button.TransparencyNo                                =	不透明
+
+Floating.Button.Friends                                      =	好友
+Floating.Button.My                                           =	设备
+Floating.Button.Neibour                                      =	附近设备
+Floating.Button.Notify                                       =	通知
+Floating.Label.InstallBonjourGuide                           =	您的电脑上未安装Bonjour服务，无法使用附近功能
+Floating.Lable.DragAndDropFile                               =	拖动文件到此处进行传输
+Floating.Message.DisableSilentMode                           =	勿扰模式 - 关
+Floating.Message.EnableSilentMode                            =	勿扰模式 - 开
+
+Game.Label.Game                                              =	精选游戏
+
+ImageView.Message.RotateFailure                              =	网络问题或权限不足导致无法保存到手机。
+ImageView.Message.UnsupportRotation                          =	AirDroid安卓端版本过低，无法同步到手机，请检查升级。
+ImageView.Message.UnsupportRotationFormat                    =	不支持保存{0}格式，目前仅支持JPG（JPEG）格式。
+
+Login.Authorization                                          =	AirDroid 第三方帐号授权
+Login.Button.AgainExamine                                    =	再次检查
+Login.Button.AirDroidWeb                                     =	Web版
+Login.Button.AuthenticatingLogin                             =	正在登录...
+Login.Button.AuthenticatingRegister                          =	正在注册...
+Login.Button.BindingDevice                                   =	再次检查
+Login.Button.BindingDeviceLater                              =	退出，暂不绑定
+Login.Button.CheckUpdate                                     =	检查升级
+Login.Button.ClearAllNotificationPop                         =	清除通知
+Login.Button.CloseNextTime                                   =	退出，下次再试
+Login.Button.Exit                                            =	退出
+Login.Button.FastTransfer                                    =	快速传文件
+Login.Button.ForgetPassword                                  =	忘记密码？
+Login.Button.GoNoNextTime                                    =	继续，下次再升级
+Login.Button.HasVerified                                     =	我已验证
+Login.Button.iSee                                            =	知道了
+Login.Button.logout                                          =	切换帐号
+Login.Button.OpenMainWindow                                  =	打开主窗体
+Login.Button.OpenVNC                                         =	远程控制
+Login.Button.ReConnect                                       =	重新连接
+Login.Button.Register                                        =	注册
+Login.Button.ReLogin                                         =	重新登录
+Login.Button.ShowFloatingFrom                                =	桌面悬浮窗
+Login.Button.SilentMode                                      =	勿扰模式
+Login.Button.UpdateDevice                                    =	去升级
+Login.Button.VerifyNow                                       =	立即验证
+Login.Checkbox.AutoLogin                                     =	自动登录
+Login.Label.AccountPasswordFailed                            =	帐号或者密码不正确！
+Login.Label.AddBeta                                          =	加入AirDroid内测群，获取Beta版
+Login.Label.AddDevice                                        =	您的帐号未绑定设备
+Login.Label.AddDeviceContext                                 =	请到设备上安装AirDroid，并登录帐号完成绑定方可继续使用。
+Login.Label.AlreadyInstall                                   =	我已安装
+Login.Label.ChooseUnbindDevices                              =	选择您需要解绑的设备：
+Login.Label.Code                                             =	验证码
+Login.Label.ConnectServerFailed                              =	连接服务器失败！
+Login.Label.DirectDownloadAPK                                =	直接下载APK安装
+Login.Label.DownloadAndroidPCBateTitle                       =	您的电脑端是Beta版，安卓设备端请升级到对应的版本配合使用
+Login.Label.DownloadAndroidPCChinaDiscussion                 =	参与AirDroid功能讨论欢迎加入QQ群：{0}
+Login.Label.DownloadAndroidPCDiscussion                      =	参与 AirDroid的功能讨论请到：{0}
+Login.Label.DownloadAndroidTitle                             =	您的电脑端是正式版，安卓设备端请升级到对应的版本配合使用
+Login.Label.DownloadAPK                                      =	立即下载
+Login.Label.DownloadPCAndroidBateTitle                       =	您的安卓设备上安装了新的Beta版本，电脑端请升级到相应的版本
+Login.Label.DownloadPCBate                                   =	立即去下载Beta版
+Login.Label.Email                                            =	邮箱
+Login.Label.EmailExist                                       =	该邮箱已被注册！
+Login.Label.EmailFormatFailed                                =	邮箱格式不正确！
+Login.Label.EnterEmail                                       =	请输入邮箱！
+Login.Label.EnterPassword                                    =	请输入密码！
+Login.Label.EnterVerificationCode                            =	请输入验证码！
+Login.Label.EulaPrivacyPolicy                                =	我同意 <eula>用户协议</eula> 和 <privacy>隐私条款</privacy>
+Login.Label.FailedCountNimiety                               =	您在短时间内登录次数过多，请稍后再试！
+Login.Label.FailedToLogin                                    =	登录失败
+Login.Label.Function1                                        =	方法1
+Login.Label.Function2                                        =	方法2
+Login.Label.Function3                                        =	方法3
+Login.Label.HoldDevices                                      =	请至少选择解绑{0}台设备
+Login.Label.HowToAddDevice                                   =	如何绑定设备
+Login.Label.HowUpdateDevice                                  =	如何升级到AirDroid 3
+Login.Label.HowUpdateDeviceIntroduce1                        =	在设备上打开AirDroid,\r\n根据提示进行升级
+Login.Label.HowUpdateDeviceIntroduce2                        =	打开Google Play或者\r\n其他应用商店安装最新版
+Login.Label.HowUpdateDeviceIntroduce3                        =	扫描二维码到设备上进行下载
+Login.Label.InterfaceAstrict                                 =	您在短时间内注册次数过多，请稍后再试！
+Login.Label.IntroducePage1Content                            =	Delight Your Multi-Screen Life
+Login.Label.IntroducePage2Content                            =	在电脑可以接收设备上的所有通知，不会错过电话、\r\n短信、邮件等重要通知。
+Login.Label.IntroducePage2Title                              =	工作时，不会错过任何重要通知
+Login.Label.IntroducePage3Content                            =	无需数据线，电脑与手机之间轻松传图片、工作文档、\r\n链接等内容，没有比这更简单的方式了。
+Login.Label.IntroducePage3Title                              =	电脑和手机之间轻松传文件
+Login.Label.IntroducePage4Content                            =	将手机屏幕映射到电脑上，利用鼠标实时操作手机屏幕。
+Login.Label.IntroducePage4Title                              =	小屏幕映射到大屏幕
+Login.Label.InvalidNickname                                  =	修改昵称失败，包含限制字符
+Login.Label.InvalidToken                                     =	您的登录信息已过期，请重新登录！
+Login.Label.KnockOut                                         =	您的帐号于 {0} 在另一地点登录，您已被迫下线。如果这不是您本人的操作，那么您的密码很可能已经泄露，建议您 <password>修改密码</password>\r\n\r\n如有疑问，请 <log>点击这里</log>
+Login.Label.Logout                                           =	确定要退出帐号吗?
+Login.Label.MaxDeviceLimit                                   =	设备数量超出限制
+Login.Label.NeedNickname                                     =	请输入昵称！
+Login.Label.NeedPwd                                          =	请输入密码以完成注册
+Login.Label.NetworkDisconnected                              =	您的电脑与 AirDroid 服务器的连接已经断开，将无法收到移动设备的通知，请检查网络设置。
+Login.Label.NetworkDisconnectedTitle                         =	服务器连接断开
+Login.Label.Nickname                                         =	昵称
+Login.Label.NicknameFormatFailed                             =	昵称不能包含下列字符：\ / : * “<> | ‘ &&
+Login.Label.NicknameWithin15                                 =	昵称不能超过15个字符！
+Login.Label.NoBindingDevice                                  =	您的帐号下仍然没有绑定设备
+Login.Label.OnPublicComputer                                 =	建议仅在可信任环境下勾选。
+Login.Label.Or                                               =	或
+Login.Label.Password                                         =	密码
+Login.Label.PasswordChanged                                  =	您的密码于 {0} 有变更，为了帐号安全请重新登录。
+Login.Label.PasswordEmpty                                    =	密码不能为空！
+Login.Label.PasswordFormatFailed                             =	密码至少输入8位字符,且至少\r\n要包含一个字母和一个数字！
+Login.Label.PasswordVerificationFailed                       =	密码不正确！
+Login.Label.PremiunExpired                                   =	高级帐户到期
+Login.Label.Ready                                            =	准备就绪，您的Android设备有通知时将会自动通知您
+Login.Label.Scan                                             =	扫描二维码
+Login.Label.ScanTwoDimensionalCodeDownload                   =	扫描二维码下载
+Login.Label.Skip                                             =	我已安装
+Login.Label.Step1                                            =	第一步
+Login.Label.Step1Context                                     =	在您的设备上安装AirDroid
+Login.Label.Step2                                            =	第二步
+Login.Label.Step2Context                                     =	打开AirDroid输入您的帐号密码
+Login.Label.Step3                                            =	第三步
+Login.Label.Step3Context                                     =	成功开启AirDroid之旅
+Login.Label.ToAndroidUpgrade                                 =	在安卓端直接升级
+Login.Label.ToGooglePlayDownload                             =	到 Google Play 下载
+Login.Label.TooManyPasswordRetries                           =	密码输入错误次数太多，请10分钟后再试！
+Login.Label.ToPhoneDownload                                  =	<Link>直接下载 APK 到安卓设备上</Link>
+Login.Label.ToPhoneDownloadEnd                               =	已在安卓设备上开始下载，请到设备上安装
+Login.Label.ToPhoneDownloadRetry                             =	<Retry>向 {0} 推送失败，点击重试</Retry>
+Login.Label.UnbindExtraDevices                               =	您的高级帐户已经到期，同一个帐户只能管理{0}台设备，请选择您需要解绑的设备，或升级为高级帐户后升级您的设备绑定数量。
+Login.Label.UnbindExtraDevicesVIP                            =	您当前的高级帐户套餐只能同时绑定{0}台设备，您需要解绑已有设备，或者升级设备数来绑定更多设备。
+Login.Label.UnbindPC                                         =	您的帐号于 {0} 在个人中心中取消了在这台电脑登录。如果这不是您本人的操作，那么您的密码很可能已经泄露，建议您 <password>修改密码</password>\r\n\r\n如有疑问，请 <log>点击这里</log>
+Login.Label.UnsupportTwoStepAuth                             =	您已经开启两步验证，请升级到最新版本才能继续使用。
+Login.Label.UpdateAirDroid3                                  =	您有设备尚未升级到AirDroid 3
+Login.Label.UpdateAirDroid3Context                           =	若想体验AirDroid 3 PC版的强大功能，请先将设备中的AirDroid升级为最新版本
+Login.Label.UpgradeToBackupVideo                             =	升级后可以备份视频（需为高级帐户）
+Login.Label.UpgradeToNewest                                  =	使用该功能安卓版需要升级到最新版本
+Login.Label.UpgradeToUseAirCloud                             =	升级后可以在电脑上备份文件，安全又快捷
+Login.Label.UpgradeToUseAirIME                               =	升级后可以电脑当手机的键盘，轻松输入
+Login.Label.UpgradeToUseClipboard                            =	升级后可以共享手机和电脑的剪贴板
+Login.Label.VerificationFailed                               =	验证码错误！
+Login.Label.VersionTooLow                                    =	很抱歉，您的客户端版本太低了，需要升级到最新版本才能继续使用。
+Login.Message.ClickToLogin                                   =	点击登录
+Login.Message.ForbiddenKnockout                              =	由于您的帐号存在违规行为，我们已限制了您的远程连接。如有疑问请与我们联系。
+Login.Message.Knock                                          =	下线通知
+Login.Message.NotVerified                                    =	尚未完成验证
+Login.Message.UnbindFailed                                   =	解绑失败，请重试
+Login.Message.VeryfyEmail                                    =	您尚未进行邮箱验证，为了您的帐号安全，请验证您的邮箱
+Login.NotifyIcon.Connected                                   =	AirDroid 3\r\n正在运行
+Login.NotifyIcon.Connecting                                  =	AirDroid 3\r\n正在连接...
+Login.NotifyIcon.DisConnected                                =	AirDroid 3\r\n已断开连接
+
+Main.Button.FileSystem                                       =	文件管理
+Main.Button.UDisk                                            =	U盘
+Main.Button.UpdateNow                                        =	退出AirDroid并更新
+Main.Message.CheckingUpgrade                                 =	正在检测升级 ...
+Main.Message.DownloadingNewVersion                           =	正在下载最新版本...
+Main.Message.NetworkDisconnectCanNotUpgrade                  =	网络不通，无法完成升级，请检查您的网络。
+Main.Message.UpdatedNewVersion                               =	{0}已经是最新版本了
+Main.Message.UpdateNow                                       =	AirDroid正在运行中，点击确定按钮将会关闭AirDroid！
+Main.Upgrade.Button.Ignore                                   =	忽略此版本
+Main.Upgrade.Button.UpgradeAtOnce                            =	立即升级
+Main.Upgrade.Button.UpgradeLater                             =	稍后再说
+Main.Upgrade.Label.ForceUpgrade                              =	尊敬的用户，您的AirDroid版本过低，已经无法继续使用，请升级到最新版本。
+Main.Upgrade.Label.GetLogFailed                              =	更新日志获取失败！
+Main.Upgrade.Label.UpgradeInfo                               =	AirDroid有新版本啦！\r\nAirDroid 推出新版本了，您正在使用的为旧版本{0}，建议您立即升级。
+Main.Upgrade.Text                                            =	有新的版本可以升级
+
+Main_Code_Expire                                             =	验证码已失效！
+
+Main_InvalidCode                                             =	验证码错误！
+
+Main_SendValid_Fail                                          =	重新发送验证失败
+
+Main_Signup_inputpwd                                         =	请输入密码以完成注册
+
+Main_signup_inputpwdAndMail                                  =	请输入邮箱和密码以完成注册
+
+Media.Label.Empty                                            =	没有内容或者没有读取权限
+Media.Message.Finished                                       =	完成
+
+MessageForm.Button.CopyAndReplace                            =	替换
+MessageForm.Button.CopyAndReplaceToolTip                     =	使用正在复制的文件替换目标文件夹中的文件
+MessageForm.Button.CopyNew                                   =	保留两者
+MessageForm.Button.CopyNewToolTip                            =	将不会更改任何文件。将此文件保留在目标文件夹中
+MessageForm.Button.Uncopy                                    =	不要复制
+MessageForm.CheckBox.ExecuteSameOperation                    =	为本次任务的所有文件执行此操作
+MessageForm.Label.IncludeSameName                            =	设备“{0}”已经包含与“{1}”同名文件。
+MessageForm.Label.IncludeSameNameOnPC                        =	电脑上已经包含与“{0}”同名的文件。
+
+MsgCenter.Label.ConnectFailureGuide                          =	设备连接指南
+MsgCenter.Label.HowToUpdate                                  =	如何升级？
+MsgCenter.Label.UpdateAirDroid                               =	您的设备尚未升级为AirDroid 3，快快去升级吧！
+
+Music.Message.DeleteSuccessed                                =	删除成功。
+Music.Message.DeletingMusic                                  =	正在删除：{0}
+
+Notification.Button.AddToBlackList                           =	勿扰应用
+Notification.Label.DeviceDisableNotificationService          =	按以下步骤到设备上开启“桌面通知服务”
+Notification.Label.GetBlackListFailed                        =	获取勿扰应用列表失败
+Notification.Label.NoNewNotification                         =	没有收到新通知
+Notification.Label.NoNotification                            =	没有通知
+Notification.Message.AddToBlackListFailed                    =	设置失败，请重试。
+Notification.Message.RemoveAll                               =	确定要清空所有通知记录吗？
+Notification.Message.RemoveFromBlackListFailed               =	设置失败，请重试。
+
+Notify.Button.ClearUnread                                    =	标记为已读
+Notify.Button.Disable                                        =	勿扰
+Notify.Button.Dismiss                                        =	清除
+Notify.Button.More                                           =	更多...
+Notify.Button.SyetemNotify                                   =	系统通知
+Notify.Label.AddBackListFailure                              =	{0}设置为勿扰模式失败。
+Notify.Label.DeleteMessage                                   =	您确定要删除 {0} 这条记录？
+Notify.Label.DeleteSMSFailure                                =	{0} 的短信删除失败。
+Notify.Label.DeleteSystemNotify                              =	确定要删除这条记录吗？
+Notify.Label.DeleteTitle                                     =	删除
+Notify.Label.DismissNotifyFailure                            =	{0}这条通知清除失败。
+Notify.Label.Empty                                           =	暂无通知
+Notify.Label.MessageReplyFailure                             =	给 "{0}" 的消息 "{1}" 发送失败。
+Notify.Label.NoDeviceHintNotify                              =	绑定安卓设备后，可以在电脑上接收安卓设备上的通知，不会错过重要通知
+Notify.Label.NoSystemNotify                                  =	无系统通知
+Notify.Label.Notify                                          =	通知
+Notify.Label.OperationFailure                                =	{0}: {1}操作失败。
+Notify.Label.PopApp                                          =	没有开启勿扰模式的应用
+Notify.Label.ReceiveNewSMS                                   =	您收到了 {0} 条新短信
+Notify.Label.RemoveBackListFailure                           =	{0}将勿扰模式关闭失败。
+Notify.Label.SelectNotify                                    =	请选择一条通知
+Notify.Label.Silent                                          =	勿扰应用
+Notify.Label.SilentInfo                                      =	勿扰应用的通知将不会被AirDroid接收
+
+Notiyf.Label.NoDisturbMessage                                =	关闭后，电脑上将不会再显示该应用的通知，手机上仍会收到该应用的通知
+
+OpenNoty.Label.Content                                       =	您有新的短信、来电、微信消息等一些重要通知时，将无法在PC上接收到
+OpenNoty.Label.MeStepContent1                                =	打开AirDroid，进入“个人-安全及远程功能设置”项
+OpenNoty.Label.MeStepContent2                                =	点击桌面通知
+OpenNoty.Label.MeStepContent3                                =	打开“AirDroid桌面通知服务”开关
+OpenNoty.Label.NotyServe                                     =	桌面通知服务
+OpenNoty.Label.StepContent1                                  =	在设备上打开AirDroid，进到“设置”项
+OpenNoty.Label.StepContent2                                  =	点击“桌面通知服务”
+OpenNoty.Label.StepContent3                                  =	将“桌面通知服务”勾选
+OpenNoty.Label.Title                                         =	AirDroid无法收取 {0} 的通知
+OpenNoty.Label.V4StepContent1                                =	打开AirDroid，点击"工具箱->桌面通知"
+OpenNoty.Label.V4StepContent2                                =	点击"桌面通知->立即开启"
+
+Popup.Button.Accept                                          =	接听
+Popup.Button.Custom                                          =	自定义...
+Popup.Button.Decline                                         =	拒听
+Popup.Button.Deleting                                        =	正在删除...
+Popup.Button.HelperMeAccept                                  =	帮我接通
+Popup.Button.Mute                                            =	静音
+Popup.Button.NoAccept                                        =	暂不接通
+Popup.Button.Reply                                           =	回复
+Popup.Button.Send                                            =	发送
+Popup.Label.ConfirmDeleteSMS                                 =	您确定要删除这条短信吗？
+Popup.Label.From                                             =	来自 {0}
+Popup.Label.InputSMSContent                                  =	请输入短信内容
+Popup.Label.MissedCall                                       =	有{0}个未接来电
+Popup.Label.NewDevice                                        =	您的帐号有新的移动设备绑定成功：{0}
+Popup.Label.NoSupportAnswer                                  =	暂时无法直接使用电脑进行通话，\r\n是否要帮您接通，您再到手机上接听。
+Popup.Label.RemoveDevice                                     =	您的设备：{0} 已经成功解除绑定
+Popup.Label.ReplyPlaceHolder                                 =	输入内容并按 "Enter" 发送
+Popup.Message.AcceptFailed                                   =	操作失败！
+Popup.Message.AcceptSuccess                                  =	操作成功！
+Popup.Message.CallYouLater                                   =	稍后打给你。
+Popup.Message.DecliningFailed                                =	操作失败！
+Popup.Message.DeniedVerify                                   =	{0} <{1}> 拒绝了您的好友请求
+Popup.Message.InMetting                                      =	我正在开会。
+Popup.Message.MutingFailed                                   =	操作失败！
+Popup.Message.PassedVerify                                   =	{0} <{1}> 接受了您的好友请求
+Popup.Message.RemoveFriend                                   =	移除好友
+Popup.Message.SendSuccessful                                 =	发送成功
+Popup.Message.VerifyFriend                                   =	好友验证
+
+Register.Label.InvalidNickname                               =	注册失败，昵称包含限制字符
+
+rs_addon_not_install                                         =	未安装相应插件，无法远程控制设备
+
+rs_common_biznetworkissue_tips                               =	连接失败，请检查网络连接是否正常
+
+rs_common_message_connectrestore                             =	连接已恢复
+
+rs_common_rsnetworkissue_tips                                =	连接失败，对方网络存在异常请稍后重试
+
+rs_gesture_content_disable                                   =	已关闭
+
+rs_gesture_content_enable                                    =	已开启
+
+rs_gesture_title                                             =	引导手势
+
+rs_voicemessage_autosend                                     =	说话时间太长，已自动发送
+
+Setting.Button.About                                         =	关于
+Setting.Button.BasicSetting                                  =	基本设置
+Setting.Button.NearbyDevice                                  =	信任设备
+Setting.Button.NotificationSettings                          =	通知设置
+Setting.Button.Set                                           =	设置
+Setting.CheckBox.Allow                                       =	自动使用远程传输
+Setting.CheckBox.Auto                                        =	自动
+Setting.CheckBox.AutoCloseSMSNotify                          =	短信通知自动关闭(7秒)
+Setting.CheckBox.AutoDownloadCloudFile                       =	自动下载离线文件
+Setting.CheckBox.ClickNotifyOpenVNC                          =	点击通知打开远程控制
+Setting.CheckBox.FirstTry                                    =	询问是否使用远程传输
+Setting.CheckBox.Forbid                                      =	不允许使用远程传输
+Setting.CheckBox.NameSurname                                 =	名，姓
+Setting.CheckBox.NoShowSMSContent                            =	短信通知不显示短信内容
+Setting.CheckBox.OpenNotifyVoice                             =	开启声音提醒
+Setting.CheckBox.ShowUnreadNotifyCount                       =	在主窗体图标上显示未读消息数
+Setting.CheckBox.SpellCheck                                  =	开启拼写检查
+Setting.CheckBox.StartWhenOpenSystem                         =	系统启动时运行AirDroid
+Setting.CheckBox.SurnameName                                 =	姓，名
+Setting.Label.AlwaysAskAirMirror                             =	每次询问
+Setting.Label.BackupFolder                                   =	相册备份到：
+Setting.Label.CloseAirMirror                                 =	关闭远程控制时：
+Setting.Label.CommonNotifyCloseTime                          =	通知自动关闭：
+Setting.Label.DeviceName                                     =	设备名称
+Setting.Label.DirectCloseAirMirror                           =	直接关闭
+Setting.Label.FileSendFailure                                =	文件传输失败时：
+Setting.Label.FormatMinute                                   =	{0} 分
+Setting.Label.FormatSecond                                   =	{0} 秒
+Setting.Label.FullScreen                                     =	全屏模式时自动开启勿扰模式
+Setting.Label.IPAddress                                      =	IP地址
+Setting.Label.KeepAliveTenMinutesAirMirror                   =	后台保持连接10分钟
+Setting.Label.Language                                       =	语言：
+Setting.Label.NoAutoClose                                    =	不自动关闭
+Setting.Label.NoDisturbance                                  =	勿扰模式：
+Setting.Label.NoDisturbanceMessage                           =	开启后，收到通知不弹窗提示，且没有声音提醒
+Setting.Label.NotilfyRemind                                  =	消息提醒：
+Setting.Label.NoTrustDevice                                  =	无信任的设备
+Setting.Label.ReceiveFileFolder                              =	接收的文件保存到：
+Setting.Label.RecordingFolder                                =	录屏保存到:
+Setting.Label.ScreenshotFolder                               =	截图/视频保存到：
+Setting.Label.Settings                                       =	设置
+Setting.Label.ShowOrder                                      =	联系人的显示顺序：
+Setting.Label.SMSNotifyCloseTime                             =	短信通知自动关闭：
+Setting.Label.SortOrder                                      =	联系人的排序顺序：
+Setting.Label.Start                                          =	启动
+Setting.Label.Trust                                          =	信任
+Setting.Label.TrustRemark                                    =	信任： 表示这台设备给我传文件时不需要询问我，自动接收。
+Setting.Message.CannotWriteInFolder                          =	权限不足，无法保存到该路径
+Setting.Message.RestarApp                                    =	设置语言生效需要重启程序，是否立即执行重启？
+
+SMS.Button.Emotion                                           =	选择表情
+SMS.Button.NewMessage                                        =	新建短信
+SMS.Label.DeleteGroup                                        =	确定要删除 {0} 的所有短信吗？
+SMS.Label.DeleteingGroup                                     =	正在删除...
+SMS.Label.DeleteSelectSMS                                    =	确定要删除选中的短信吗？
+SMS.Label.Message                                            =	短信
+SMS.Label.NoDeviceHintSMS                                    =	在电脑上发短信，方便快捷
+SMS.Label.NoSearchSMS                                        =	没有符合条件的短信
+SMS.Label.SearchGroup                                        =	按联系人搜索
+SMS.Label.SearchSMS                                          =	按短信内容搜索
+SMS.Label.SelectSMSGroup                                     =	请选择一条会话
+SMS.Label.TemporarilyNoMessage                               =	暂无短信
+SMS.Message.CannotDeleteConversion                           =	很抱歉，暂不支持ROM版本为4.4及以上的设备删除短信！
+SMS.Message.CanotFoundSIM                                    =	未检测到SIM卡
+SMS.Message.ConversionEmpty                                  =	无短信记录
+SMS.Message.DeleteFailure                                    =	删除失败
+SMS.Message.DeleteSelectSMSFailure                           =	删除 {0} 的短信失败！
+SMS.Message.DeleteSelectSMSPemissionDenied                   =	“{0}” 的短信由于权限不足删除失败，请到“设置->应用->AirDroid->权限”打开所有权限。<Link>更多详情</Link>
+SMS.Message.DeleteSucceed                                    =	删除成功
+SMS.Message.IfDeleteConversion                               =	确认要删除{0}这条短信吗？
+SMS.Message.MessageCanotEmpty                                =	发送内容不能为空！
+SMS.Message.MessageSendFailure                               =	短信可能发送失败，请在设备上查看发送结果。
+SMS.Message.NewMessageTo                                     =	新信息发送给“{0}”
+SMS.Message.NoSelectContact                                  =	请选择联系人
+SMS.Message.PermissionDenied                                 =	给 "{0}" 的短信发送失败，请到“设置->应用->AirDroid->权限”打开所有权限。<Link>更多详情</Link>
+SMS.Message.RemoteDeleteSelectSMSPemissionDenied             =	删除联系人 {0} 的短信失败\r\n请在手机端“个人-安全及远程功能设置”中开启“远程短信”的远程权限。
+SMS.Message.RemoteSendPermissionDenied                       =	给 "{0}" 的短信发送失败，请在手机端“个人-安全及远程功能设置”中开启“远程短信”的远程权限。
+SMS.Message.SendFail                                         =	给 "{0}" 的短信发送失败。
+SMS.Message.SureDeleteMessage                                =	确定要删除这条短信吗？
+
+transfer_chatitem_resend_action                              =	重新发送
+
+Unbind.Button.Unbind                                         =	解绑
+Unbind.Button.Unbinding                                      =	正在解绑...
+Unbind.Label.Info                                            =	您现在正在取消绑定设备：{0} ，为保证您设备的安全，需要输入密码才能取消绑定
+Unbind.Lable.FailToVerify                                    =	验证失败，请重试!
+Unbind.Lable.PasswordIncorrect                               =	密码不正确！
+
+Update.Message.GoToWebSite                                   =	安装包下载失败，您可以到AirDroid官网手动下载安装。
+
+Upgrade.Message.ContinueUse                                  =	下载中...
+
+USB.Button.EnableWebsocketAirmirror                          =	使用免Root模式
+USB.Button.HasEnableDebugMode                                =	我已打开
+USB.Button.ShowDebugModeGuide                                =	查看详细设置方法
+USB.Label.AndroidNotsupport                                  =	抱歉，由于兼容性的原因，暂不支持ROM版本低于{0}的设备。
+USB.Label.DisconnectedWithoutSceenShot                       =	无法显示设备界面，你可以：\r\n1. 点击“重试”重新向设备发送请求\r\n2. 或者使用远程控制免Root模式：\r\n > 请在设备上打开“USB调试模式”\r\n > 将设备用USB线连接到电脑
+USB.Label.EnableUSBDebug                                     =	打开USB调试后，将设备用USB线连接电脑即可开始使用
+USB.Label.EnableUSBDebugRestart                              =	若设备有重启，再次使用时则需要重新将设备与电脑用USB线连接一次
+USB.Label.KillAirMirrorFailed                                =	抱歉，您远程设备上的远程控制服务无法启动，您可以：\r\n1. 点击“重试”重新向设备发送请求\r\n2. 或者，对远程设备重新执行免Root操作
+USB.Label.NoRootCanUseNotRootAirMirror                       =	此设备未Root，请点击"执行免Root操作"按钮进行免Root操作
+USB.Label.RootDeny                                           =	您未允许AirDroid获取超级用户权限，您可以：\r\n1. 检查Root程序的权限设置，并注意远程设备上弹出的相关权限请求\r\n2. 或者，使用远程控制免Root模式：\r\n > 请在设备上打开“USB调试模式”\r\n > 将设备用USB线连接到电脑
+USB.Label.StartADBAirMIrrorFailed                            =	抱歉，可能是由于兼容性的原因，暂不支持您的设备，若有疑问可以联系我们：support@airdroid.com。
+USB.Label.StartAirMirrorFailed                               =	您远程设备的Root无效，您可以：\r\n1. 检查Root程序的权限设置或再次Root您的远程设备\r\n2. 或者，对远程设备重新执行免Root操作
+USB.Label.TryUSBConnect                                      =	执行免Root操作
+USB.Label.WaitingForDevice                                   =	您的设备未连接USB线，请连接后重试
+USB.Title.USBDeviceFormTitle                                 =	连接设备 - {0}
+
+UserCenter.Message.Buy                                       =	我要购买
+
+View.Button.SaveToPhone                                      =	保存到手机
+View.Message.RotateFailureGeneral                            =	文件不存在或者权限不足导致无法保存到手机
+
+VNC.Button.AirIME                                            =	远程输入法
+VNC.Button.AlreadyInstallPlugin                              =	我已安装
+VNC.Button.AlreadyUpgradePlugin                              =	我已升级
+VNC.Button.Camera                                            =	远程相机
+VNC.Button.ChangeDevice                                      =	切换设备
+VNC.Button.DirectCloseAirMirror                              =	直接关闭
+VNC.Button.GoEmbedded                                        =	召回
+VNC.Button.GoOn                                              =	之前可以使用？ <Link> 继续尝试 </Link>
+VNC.Button.KeepAliveAirMirror                                =	保持连接
+VNC.Button.LookScreenshot                                    =	截图保存成功, 点击查看
+VNC.Button.LookScreenshotFailure                             =	截图失败！
+VNC.Button.LookScreenshotIng                                 =	正在保存截图...
+VNC.Button.LookScreenshotToClip                              =	截图成功保存到剪贴板
+VNC.Button.NoHint                                            =	这台设备不再提示
+VNC.Button.RetlyConnect                                      =	重新连接
+VNC.Button.RetryRequest                                      =	重新发送请求
+VNC.Button.UpgradeAirDroidRefreshDevices                     =	正在检查...
+VNC.Button.UpgradeAirDroidRetry                              =	再次检查
+VNC.Button.UseScreenShot                                     =	屏幕镜像
+VNC.Label.AboveMethodNoHelp                                  =	以上无法帮助您，<Open>点击反馈</Open>
+VNC.Label.AndroidMaxNonsupport                               =	您的安卓设备系统版本为{0}，\r\n远程控制暂不支持该系统版本，\r\n我们将在后续版本逐步兼容。
+VNC.Label.AndroidNonsupport                                  =	我们检测到您的安卓设备系统版本过低，\r\n远程控制目前仅支持搭载安卓4.0\r\n及以上版本系统的设备。
+VNC.Label.Camera                                             =	电脑开启手机摄像头，监控拍摄
+VNC.Label.CameraGoPremium                                    =	该功能可以让您通过手机摄像头查看周围环境，并收听声音。
+VNC.Label.CameraPermissionDenied                             =	启动摄像头失败，请到设备上打开相机权限。
+VNC.Label.ChangeUSBLine                                      =	更换USB接口或更换USB线
+VNC.Label.CheckingFor                                        =	正在检查...
+VNC.Label.CloseAirMirrorHint                                 =	要退出{0}吗？
+VNC.Label.ComputerControlPhone                               =	电脑操控手机，轻松自如
+VNC.Label.ConnectADBFailInAirMirror                          =	未能正常连接设备，请确认设备与电脑连接USB线，并到设备上打开“USB调试模式”。
+VNC.Label.ConnectFailureRetryUnderMethod                     =	设备 {0} 连接失败，请尝试以下方法：
+VNC.Label.ConnectingDeviceNoPulUpLine                        =	设备连接过程中，请不要拔掉USB线
+VNC.Label.ConnectionDeviceLaterOn                            =	正在连接设备{0}，请稍侯
+VNC.Label.ConnetDisconnectHint                               =	抱歉，与设备的连接断开了，您可以：\r\n1. 检查远程设备的网络是否正常\r\n2. 尝试唤醒或解锁远程设备\r\n3. 尝试在远程设备上打开AirDroid
+VNC.Label.ConnetFailureHint                                  =	连接设备失败，您可以按以下步骤操作后重试： \r\n1. 检查远程设备的网络是否正常\r\n2. 尝试唤醒或解锁远程设备\r\n3. 尝试在远程设备上打开AirDroid
+VNC.Label.ContentDeviceClickOk                               =	连接USB线，设备上会弹出如上界面，请点击"确定"
+VNC.Label.DeviceConnecting                                   =	正在连接设备...
+VNC.Label.DownloadDriverFailureRetry                         =	驱动下载失败，请<Retry>重试</Retry>。
+VNC.Label.EnableScreenShot                                   =	请在手机上点击“立即开始”
+VNC.Label.EnableScreenShotGuide                              =	为了下次使用方便建议勾选"不再显示"，\r\n若手机上未显示以上提示授权窗口，请将手机上的"AirDroid"重新打开。\r\n\r\n <Link>{0}</Link> 秒后可重试。
+VNC.Label.ESCCloseFullAirMirrorHint                          =	退出全屏(Esc)
+VNC.Label.FailureVideo                                       =	视频录制失败
+VNC.Label.FlowBeyondHint                                     =	您的远程数据流量已经消耗完，\r\n若您已升级为高级帐户请点击“重试”\r\n重新连接。
+VNC.Label.GetRootContext                                     =	若您的手机已ROOT，请按手机上的提示授予\r\nAirDroid超级用户权限：
+VNC.Label.GetRootFailuretHint                                =	1. 目前仅支持已ROOT设备及部分品牌的未ROOT设备\r\n2. 若您是手机厂商, 希望支持您的设备可以通过邮件联系我们：biz@airdroid.com
+VNC.Label.GetRootFailureTop                                  =	无法获取超级用户权限
+VNC.Label.GetRootTop                                         =	正在尝试获取超级用户权限...
+VNC.Label.GoEmbeddedGuide                                    =	{0}正在它的独立窗口里运行
+VNC.Label.HowOpenUSBDebug                                    =	点击 <Open>如何开启？</Open> 查看教程
+VNC.Label.InstallAirMirrorPlugin                             =	远程控制 引擎，请到安卓设备上安装
+VNC.Label.InstallDriverFailureRetry                          =	设备{0}的驱动安装失败，请重新安装
+VNC.Label.InstallDriverLoading                               =	驱动安装过程中不要重启电脑，该过程可能需要点击确认，请耐心等待。
+VNC.Label.InstallPluginFailuretHint                          =	请到设备上安装远程控制引擎，安装好引擎后即可在电脑上使用安卓设备。
+VNC.Label.KillServiceFailed                                  =	抱歉，您移动设备上的远程控制服务无法启动，请重启您的设备。
+VNC.Label.NoBindingAndroidDevice                             =	远程控制 仅支持安卓设备，您的帐号下未绑定安卓设备。
+VNC.Label.NoBindingDevice                                    =	远程控制 仅支持安卓设备，您的帐号下未绑定安卓设备。
+VNC.Label.NoConnectDeviceOpenUSBDebug                        =	未能正常连接设备，请到设备上将USB调试模式打开
+VNC.Label.NoConnetDevice                                     =	该设备已解除绑定，远程控制不能连接该设备！
+VNC.Label.NoDeviceHintVNC                                    =	电脑控制手机，监控拍摄，远程操作
+VNC.Label.NonRoot                                            =	免Root
+VNC.Label.NoRootCanUseScreenShot                             =	1. 如果您需要操控手机，请将设备用USB线连接到电脑并打开“USB调试模式”，然后点击“我已设置，开始使用”。\r\n2. 如果您不需要操控手机，请点击“屏幕镜像（免Root）”，无需连接USB线。
+VNC.Label.NoSupportDeviceHint                                =	远程控制 暂不支持您的设备，我们正 \r\n在努力兼容更多设备型号，敬请期待。
+VNC.Label.NoSupportVncHint                                   =	很抱歉，远程控制目前还不支持您的\r\n设备，我们将在后续版本中进行\r\n兼容。
+VNC.Label.NotRootHint                                        =	远程控制目前仅支持已Root设备，您的设备未Root暂时无法使用。
+VNC.Label.OpenDirectory                                      =	打开保存目录
+VNC.Label.RefreshFlow                                        =	流量已经使用完，点击刷新
+VNC.Label.RefreshFlowSucceed                                 =	已增加流量，可继续使用
+VNC.Label.RefreshIngFlow                                     =	正在刷新...
+VNC.Label.RetryComputerPhone                                 =	重启移动设备或电脑
+VNC.Label.RetryInstall                                       =	重新安装
+VNC.Label.RootDenyHint                                       =	您未允许AirDroid获取超级用户权限，请到设备上给AirDroid授权，再点击“重试”继续。
+VNC.Label.SaveAs                                             =	另存为
+VNC.Label.SaveToClip                                         =	截图到剪贴板
+VNC.Label.SceenShotAuthDenied                                =	您未允许AirDroid开始截屏，无法在电脑上正常显示手机界面
+VNC.Label.SceenShotFailure                                   =	抱歉，无法正常使用屏幕镜像，您可以按以下步骤操作后重试：\r\n1. 检查设备的网络是否正常\r\n2. 唤醒或解锁您的安卓设备\r\n3. 重启AirDroid
+VNC.Label.ScreenshotGuide                                    =	无需Root，截图录屏，轻松演示
+VNC.Label.ScreenshotNmae                                     =	AirDroid屏幕截图
+VNC.Label.SelectDevice                                       =	请选择要连接的设备
+VNC.Label.SOS                                                =	远程协助
+VNC.Label.StartAirMirrorServiceFailed                        =	您的设备Root程序好像有些问题，超级用户权限无法获取，请检查Root程序的权限设置（或者重新Root）
+VNC.Label.StartAirMirrorTimeoutHint                          =	抱歉，远程控制服务启动失败，您可以：\r\n1. 点击“重试”重新向设备发送请求\r\n2. 或者，对远程设备重新执行免Root操作
+VNC.Label.StartVideo                                         =	开始录制视频
+VNC.Label.StatusLAN                                          =	局域网
+VNC.Label.StatusWAN                                          =	远程
+VNC.Label.StopVideo                                          =	结束视频录制，正在生成视频...
+VNC.Label.SuccessVideo                                       =	视频录制成功，点击查看
+VNC.Label.ToDeviceRetryOpenUSBDebug                          =	重新打开USB调试模式  <How>查看开启方法</How>
+VNC.Label.ToDeviceVerifyAccredit                             =	到设备上确认是否授权  <How>如何授权</How>
+VNC.Label.UpdateAirMirrorAndroid                             =	AirDroid移动版，请到安卓设备上升级
+VNC.Label.UpdateAirMirrorPlugin                              =	远程控制 引擎，请到安卓设备上升级
+VNC.Label.UpdateAirMirrorWindows                             =	远程控制 PC版
+VNC.Label.UpdatePluginFailuretHint                           =	您的远程控制引擎是旧版的，请到设备上安装新版引擎才能继续使用电脑控制安装设备。
+VNC.Label.UpdateTheseApplication                             =	要使用远程控制，请先升级以下程序：
+VNC.Label.UpgradeAirDroidHint                                =	您的设备尚未升级到 AirDroid 3，\r\n无法使用 远程控制 ，\r\n请先到设备上升级最新版本再试。
+VNC.Label.WillSupportHint                                    =	抱歉，您的设备未Root，暂时无法使用远程控制。此设备型号即将支持免Root使用远程控制，敬请期待！
+VNC.Menu.HD                                                  =	高清
+VNC.Menu.LD                                                  =	流畅
+VNC.Menu.SD                                                  =	标清
+VNC.Message.FirstUseCamera                                   =	使用相机功能时，AirDroid需要独占您手机的摄像头，在此期间您将无法在手机上使用照相机进行拍照。
+VNC.Message.FlashOnFailed                                    =	打开手电筒失败
+VNC.Message.IsSwitchingCamera                                =	正在切换......
+VNC.Message.MaxCocurrentLimit                                =	普通用户只能同时控制{0}台设备，若需要同时控制更多设备请升级为高级帐户
+VNC.Message.MaxCocurrentLimitToBusiness                      =	高级帐户只能同时控制 {0} 台设备，若需要同时控制更多设备请使用企业版
+VNC.Message.NoRootGuideInRemotePermissionDenied              =	如果您的设备未Root，请Root设备或执行免Root操作后再进行远程控制，<Link>查看免Root详细操作步骤</Link>
+VNC.Message.OtherMaxCocurrentLimit                           =	其他客户端正在远程控制设备，普通用户只能同时控制{0}台设备，若需要同时控制更多设备请升级为高级帐户
+VNC.Message.OtherMaxCocurrentLimitBusiness                   =	其他客户端正在远程控制设备，高级帐户只能同时控制 {0} 台设备，若需要同时控制多台设备请使用企业版
+VNC.Message.SameDeviceConnetecByOther                        =	其他客户端正在连接当前设备
+VNC.Message.StartCameraFailed                                =	启动摄像头失败，请先确认设备上是否有摄像头，并在设备上退出照相机或者到设备上授权使用摄像头，然后重试
+VNC.Message.StartCameraFailedShort                           =	启动摄像头失败，请到设备上打开相机权限。
+VNC.Message.SwitchingDefinition                              =	正在切换画面分辨率...
+VNC.Message.UpgradeToSupportScreenShot                       =	此功能仅支持AirDroid安卓端最新版本，请检查升级后再使用！
+
+Webkit.ContextMenu.Print                                     =	打印
+
+Welcome.Button.SaveToPC                                      =	另存到电脑
+Welcome.Label.BuiltInSDCard                                  =	SD卡
+Welcome.Label.Phone                                          =	系统
+Welcome.Label.SDCard                                         =	外置SD卡

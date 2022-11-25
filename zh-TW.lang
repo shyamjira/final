@@ -1,0 +1,1233 @@
+﻿About.Label.AirDroidForWin                                   =	AirDroid Windows
+About.Label.Context                                          =	AirDroid是一款讓您可以通過電腦輕鬆管理移動裝置的應用。在電腦端可以接收裝置的通知，回覆簡訊，電腦與裝置高效互傳檔案，遠端控制更能實現電腦完全控制安卓裝置。
+About.Label.OfficialWebsite                                  =	官網
+About.Label.PrivacyPolicy                                    =	隱私條款
+About.Label.Version                                          =	Version
+
+ad_verify_mail_resend                                        =	重新發送
+
+AirCloud.Button.BackupNow                                    =	立即備份
+AirCloud.Button.CancelBackup                                 =	取消備份
+AirCloud.Button.ContinueBackup                               =	繼續備份
+AirCloud.Button.StartBackup                                  =	我要備份
+AirCloud.Label.Backuping                                     =	正在備份（{0}%）
+AirCloud.Label.CancelBackup                                  =	備份了{0}個檔案，{1}個檔案未備份
+AirCloud.Label.ConnectFailed                                 =	與裝置不在同一個區網中
+AirCloud.Label.EnableAutoBackup                              =	2.確認開啓自動備份選項，才會做自動備份
+AirCloud.Label.FirstBackup                                   =	你還沒有備份過
+AirCloud.Label.GuideText                                     =	通過區網，把手機拍的相片和視訊備份到電腦上
+AirCloud.Label.GuideTitle                                    =	安全又快捷
+AirCloud.Label.IsPreparing                                   =	正在準備備份資料中
+AirCloud.Label.LastBackupTime                                =	備份時間：{0}
+AirCloud.Label.NeedPremium                                   =	<Premium>升級高級帳戶</Premium>可以備份視訊
+AirCloud.Label.NeedUpgrade                                   =	高級帳戶手機端<Upgrade>升級到最新版本</Upgrade>可以備份視訊
+AirCloud.Label.NeedUpgradeAndPremium                         =	<Premium>高級帳戶</Premium>手機端<Upgrade>升級到最新版本</Upgrade>可以備份視訊
+AirCloud.Label.NotCurrentPC                                  =	請至手機上設定此電腦為備份電腦
+AirCloud.Label.OpenFolderGuide                               =	打開資料夾
+AirCloud.Label.PCNotSetted                                   =	你尚未在手機上設定允許備份的電腦
+AirCloud.Label.Progress                                      =	備份了{0}個檔案，共{1}個檔案
+AirCloud.Label.Result                                        =	備份了{0}個檔案
+AirCloud.Label.SettingGuide                                  =	1.手機端打開AirDroid，點擊相簿備份圖標
+AirCloud.Label.SettingOnPhone                                =	在手機端設定
+AirCloud.Label.UpToDate                                      =	手機檔案沒有新增，不需要進行備份。
+AirCloud.Message.CanCancelBack                               =	確定要取消備份嗎？
+AirCloud.Message.DownloadFailed                              =	下載檔案失敗
+AirCloud.Message.EmptyFiles                                  =	手機上沒有內容需要備份
+AirCloud.Message.PermissionDenied                            =	<Link>權限不足，請到「設定->應用->AirDroid->權限」打開儲存權限。</Link>
+AirCloud.Message.SaveFailed                                  =	保存下載的檔案失敗，請確認磁碟是否還有空間
+
+AirCloud_Update_Premium2                                     =	<premium>升級高級帳戶</premium>可以備份影片或者透過<exchange>免費兌換會員</exchange>升級為會員
+
+AirIme,Label.ToSettingCheckedAirIme                          =	進入手機輸入法設定，勾選AirDroid輸入法
+
+AirIME.Button.Done                                           =	我已設定
+AirIME.Button.Skip                                           =	下次再說
+AirIME.Label.AutoSwitch                                      =	輸入法將自動切換
+AirIme.Label.ClickInput                                      =	點擊手機上的輸入框
+AirIme.Label.CloseKeyboard                                   =	AirDroid遠端輸入法未打開
+AirIme.Label.ComputerInputPhone                              =	電腦當手機的鍵盤，輕鬆輸入
+AirIme.Label.ConnectingAirIme                                =	正在開啟AirDroid遠端輸入法...
+AirIME.Label.EnableUSBDebug                                  =	打開USB偵錯，<Link>如何打開</Link>
+AirIME.Label.LinkUSB                                         =	把手機用USB連線到電腦
+AirIme.Label.NoConnected                                     =	AirDroid遠端輸入法未連線
+AirIme.Label.NoFind                                          =	（無法找到？）
+AirIme.Label.OpenIme                                         =	打開
+AirIme.Label.OpenKeyboard                                    =	AirDroid遠端輸入法已啓動
+AirIme.Label.ReplyConnecting                                 =	正在重連中
+AirIme.Label.SendToPhone                                     =	已將文字發送到裝置\r\n（支援常用快捷鍵）
+AirIME.Label.USBConnectFailed                                =	免Root失敗，請重試
+AirIME.Label.USBSubTitle                                     =	點擊“執行免Root操作”按鈕進行免Root操作，成功后返回此頁面，手機即可自動切換AirDroid輸入法
+AirIME.Label.USBTitle                                        =	智能切換輸入法
+
+AirIME_Guid_Button_Skip                                      =	手動開啟AirIME
+
+AirMirror.Button.Back                                        =	後退
+AirMirror.Button.Down                                        =	螢幕下劃
+AirMirror.Button.FlashOff                                    =	手電筒關閉
+AirMirror.Button.FlashOn                                     =	手電筒開啟
+AirMirror.Button.FullScreen                                  =	全屏
+AirMirror.Button.Home                                        =	主螢幕
+AirMirror.Button.Keyboard                                    =	切換鍵盤
+AirMirror.Button.LockScreen                                  =	鎖屏
+AirMirror.Button.Menu                                        =	選單
+AirMirror.Button.NormalScreen                                =	還原
+AirMirror.Button.Recrod                                      =	錄製螢幕
+AirMirror.Button.RotateScreen                                =	旋轉螢幕
+AirMirror.Button.ScreenShot                                  =	手機截圖
+AirMirror.Button.StartRecording                              =	開始錄影
+AirMirror.Button.StopRecording                               =	結束錄影
+AirMirror.Button.SwitchCamera                                =	鏡頭切換
+AirMirror.Button.SwitchResolution                            =	切換畫質
+AirMirror.Button.Tasks                                       =	切換任務
+AirMirror.Button.Up                                          =	螢幕上劃
+AirMirror.Button.UseAirDroidIME                              =	切換到AirDroid輸入法
+AirMirror.Button.UseDefaultIME                               =	切換到系統輸入法
+AirMirror.Button.UseHighResolution                           =	切換到高清模式
+AirMirror.Button.UseStandarResolution                        =	切換到標準模式
+AirMirror.Button.Volumn                                      =	音量控制
+
+AirMirror_NotAccessibility_Text1                             =	遠端裝置未給予輔助權限，或輔助權限已被回收，無法遠端控制，請在遠端裝置上的【個人】-【安全及遠端功能設定】-【遠端控制】重新開啟權限。您也可以Root您的裝置或使用免Root方式進行遠端控制。
+
+AirMirror_NotAccessibility_Text2                             =	遠端裝置未安裝相關插件，無法進行控制，請在遠端裝置上的【個人】-【安全及遠端功能設定】-【遠端控制】下載相關插件。您也可以Root您的裝置或使用免Root方式進行遠端控制。
+
+AirMirror_NotRoot_NewText2                                   =	此裝置未Root，請點擊“執行免Root操作”按鈕進行免Root操作。您也可以升級遠端裝置的AirDroid到最新版本，即可透過新的插件方式進行遠端控制。
+
+AirSOS.Label.EnterShareCode                                  =	請輸入9位連接碼
+AirSOS.Label.ShareCodeGuide                                  =	使用說明：\r\n1.請對方在安卓裝置上下載并打開AirDroid；\r\n2. 請對方點擊【工具箱】>【螢幕共享】>【生成連接碼】，然後將界面上出現的9位連接碼告訴您；\r\n3.收到連接碼后在上方輸入框中輸入，開始連線對方裝置。
+AirSOS.Label.StartGuide                                      =	AirSOS 可以幫助你在電腦上觀察您的客戶安卓裝置的螢幕，以幫助解決他們的問題
+
+am_setting_screen_qa_airmirror345_high                       =	高畫質
+
+am_setting_screen_qa_airmirror345_low                        =	低畫質
+
+am_setting_screen_qa_airmirror345_standard                   =	中畫質
+
+am_setting_screen_qa_selection                               =	畫質選擇
+
+am_setting_screen_qa_stream_auto_select_hint                 =	根據網路情況，動態調整畫質和流暢度。
+
+am_setting_screen_qa_stream_auto_select_mode                 =	平衡模式
+
+am_setting_screen_qa_stream_quality_mode                     =	畫質優先
+
+am_setting_screen_qa_stream_speed_mode                       =	流暢度優先
+
+am_setting_screen_qa_switched_to                             =	已切換至{0}
+
+Avatar.Form.Title                                            =	編輯大頭貼
+
+Business_RemoteControl_Lock_nosupport                        =	被控端裝置安卓系統低於9.0，無法使用此功能
+
+Call.Label.CallLog                                           =	通話記錄
+Call.Label.LoadFailed                                        =	加載失敗
+Call.Label.NoDeviceHintCall                                  =	查看安卓裝置的通話記錄、未接來電
+Call.Label.SelectCall                                        =	請選擇一條通話記錄
+Call.Label.TemporarilyNoCallLog                              =	暫無通話記錄
+Call.Message.DeleteLog                                       =	您確定要刪除 {0} 這條記錄嗎？
+
+commom_get_free_premium                                      =	免費兌換會員
+
+Common.About                                                 =	關於：
+Common.Accept                                                =	接受
+Common.AddToDictionary                                       =	添加進詞典
+Common.AirDroid                                              =	AirDroid
+Common.All                                                   =	全部
+Common.Button.AutoClose                                      =	自動關閉
+Common.Button.Close                                          =	關閉
+Common.Button.Delete                                         =	刪除記錄
+Common.Button.Maximize                                       =	最大化
+Common.Button.Refresh                                        =	重新整理
+Common.Button.Restore                                        =	還原
+Common.Button.Save                                           =	保存
+Common.Cancel                                                =	取消
+Common.Click                                                 =	點擊進入
+Common.Columns.Size                                          =	大小
+Common.CommingSoon                                           =	功能即將上線
+Common.Connect                                               =	連線
+Common.ConnectFailed                                         =	連線失敗
+Common.Copy                                                  =	複製
+Common.CopyRight                                             =	©
+Common.Cut                                                   =	剪下
+Common.Dailog                                                =	會話
+Common.DataConnectFailed                                     =	無法連線AirDroid伺服器，請檢查網路連線是否正常后重試
+Common.Day                                                   =	天
+Common.Delete                                                =	刪除
+Common.DeleteAll                                             =	刪除全部
+Common.Deny                                                  =	拒絕
+Common.DiscardSave                                           =	不保存
+Common.EnterToSend                                           =	按[Enter] 發送
+Common.Error                                                 =	錯誤
+Common.File                                                  =	檔案
+Common.Folder                                                =	資料夾
+Common.Help                                                  =	幫助中心：
+Common.Hour                                                  =	小時
+Common.HowBindingDevice                                      =	如何綁定裝置？
+Common.Ignore                                                =	忽略更新
+Common.Info                                                  =	提示
+Common.JustNow                                               =	剛剛
+Common.Label.ColumnType                                      =	類型
+Common.Label.HowToAuth                                       =	如何授權？
+Common.Label.HowToTrustMe                                    =	在您的裝置上找到系統工具“授權管理”，在授權管理列表中找到“AirDroid”，\r\n打開管理畫面選擇“我信任該程式”
+Common.Label.ModifyDate                                      =	修改日期
+Common.Label.MyPhone                                         =	AirDroid
+Common.Label.Name                                            =	名稱
+Common.Label.NoCallHistoryDataPermission                     =	無通話記錄；或者沒有讀取通話記錄的許可權，\r\n請先賦予AirDroid電話讀取許可權後重試
+Common.Label.NoCallHistoryPermission                         =	沒有讀取通話記錄的權限，\r\n請先賦予AirDroid電話讀取權限後重試
+Common.Label.NoContactDataPermission                         =	無聯絡人；或者沒有讀取聯絡人的許可權，\r\n請先賦予AirDroid讀取許可權後重試
+Common.Label.NoContactPermission                             =	沒有讀取聯絡人的權限，\r\n請先賦予AirDroid讀取權限後重試
+Common.Label.NoFilePermission                                =	沒有讀取檔案管理的權限， \r\n請授予AirDroid讀取權限，然後重試。
+Common.Label.NoSMSDataPermission                             =	無簡訊記錄；或者沒有讀取簡訊的許可權，\r\n請先賦予AirDroid讀取許可權後重試
+Common.Label.NoSMSPermission                                 =	沒有讀取簡訊的權限，\r\n請先賦予AirDroid讀取權限後重試
+Common.Label.PermissionDenied                                =	請到「設定->應用->AirDroid->權限」打開所有權限。\r\n<Link>更多詳情</Link>
+Common.Label.PermissionDeniedWithLink                        =	權限不足（<Link>如何設定權限</Link>）
+Common.Label.PushDisconnectAndRetry                          =	連線伺服器失敗  <Retry>重試</Retry>
+Common.Label.ReconnectingPush                                =	正在重連伺服器...
+Common.Label.ReconnectingPushDetail                          =	這期間將無法及時收到安卓裝置上的通知，程式正在自動重連...
+Common.Label.ReconnectingPushTitle                           =	AirDroid已斷開與伺服器的連線
+Common.Label.RemoteCameraPermissionDenied                    =	請在手機端“個人-安全及遠端功能設定”中開啟“遠端相機”的遠端權限。
+Common.Label.RemoteContactPermissionDenied                   =	請在手機端“個人-安全及遠端功能設定”中開啟“聯絡人管理”的遠端權限。
+Common.Label.RemoteControlPermissionDenied                   =	請在手機端“個人-安全及遠端功能設定”中開啟“遠端控制”的遠端權限。
+Common.Label.RemoteFilePermissionDenied                      =	請在手機端“個人-安全及遠端功能設定”中開啟“檔案管理”的遠端權限。
+Common.Label.RemotePermissionDenied                          =	遠端權限被關閉
+Common.Label.RemoteSMSPermissionDenied                       =	請在手機端“個人-安全及遠端功能設定”中開啟“遠端簡訊”的遠端權限。
+Common.Label.RemoteVirtualDisplayPermissionDenied            =	請在手機端“個人-安全及遠端功能設定”中開啟“螢幕鏡像”的遠端權限。
+Common.Label.SendFileFromPhone                               =	發來檔案：{0}
+Common.Lable.Size                                            =	大小：
+Common.Loading                                               =	正在加載...
+Common.LoadingFailure                                        =	連線裝置失敗，\r\n請檢查裝置網路是否正常
+Common.LoadingFailureGuide                                   =	裝置連線失敗：\r\n1.檢查手機網路是否正常\r\n2.嘗試在手機上打開AirDroid，并保持前\r\n景運行，將有助於您的連線
+Common.LoadingFailureMin                                     =	加載失敗
+Common.LoadingFailureOneLine                                 =	連線裝置失敗，請檢查裝置網路是否正常
+Common.Login                                                 =	登入
+Common.Message.DataFlowInsufficient                          =	您的遠端資料流量不足，升級為高級帳戶將不限制遠端資料流量。
+Common.Message.ExitNoAccount                                 =	確定退出當前操作嗎？
+Common.Message.FailToLoadFile                                =	檔案加載失敗！
+Common.Message.OperationFailed                               =	操作失敗
+Common.Message.PermissionDenied                              =	權限不足，請到「設定->應用->AirDroid->權限」打開所有權限。<Link>更多詳情</Link>
+Common.Message.ReconnectPhoneFailed                          =	連線失敗，請重試
+Common.Message.RestartPhone                                  =	請重啟遠端裝置，重啟后需要重新授權AirDroid使用Root權限或是執行免Root操作
+Common.Minute                                                =	分
+Common.MinutesAgo                                            =	{0}分鐘前
+Common.Missed                                                =	未接來電
+Common.NeedLogin                                             =	此功能需要登入，請登入后使用
+Common.NewFolder                                             =	新增資料夾
+Common.No                                                    =	否
+Common.NoBindingDeviceContent                                =	您的帳號下未綁定安卓裝置，請先綁定
+Common.NoBindingDeviceContentInFloating                      =	您的帳號下未綁定裝置\r\n<Link>如何綁定裝置</Link>
+Common.NoBindingDeviceTitle                                  =	此功能僅支援安卓裝置
+Common.NoHint                                                =	不再提示
+Common.NoSupportDeviceTitle                                  =	此功能暫不支援iOS裝置
+Common.OK                                                    =	確定
+Common.OpenFileDialog.PicFile                                =	圖片檔案
+Common.Paste                                                 =	貼上
+Common.PhoneOfflineGuide                                     =	遠端裝置無法連線伺服器：\r\n1. 檢查手機網路是否正常\r\n2. 嘗試在手機上打開AirDroid，并保持前\r\n台運行，將有助於您的連線
+Common.PhotoAndVideo                                         =	相片與影片
+Common.Privilege                                             =	特權
+Common.Processing                                            =	處理中
+Common.Redo                                                  =	復原
+common.resend_email                                          =	重新發送驗證郵件
+Common.Resume                                                =	繼續
+Common.Retry                                                 =	重試
+Common.RotateFailure                                         =	旋轉失敗
+Common.Search                                                =	搜尋
+Common.Searching                                             =	正在搜尋
+Common.Second                                                =	秒
+Common.SelectOneDevice                                       =	請選擇一台裝置
+common.send_email                                            =	一封包含驗證碼的電子郵件已發送至
+Common.SendViaAirDroid                                       =	通過AirDroid發送到我的裝置
+Common.StartUse                                              =	開始使用
+Common.Stop                                                  =	停止
+Common.TheDayBeforeYesterday                                 =	兩天前
+Common.Today                                                 =	今天
+Common.Undo                                                  =	撤銷
+Common.Update                                                =	更新：
+Common.Warning                                               =	警告
+Common.WelcomeUpgrade                                        =	歡迎使用{0}
+Common.Yes                                                   =	是
+Common.Yesterday                                             =	昨天
+
+Common_Accessibility_invalid_input                           =	您點擊的位置超出螢幕範圍
+
+Common_Accessibility_permission_denied                       =	遠端裝置輔助權限已關閉，請開啟輔助權限
+
+Common_Accessibility_service_not_started                     =	遠端裝置輔助權限已失效，請重新開啟輔助權限
+
+Common_account_Email_Need_Verify                             =	*該信箱需要驗證，請使用有效信箱
+
+Common_account_verification_code_input                       =	請輸入驗證碼
+
+Common_account_verification_error_invalid                    =	驗證碼錯誤
+
+Common_account_verification_modify                           =	更改驗證信箱
+
+Common_account_verification_next                             =	下一步
+
+Common_account_verification_title                            =	驗證信箱
+
+Common_ad_pc_quick_nonroot_exit                              =	確定退出免Root模式嗎？
+
+Common_ad_permission_voice_title                             =	單向聆聽
+
+Common_airmirror_openvoice_fail                              =	開啟失敗
+
+Common_Airmirror_voice_error_tip_1                           =	無法顯示裝置介面
+
+Common_Airmirror_voice_error_tip_2                           =	，你可以：
+
+Common_Airmirror_voice_error_tip_3                           =	\r\n1. 點擊"重試"重新向裝置發送請求。\r\n2. 使用普通模式進行連線。\r\n（普通模式暫不支援"單向聆聽"功能）
+
+Common_Airmirror_voice_error_tip2                            =	無法顯示裝置介面。你可以：\r\n1. 點擊"重試"重新向裝置發送請求。\r\n2. 使用普通模式進行連線。
+
+Common_Airmirror_voice_notsupt_feedback                      =	當前電腦暫不支援使用單向聆聽功能，您可以透過“回饋中心”與我們取得聯繫，我們將幫助您解決問題
+
+Common_Airmirror_voice_notsupt_toast                         =	普通模式下，不支援"單向聆聽"功能。
+
+Common_AndroidQDontSupportToutch_Tip                         =	當前裝置的安卓版本較高，可能僅支援螢幕鏡像，無法遠端控制裝置。
+
+Common_back                                                  =	返回
+
+Common_biz_access_limit_dev_connect                          =	當前裝置已開啟訪問限制，請對方點擊"接受"允許此次連線
+
+Common_biz_access_limit_dev_reject                           =	連線裝置失敗，當前裝置已開啟訪問限制，對方拒絕了你的訪問
+
+Common_biz_access_limit_dev_timeout                          =	連線裝置失敗，當前裝置已開啟訪問限制，對方沒有回應您的連線請求
+
+common_biz_setting_airmirror345_hint                         =	更快的連線速度，更低的顯示幀數，更低的流量消耗。
+
+common_biz_setting_stream_hint                               =	具有聲音功能，並能根據您的網路狀況，動態的平衡顯示效果，擁有更低的畫面延遲。
+
+Common_camera_start_failed_title                             =	無法獲取裝置鏡頭畫面
+
+Common_clear_all                                             =	全部清除
+
+Common_colon                                                 =	：
+
+Common_copyright_info                                        =	© 2022 Sand Studio
+
+Common_dialpad_bulk                                          =	批量撥號
+
+Common_dialpad_bulk_bubble_tips                              =	點擊開始批量撥號
+
+Common_dialpad_bulk_content1                                 =	透過批量撥號功能，您可以一次性導入多個電話，我們將根據您導入的順序，幫您按順序自動撥打這些電話。
+
+Common_dialpad_bulk_content2                                 =	##請按照以下格式輸入相關資訊，我們將會按照您輸入的內容生成撥號列表\r\n##輸入格式：電話號碼（前面無須添加##）\r\n##\r\n##舉例：\r\n##2703424444\r\n##270-234-3333\r\n##\r\n##注意：\r\n##每行只能有一個電話號碼，下一個電話號碼請換行輸入\r\n##每行中的電話號碼，支援包含數字、#、*、+ 、-、（）等符號，當有其他符號時該行信息無效\r\n##請將要導入的電話號碼填寫在橫線下方：
+
+Common_dialpad_call                                          =	呼叫
+
+Common_dialpad_call_cancel                                   =	取消撥號
+
+Common_dialpad_call_end                                      =	結束通話
+
+Common_dialpad_call_fail                                     =	撥打失敗
+
+Common_dialpad_calling                                       =	正在呼叫
+
+Common_dialpad_content                                       =	請輸入號碼
+
+Common_dialpad_dialing                                       =	當前裝置正在通話中，暫時無法撥號
+
+Common_dialpad_duration                                      =	通話時長{0}
+
+Common_dialpad_empty_content                                 =	清空所有導入的電話號碼？
+
+Common_dialpad_feedback_content1                             =	使用過撥號盤功能感覺如何？歡迎在下方提交您的使用回饋，您的意見對我們十分重要！
+
+Common_dialpad_feedback_content2                             =	請輸入您的意見或建議
+
+Common_dialpad_feedback_error1                               =	回饋內容太少
+
+Common_dialpad_feedback_error2                               =	提交回饋失敗，請重試
+
+Common_dialpad_feedback_success                              =	您的回饋已提交成功，我們一定盡快閱讀並認真處理。
+
+Common_dialpad_hangup_fail                                   =	當前連線的裝置不支援遠端掛斷通話。請到裝置上掛斷通話
+
+Common_dialpad_noconnect                                     =	未接通
+
+Common_dialpad_nonephone                                     =	未輸入任何電話號碼或輸入的電話號碼均為無效號碼
+
+Common_dialpad_nonetwork                                     =	連接裝置失敗，請檢查遠端裝置的網路情況
+
+Common_dialpad_nosupport                                     =	當前裝置沒有通話功能
+
+Common_dialpad_permission_title                              =	未給予電話或允許在最上層使用權限
+
+Common_dialpad_Redial                                        =	是否重新開始批量撥號？開始後之前的撥打紀錄將會被清空。
+
+Common_dialpad_setting                                       =	自動撥號間隔時間
+
+Common_dialpad_status                                        =	即將撥打
+
+Common_dialpad_title                                         =	撥號盤
+
+Common_dialpad_update_content                                =	當前遠端裝置的AirDroid版本過低，無法使用撥號盤功能，請升級AirDroid至最新版本。
+
+Common_dialpad_update_title                                  =	請升級AirDroid版本
+
+Common_dialpad_vip1                                          =	免費用戶僅限在區網下使用撥號盤功能，如需遠端使用，請升級為高級帳戶。
+
+Common_dialpad_vip2                                          =	批量撥號屬於高級會員特權功能，透過批量撥號功能，您可以一次性導入多個電話，我們將根據您導入的順序，幫您按順序自動撥打這些電話。
+
+Common_disconnect_tip                                        =	對方網路異常導致連線斷開
+
+Common_disconnect_title                                      =	對方網路異常導致連線中斷，點擊"重試" 嘗試連線。
+
+Common_externalSD_Android10_tip                              =	如果您需要向外部SD卡上傳、編輯檔案，請打開手機端"工具箱 -> 檔案 -> 外部SD卡"，根據手機端上的引導開啟AirDroid外部SD卡的讀取權限。
+
+Common_externalSD_new_allow_button                           =	點擊"允許"
+
+Common_externalSD_new_new_title                              =	如果您需要向外部SD卡上傳、編輯檔案，請在手機上確認開啟AirDroid的外部SD卡讀取權限。
+
+Common_externalSD_new_tip                                    =	*如果您選擇"拒絕"且勾選了"不要再詢問"，下次需要開啟權限時，請按手機上的引導，點擊彈出介面下方的[選擇"SD卡"]按鈕。
+
+Common_feedback                                              =	回饋
+
+Common_gotit_tip                                             =	我知道了
+
+Common_login_DeviceVerify_Text                               =	您正在登入一台新裝置，需要進行裝置驗證。驗證郵件已發送至：{0}。請在郵件中完成新裝置的驗證。
+
+Common_login_DeviceVerify_Title                              =	需要驗證您的身份
+
+Common_no_empty_tips                                         =	內容不能為空！
+
+Common_nonroot_setup_again                                   =	免Root後，要求重新執行免Root怎麼辦？
+
+Common_NoSupportAndroidQ_Tip                                 =	當前裝置Android版本過高，暫不支援使用此功能。
+
+Common_OpenAudioPlay_PermissionDenied                        =	裝置未開啟麥克風權限，請到AirDroid-個人-安全及遠端功能設定點擊對應功能開啟。
+
+Common_OpenAudioPlay_RemoteAccessDenied                      =	裝置未開啟單向聆聽功能，請到AirDroid-個人-安全及遠端功能設定點擊對應功能開啟。
+
+Common_RemoteControl_nonroot_login                           =	執行免Root
+
+Common_RemoteMode_Option                                     =	動態模式|普通模式
+
+Common_rename_empty                                          =	裝置名不能為空
+
+Common_rename_fail                                           =	重命名失敗
+
+Common_rename_formatfailed                                   =	名稱不能包含下列字符：\ / : * “<> | ‘ & ?
+
+Common_rename_ios                                            =	暫不支援iOS裝置重命名（您可以在手機系統設定-【名稱】中進行修改）
+
+Common_rename_success                                        =	重命名成功
+
+Common_rename_toolong                                        =	名稱不能超過{0}個字符
+
+Common_send_shortcut_enter                                   =	按 Enter 發送
+
+Common_send_shortcut_enter_ctrl                              =	按 Ctrl + Enter 發送
+
+Common_Setting_UseStream_Button                              =	遠端連線模式：
+
+Common_submit                                                =	提交
+
+Common_SwitchToSimple_Button                                 =	切換到普通模式
+
+Common_system_permission_disabled                            =	系統權限不足
+
+Common_unknow                                                =	未知
+
+common_UpdateToAdvanced_title                                =	高級帳戶特權功能
+
+common_UpdateToAdvanced_voice                                =	單向聆聽功能可以讓您獲取到裝置周圍的聲音。
+
+Common_WaitMicrophoneAuthorize_Tip                           =	等待麥克風授權中...
+
+Components.ImageView.Label.Current                           =	相片：
+Components.ImageView.Label.Location                          =	路徑：{0}
+
+Connect.Status.Data                                          =	（行動數據）
+Connect.Status.LAN                                           =	區網路連線
+Connect.Status.OffLine                                       =	離線
+Connect.Status.WAN                                           =	遠端連線
+Connect.Status.Wifi                                          =	（Wi-Fi）
+
+Contact.Button.ShowAll                                       =	所有聯絡人
+Contact.Button.ShowWithNumber                                =	有號碼的聯絡人
+Contact.Label.Contact                                        =	聯絡人
+Contact.Label.LoadFailure                                    =	加載失敗，請
+Contact.Label.NoContact                                      =	沒有聯絡人
+Contact.Label.NoDeviceHintContact                            =	在電腦上管理安卓裝置上的聯絡人
+Contact.Label.NoSearchContact                                =	沒有搜尋到符合條件的聯絡人
+Contact.Label.SelectContact                                  =	請選擇一個聯絡人
+
+Dial_AddToList_Tip                                           =	電話已加入批量撥號清單
+
+Dialpad_vip3                                                 =	當前裝置正在撥號中，如需使用批量撥號功能，請購買 AirDroid 高級會員。
+
+Download.Button.Pause                                        =	暫停
+Download.Button.Start                                        =	開始
+Download.Label.Failed                                        =	失敗
+Download.Label.Operate                                       =	操作
+Download.Label.Progress                                      =	進度
+Download.Message.AreYouSureDeleteTask                        =	確定要刪除任務嗎？
+Download.Message.DownloadFailed                              =	下載失敗
+Download.Message.InOperation                                 =	正在處理檔案…
+Download.Message.UploadFailed                                =	上傳失敗
+
+Email.Button.DontRemindMe                                    =	不再提示
+Email.Button.New                                             =	再發一封
+Email.Button.Send                                            =	發送
+Email.Button.UseNow                                          =	立即使用
+Email.Label.AddAttachment                                    =	<Link>添加附檔</Link> (檔案大小限制： {0})
+Email.Label.Content                                          =	正文：
+Email.Label.EmptyEmail                                       =	收件人不能為空
+Email.Label.FailedToSend                                     =	郵件發送失敗，請重新發送
+Email.Label.FailedToUpload                                   =	上傳失敗，<Link>重試</Link>
+Email.Label.NoAttachment                                     =	郵件正文和附檔不能同時為空
+Email.Label.SendLargeFileDetail                              =	想分享相片、派對影片給朋友，卻因為檔案太大，無法用郵件發送？AirDroid可以發送超大附件給你的朋友，無論他使用何種郵箱服務！你的朋友收到郵件後的7天內，都可以通過點擊郵件中的下載鏈接下載超大附件
+Email.Label.SendLargeFileTitle                               =	使用AirDroid發送大附件
+Email.Label.SendSuccessfully                                 =	郵件發送成功！
+Email.Label.Subject                                          =	主題：
+Email.Label.To                                               =	收件人：
+Email.Label.UploadSuccessfully                               =	上傳成功
+Email.Message.ConfirmCancel                                  =	確定要清空郵件中已輸入的內容及附件？
+
+Feedback.Form.Title                                          =	回饋中心
+Feedback.Label.FailAndRetry                                  =	加載失敗  <Link>重試</Link>
+
+File.Button.AddFriend                                        =	添加好友
+File.Button.AddToFavorite                                    =	添加到收藏
+File.Button.AirMirror                                        =	遠端控制
+File.Button.Auth                                             =	我已授權
+File.Button.BuyMoreDevice                                    =	升級裝置數量
+File.Button.DownloadToPC                                     =	下載
+File.Button.Friends                                          =	好友
+File.Button.GetClipBoard                                     =	複製手機剪貼板文字到電腦
+File.Button.GoPremium                                        =	升級為高級帳戶
+File.Button.GoUp                                             =	向上
+File.Button.HowToStartBonjour                                =	如何開啟？
+File.Button.InstallBonjour                                   =	立即安裝
+File.Button.My                                               =	我的
+File.Button.MyDevice                                         =	我的裝置
+File.Button.Neibour                                          =	附近裝置
+File.Button.Next                                             =	下一個
+File.Button.OpenInFolder                                     =	打開所在資料夾
+File.Button.Previous                                         =	上一個
+File.Button.RealSize                                         =	螢幕原始尺寸
+File.Button.RemoveFromFavorite                               =	取消收藏
+File.Button.RotageLeft                                       =	向左旋轉
+File.Button.RotageRight                                      =	向右旋轉
+File.Button.SaveAndClose                                     =	保存并關閉
+File.Button.SaveAndContinue                                  =	保存並繼續
+File.Button.ScaleSize                                        =	實際大小
+File.Button.ScreenShot                                       =	螢幕截圖
+File.Button.SendByEmail                                      =	使用郵件發送
+File.Button.SendFile                                         =	發送檔案
+File.Button.SendFolder                                       =	發送資料夾
+File.Button.SendLog                                          =	發送日誌
+File.Button.SendMailAddFriend                                =	添加好友
+File.Button.SendMessage                                      =	發送消息
+File.Button.SetClipBoard                                     =	複製電腦剪貼板文字到手機
+File.Button.Skip                                             =	跳过
+File.Button.SkipAuth                                         =	暫不授權
+File.Button.StartSearch                                      =	開始搜尋
+File.Button.StopAll                                          =	全部停止
+File.Button.StopSearching                                    =	停止搜尋
+File.Button.TogetherAirDroidHint                             =	邀請朋友使用AirDroid
+File.Button.UploadFiles                                      =	上傳檔案
+File.Button.UploadToDevice                                   =	上傳
+File.Button.ZoomIn                                           =	放大
+File.Button.ZoomOut                                          =	縮小
+File.CheckBox.MatchCase                                      =	區分大小寫
+File.Label.AddFriendFailed                                   =	添加失敗，請重試!
+File.Label.AirCloud                                          =	相簿備份
+File.Label.AlreadyFriend                                     =	對方已經是您的好友
+File.Label.AlterNicknameFailure                              =	暱稱修改失敗
+File.Label.AlterNicknameHint                                 =	設定暱稱，讓好友能更快的認出你。
+File.Label.BonjourNotInstalled                               =	Bonjour服務未安裝
+File.Label.CantFindNearbyDevice                              =	看不到要找的裝置？
+File.Label.CantFindNearbyDeviceDetailGuide                   =	請對方在裝置上打開"AirDroid"，并到“附近裝置"點擊開始搜尋。需要確保雙方連線的是同一區網才能搜尋到。<detail>查看詳情</detail>
+File.Label.CheckingDevicesInLAN                              =	請確保您要查找的裝置與電腦在\r\n同一個區網中
+File.Label.ChooseAFriend                                     =	請選擇一位好友
+File.Label.CurrnetLocation                                   =	當前位置：{0}，第 {1} 行，共 {2} 行
+File.Label.DateNotExist                                      =	不存在
+File.Label.DeleteMessages                                    =	請選擇要刪除的簡訊
+File.Label.DeletingFiles                                     =	正在刪除檔案…
+File.Label.Downloading                                       =	下載中：{0}
+File.Label.DownLoadPrepare                                   =	正在準備下載…
+File.Label.DropFile                                          =	拖動檔案或者點擊此處傳輸檔案
+File.Label.EmptyRecvFile                                     =	暫無接收記錄
+File.Label.ExtSDAuthFail                                     =	您未授權成功
+File.Label.ExtSDAuthStep1                                    =	在手機上打開AirDroid,進入工具箱->檔案->外部SD卡
+File.Label.ExtSDAuthStep2                                    =	點擊彈出介面最下方[選擇 “SD卡”] 按鈕
+File.Label.FileManagement                                    =	檔案管理
+File.Label.FileTransfer                                      =	檔案傳輸
+File.Label.HomePage                                          =	主頁
+File.Label.InputFriendEmail                                  =	請輸入對方的郵箱：
+File.Label.InstallBonjourGuide                               =	您的電腦上未安裝Bonjour服務，\r\n無法使用附近功能，安裝後點擊右上角\r\n“重新整理”圖示即可
+File.Label.LollipopExtSDAuthGuide                            =	您的手機ROM版本為5.0+，如果您要向外部SD卡上傳檔案、編輯檔案，請按以下引導到手機上將外部SD卡的路徑告訴AirDroid：
+File.Label.LollipopExtSDAuthTitle                            =	外部SD卡授權
+File.Label.NoDeviceRow                                       =	帳號下未綁定裝置
+File.Label.NoFriend                                          =	未添加任何好友
+File.Label.NoFriendHint                                      =	你還沒把好友添加到AirDroid好友列表裏
+File.Label.NoFriendInfo                                      =	您未添加任何好友，點擊“添加好友”\r\n按鈕添加吧
+File.Label.NoFriendInfoInFloating                            =	您還未添加任何好友，添加好友後可快速傳輸檔案
+File.Label.NoNearbyHint                                      =	相同區網內沒有人使用AirDroid，把AirDroid分享給\r\n身邊的人，從此傳送檔案更快捷。
+File.Label.NoSearchItem                                      =	沒有搜尋到符合條件的項目
+File.Label.PhotoManagement                                   =	相片圖庫
+File.Label.RecvFile                                          =	接收記錄
+File.Label.RemoveFriendFailed                                =	{0} 移除失敗
+File.Label.RetryLoadImage                                    =	相片加載失敗<Link>重試</Link>
+File.Label.Search                                            =	搜尋：
+File.Label.Searching                                         =	正在查找附近的裝置...
+File.Label.SearchingInNetwork                                =	正在搜尋同一區網下的裝置
+File.Label.SearchingTip                                      =	和你在相同區網且安裝AirDroid的裝置會出現在這裏，區網傳輸更安全、更快捷。
+File.Label.SearchNearbyDeviceInFloating                      =	正在查找裝置...請確保您要查找的裝置與電腦在同一個區網中
+File.Label.SendAddFriendRequest                              =	已經發送好友請求，請等待對方驗證
+File.Label.SendByEmailDetail                                 =	你可以通過AirDroid給你的朋友發檔案，檔案將在AirDroid伺服器暫存7天，7天後將會被自動刪除。（檔案將以郵件形式發送）
+File.Label.StartBonjourFailed                                =	Bonjour服務啟動失敗
+File.Label.TransferList                                      =	傳輸列表
+File.Label.Uploading                                         =	正在上傳：{0}
+File.Label.UploadPrepare                                     =	正在准备上傳...
+File.Label.UseScreenShot                                     =	(螢幕鏡像)
+File.Label.Waiting                                           =	等待傳輸...
+File.Label.WaitingForVerify                                  =	等待驗證
+File.Lable.AddAccountToFriend                                =	確定要將 {0} 添加為好友嗎？
+File.Lable.AddFriendInfo                                     =	對方接受請求後，將會出現在您的好友列表中，以後你們就可以方便地傳檔案了。
+File.Lable.AlreadyFriend                                     =	對方已經是您的好友。
+File.Lable.FriendNotVerified                                 =	該好友未通過驗證，還不能傳輸檔案及會話消息
+File.Lable.NeibourTransferSingleSubMsg                       =	附近的裝置 {0} 發來檔案： {1} ，共{2}，是否要接收？
+File.Lable.NeibourTransferSubMsg                             =	附近的裝置 {0} 要向您發送{1}個檔案，共{2}，是否要接收？
+File.Lable.NoDeviceHintFile                                  =	電腦與移動裝置間輕鬆互傳檔案
+File.Lable.RecentSessions                                    =	最近會話
+File.Lable.RemoveFriend                                      =	確定要將{0}移出好友列表嗎？
+File.Lable.RemoveFriendInfo                                  =	移除後您將從對方好友列表中消失，且不會再接收此人的會話消息
+File.Lable.SearchEmptyDevice                                 =	沒有搜尋到符合條件的裝置
+File.Lable.SearchEmptyFriend                                 =	沒有搜尋到符合條件的好友
+File.Lable.Transfering                                       =	正在傳輸
+File.Lable.VerifyFriend                                      =	{0}<{1}>請求加您為好友
+File.Menu.CopyPath                                           =	複製路徑
+File.Menu.PasteFromPC                                        =	從電腦貼上
+File.Menu.PasteFromPhone                                     =	從手機貼上
+File.Menu.Rename                                             =	重新命名
+File.Menu.SearchCurrentFolder                                =	當前資料夾
+File.Menu.SearchSubFolder                                    =	當前資料夾及子資料夾
+File.Menu.UploadFolder                                       =	上傳資料夾
+File.Menu.UseInternalTextEditor                              =	編輯
+File.Message.AddFavSuccessed                                 =	所選項已經成功添加到收藏夾
+File.Message.AddFriendTooFrequently                          =	一天只能給同一個郵箱發送一次邀請
+File.Message.AddMyFavSuccessed                               =	{0} 成功添加到收藏夾
+File.Message.AlwaysAccept                                    =	總是接收
+File.Message.AutoReceiveFile                                 =	{0}發來{1}個檔案，共{2}，已自動接收
+File.Message.CannotAddMyselfToFriend                         =	不能添加自己為好友。
+File.Message.CheckIfDelete                                   =	您確定要從裝置上刪除選中的 {0} 個項目嗎？
+File.Message.CheckIfRemoveFromFavorite                       =	您確定要從收藏夾中刪除所選中的對象嗎？
+File.Message.CloudSingeFileSpaceNotEnough                    =	遠端傳輸時單個檔案大小不能超過{0}
+File.Message.ConnectingDevice                                =	正在連線...
+File.Message.DeleteAllPromote                                =	確定要刪除所有記錄嗎？
+File.Message.DeleteFile                                      =	您確定要刪除選中的記錄？
+File.Message.DeleteFileInEditor                              =	您確定要刪除檔案"{0}"嗎？
+File.Message.DirectoryInUsed                                 =	資料夾“{0}”中的“{1}”正在被其他程式佔用，無法發送，請檢查並關閉相應的程式。
+File.Message.DownloadStopped                                 =	停止下載
+File.Message.DownloadSuccess                                 =	"{0}" 下載成功
+File.Message.EmptyMessage                                    =	發送內容不能為空
+File.Message.EnableSendFolder                                =	升級為高級帳戶即可使用傳輸資料夾功能
+File.Message.ExitWithFileTransfering                         =	一些任務仍在執行中，你確定要離開嗎？
+File.Message.FileCount                                       =	当前{0}个檔案/資料夾
+File.Message.FileExportFailure                               =	“{0}”由於網路原因下載失敗
+File.Message.FileExportFailurePermission                     =	“{0}”下載失敗。
+File.Message.FileExsited                                     =	您所選的檔案正在傳輸列表。
+File.Message.FileInUsed                                      =	檔案“{0}”正在被其他程式佔用，無法發送，請檢查並關閉相應的程式。
+File.Message.FileNameTooLong                                 =	檔案名必須在50個字元內
+File.Message.FileNotExisted                                  =	檔案不存在！
+File.Message.FileOpening                                     =	檔案{0}已經被打開了，無法再次打開。
+File.Message.FileSearching                                   =	正在對{0}目錄進行搜尋
+File.Message.FileUploadSucceed                               =	檔案上傳成功
+File.Message.FolderCannotUploadToCloud                       =	遠端傳輸暫不支援傳輸資料夾
+File.Message.FreeFileSizeNotEnough                           =	遠端傳輸時單個檔案大小不能超過{0}，\r\n升級為高級帳戶後單個檔案大小可提升\r\n到{1}。
+File.Message.FriendCannotSendDirectory                       =	好友暫時不支援傳輸資料夾
+File.Message.HasFailed                                       =	有檔案傳輸失敗
+File.Message.ImageInUsed                                     =	圖片“{0}”正在被其他程式佔用，無法發送，請檢查並關閉相應的程式。
+File.Message.InviteFriend                                    =	{0} 還不是AirDroid用戶，繼續添加將會發送郵件邀請他加入？
+File.Message.IsUsingCloud                                    =	您的裝置{0}為離線狀態（或者與電腦不在同一區網），\r\n需使用遠端傳輸檔案，檔案將在伺服器暫存7天。\r\n點擊“是”表示您同意我們的<Link>{1}</Link>進行離線檔案傳輸。
+File.Message.ItemCount                                       =	共有{0}個檔案
+File.Message.KitkatExtSDWarning                              =	該裝置上運行著Android 4.4 KitKat，並且掛載了外部SD卡。Google在Android 4.4 KitKat上添加了新的限制：不允許第三方應用在外置SD卡上進行寫入操作。所以部分運行KitKat的裝置上，可能無法在外置SD卡上上傳、剪下、刪除檔案/資料夾，新增資料夾等操作。
+File.Message.KitkatExtSDWarningTitle                         =	外部SD卡可能被限制
+File.Message.ListOfDeleteFailure                             =	網路問題導致刪除失敗。
+File.Message.ListOfDeleteFailurePermission                   =	刪除失敗。
+File.Message.LoadFailed                                      =	因為網路問題導致獲取檔案失敗，請<refresh>重新整理</refresh>。
+File.Message.LoadFolderPermission                            =	因為網路問題或者權限不足導致檔案獲取失敗， 請<refresh>重新整理</refresh>或授權。\r\n <authorize>如何設定權限</authorize>。
+File.Message.MaxEmailAttachment                              =	無法添加，附件數量不能超過128個。
+File.Message.ModifyRemarkFailed                              =	修改備註失敗
+File.Message.MultiNotSupport                                 =	不支援多個項目操作
+File.Message.NewFolderFailure                                =	網路問題導致新增資料夾失敗。
+File.Message.NewFolderFailurePermission                      =	新增資料夾失敗。
+File.Message.NoFileTransfering                               =	暫時沒有正在傳輸的檔案/資料夾
+File.Message.NoNextImage                                     =	已到最後一張相片
+File.Message.NoPrevImage                                     =	已到第一張相片
+File.Message.NoSupportEncoding                               =	檔案保存失敗，暫不支援此檔案的編碼格式
+File.Message.NotContainSpecialChar                           =	檔案名不能包含下列字元之一：\r\n\ / : " * ? < > |
+File.Message.NotSupportVideoPreview                          =	目前不支援影片預覽！
+File.Message.PasteFailure                                    =	網路問題導致貼上失敗。
+File.Message.PasteFailureGeneral                             =	貼上檔案失敗
+File.Message.PasteFailurePermission                          =	貼上失敗。
+File.Message.PasteToSub                                      =	項目"{0}" 不能複製到它所包含資料夾下
+File.Message.PathNoExist                                     =	路徑【{0}】不存在
+File.Message.Privacy                                         =	隱私條款
+File.Message.RememberMyChoice                                =	記住我的選擇
+File.Message.RemoteFreeFileSizeNotEnough                     =	遠端傳輸時單個檔案大小不能超過{0}，\r\n升級為高級帳戶后單個檔案大小可提升\r\n到{1}。
+File.Message.RemoteShareToSNS                                =	遠端傳輸時單個檔案大小不能超過{0}，升級為高級帳戶后單個檔案大小可提升到{1}。
+File.Message.RemoteSingeFileSpaceNotEnough                   =	遠端傳輸時單個檔案大小不能超過{0}。
+File.Message.RemoveAllRecvRecord                             =	確定要清空所有接收記錄？
+File.Message.RemoveFavSuccessed                              =	所選項已經從收藏夾中移除
+File.Message.RemoveMyFavSuccessed                            =	{0}已從收藏夾中移除
+File.Message.RenameDuplication                               =	無法重新命名，此位置已經包含同名檔案/資料夾。
+File.Message.RenameFailure                                   =	網路原因導致重新命名失敗。
+File.Message.RenameFailurePermission                         =	重新命名失敗
+File.Message.RotateFailure                                   =	網路問題或者權限不足導致旋轉失敗。
+File.Message.RotateFailureGeneral                            =	檔案不存在或者權限不足導致旋轉失敗
+File.Message.SaveFailedNetwork                               =	網路問題或權限不足導致無法保存到手機
+File.Message.SaveFileToDevice                                =	是否保存對"{0}"所做的修改？
+File.Message.SaveSucceed                                     =	保存成功
+File.Message.SaveToPCOfDisconnection                         =	您的裝置已經斷開連線了，是否需要另存到電腦？
+File.Message.SaveToPhoneFailure                              =	保存失敗
+File.Message.Saving                                          =	正在保存
+File.Message.SendFriendRespFail                              =	{0} 的好友請求處理失敗，點擊此處到通知中心手動處理。
+File.Message.SendLogToAirDroidTeam                           =	確定傳輸錯誤日誌給AirDroid Team？
+File.Message.ShareToSNS                                      =	遠端傳輸時單個檔案大小不能超過{0}，\r\n升級為高級帳戶後單個檔案大小可提升到{1}。
+File.Message.SourceAndTargetWithSameName                     =	源檔案名與目標檔案名相同
+File.Message.StartToReceiveFile                              =	開始接收檔案
+File.Message.Stop                                            =	停止任務後，未傳完的檔案需要重新開始傳輸，請問是否停止？
+File.Message.StorageNotEnough                                =	“{0}”因空間不足導致傳輸失敗。
+File.Message.SystemFileNoPermission                          =	無法顯示，AirDroid沒有權限讀取檔案內容
+File.Message.SystemFileWarning                               =	1. 修改或刪除系統檔案可能會發生錯誤，請謹慎操作。\r\n2. 對默認系統檔案無法獲取檔案權限，操作可能會失敗。
+File.Message.TwitterShare                                    =	介紹一個好用的檔案傳輸工具給你：AirDroid
+File.Message.TwitterShareDownload                            =	AirDroid下載地址：{0}
+File.Message.TwitterShareWebSite                             =	AirDroid官網：{0}
+File.Message.UnsupportRotationFormat                         =	不支援旋轉{0}格式，目前僅支援JPG（JPEG）格式。
+File.Message.UploadStopped                                   =	上傳停止
+File.Message.UploadSuccess                                   =	“{0}”上傳成功
+File.Messgae.NotPerssionForFolder                            =	“{0}”上傳失敗。
+File.Messgae.UploadFailedNetwork                             =	“{0}”因網路原因上傳失敗。
+File.OpenFileDialog.SelectFile                               =	選擇檔案
+File.Text.SearchFilesTip                                     =	按Enter搜尋
+File.TreeNode.FileSearchResult                               =	檔案搜尋結果
+File.TreeNode.MyFavorite                                     =	收藏
+
+File_Message_ExtSD_Upload_Failed                             =	上傳失敗，沒有對外部SD卡進行寫入操作的許可權。
+
+FileManagement.Label.NoDeviceHintFileManagement              =	在電腦上管理裝置檔案
+
+Flating.Button.HideFlatingButton                             =	關閉懸浮球（本次）
+Flating.Button.HideFlatingButtonAlways                       =	關閉懸浮球
+Flating.Button.MarginConceal                                 =	貼邊隱藏
+Flating.Button.TopMost                                       =	保持窗口最前
+Flating.Button.Transparency                                  =	不透明度
+Flating.Button.TransparencyNo                                =	不透明
+
+Floating.Button.Friends                                      =	好友
+Floating.Button.My                                           =	裝置
+Floating.Button.Neibour                                      =	附近裝置
+Floating.Button.Notify                                       =	通知
+Floating.Label.InstallBonjourGuide                           =	您的電腦上未安裝Bonjour服務，無法使用附近功能
+Floating.Lable.DragAndDropFile                               =	拖動檔案到此處進行傳輸
+Floating.Message.DisableSilentMode                           =	勿擾模式 - 關
+Floating.Message.EnableSilentMode                            =	勿擾模式 - 開
+
+Game.Label.Game                                              =	精選遊戲
+
+ImageView.Message.RotateFailure                              =	網路問題或權限不足導致無法保存到手機。
+ImageView.Message.UnsupportRotation                          =	AirDroid手機端版本過低，無法保存，請檢查升級
+ImageView.Message.UnsupportRotationFormat                    =	不支援保存{0}格式，目前僅支援JPG（JPEG）格式。
+
+Login.Authorization                                          =	AirDroid 第三方帳號授權
+Login.Button.AgainExamine                                    =	再次檢查
+Login.Button.AirDroidWeb                                     =	Web版
+Login.Button.AuthenticatingLogin                             =	正在登入...
+Login.Button.AuthenticatingRegister                          =	正在註冊...
+Login.Button.BindingDevice                                   =	再次檢查
+Login.Button.BindingDeviceLater                              =	退出，暫不綁定
+Login.Button.CheckUpdate                                     =	檢查升級
+Login.Button.ClearAllNotificationPop                         =	清除通知
+Login.Button.CloseNextTime                                   =	退出，下次再試
+Login.Button.Exit                                            =	退出
+Login.Button.FastTransfer                                    =	快速傳檔案
+Login.Button.ForgetPassword                                  =	忘記密碼？
+Login.Button.GoNoNextTime                                    =	繼續，下次再升級
+Login.Button.HasVerified                                     =	我已驗證
+Login.Button.iSee                                            =	知道了
+Login.Button.logout                                          =	登出
+Login.Button.OpenMainWindow                                  =	打開主窗體
+Login.Button.OpenVNC                                         =	遠端控制
+Login.Button.ReConnect                                       =	重新連線
+Login.Button.Register                                        =	註冊
+Login.Button.ReLogin                                         =	重新登入
+Login.Button.ShowFloatingFrom                                =	桌面懸浮窗
+Login.Button.SilentMode                                      =	勿擾模式
+Login.Button.UpdateDevice                                    =	去升級
+Login.Button.VerifyNow                                       =	立即驗證
+Login.Checkbox.AutoLogin                                     =	自動登入
+Login.Label.AccountPasswordFailed                            =	帳號或者密碼不正確！
+Login.Label.AddBeta                                          =	加入AirDroid內測群，獲取Beta版
+Login.Label.AddDevice                                        =	您的帳號未綁定裝置
+Login.Label.AddDeviceContext                                 =	請到裝置上安裝AirDroid，並登入帳號完成綁定方可繼續使用。
+Login.Label.AlreadyInstall                                   =	我已安裝
+Login.Label.ChooseUnbindDevices                              =	請選擇您需要解綁的裝置：
+Login.Label.Code                                             =	驗證碼
+Login.Label.ConnectServerFailed                              =	連線伺服器失敗！
+Login.Label.DirectDownloadAPK                                =	直接下載APK安裝
+Login.Label.DownloadAndroidPCBateTitle                       =	您的電腦端是Beta版，安卓裝置端請升級到對應的版本配合使用
+Login.Label.DownloadAndroidPCChinaDiscussion                 =	參與AirDroid功能討論歡迎加入QQ群：{0}
+Login.Label.DownloadAndroidPCDiscussion                      =	參與AirDroid功能討論請到：{0}
+Login.Label.DownloadAndroidTitle                             =	您的電腦端是正式版，安卓裝置端請升級到對應的版本配合使用
+Login.Label.DownloadAPK                                      =	立即下載
+Login.Label.DownloadPCAndroidBateTitle                       =	您的安卓裝置上安裝了新的Beta版本，電腦端請升級到相應的版本
+Login.Label.DownloadPCBate                                   =	立即去下載Beta版
+Login.Label.Email                                            =	郵箱
+Login.Label.EmailExist                                       =	該郵箱已被註冊！
+Login.Label.EmailFormatFailed                                =	郵箱格式不正確！
+Login.Label.EnterEmail                                       =	請輸入郵箱！
+Login.Label.EnterPassword                                    =	請輸入密碼！
+Login.Label.EnterVerificationCode                            =	請輸入驗證碼！
+Login.Label.EulaPrivacyPolicy                                =	我同意 <eula>用戶協議</eula> 和 <privacy>隱私條款</privacy>
+Login.Label.FailedCountNimiety                               =	您在短時間內登入次數過多，請稍後再試！
+Login.Label.FailedToLogin                                    =	登入失敗
+Login.Label.Function1                                        =	方法1
+Login.Label.Function2                                        =	方法2
+Login.Label.Function3                                        =	方法3
+Login.Label.HoldDevices                                      =	請至少選擇解綁{0}台裝置
+Login.Label.HowToAddDevice                                   =	如何綁定裝置
+Login.Label.HowUpdateDevice                                  =	如何升級到AirDroid 3
+Login.Label.HowUpdateDeviceIntroduce1                        =	在裝置上打開AirDroid,\r\n根據提示進行升級
+Login.Label.HowUpdateDeviceIntroduce2                        =	打開Google Play或者\r\n其他應用商店安裝最新版
+Login.Label.HowUpdateDeviceIntroduce3                        =	掃描QR Code到裝置上進行下載
+Login.Label.InterfaceAstrict                                 =	您在短時間內註冊次數過多，請稍後再試！
+Login.Label.IntroducePage1Content                            =	Delight Your Multi-Screen Life
+Login.Label.IntroducePage2Content                            =	在電腦可以接收手機上的所有通知，不會錯過電話、\r\n簡訊、郵件等重要通知。
+Login.Label.IntroducePage2Title                              =	工作時，不會錯過任何重要通知
+Login.Label.IntroducePage3Content                            =	無須數據線，電腦與手機之間輕鬆傳相片、工作檔案、\r\n鏈接等內容，沒有比這更簡單的方式了。
+Login.Label.IntroducePage3Title                              =	電腦和手機之間輕鬆傳檔案
+Login.Label.IntroducePage4Content                            =	將手機螢幕映射到電腦上，利用滑鼠即時操作手機螢幕。
+Login.Label.IntroducePage4Title                              =	小螢幕映射到大螢幕
+Login.Label.InvalidNickname                                  =	修改昵稱失敗，包含限制字元
+Login.Label.InvalidToken                                     =	您的登入資訊已過期，請重新登入！
+Login.Label.KnockOut                                         =	您的帳號於{0}在另一地點登入，您已被迫下線。如果這不是您本人的操作，那麼您的密碼很可能已經洩露，建議您 <password>修改密碼</password>\r\n\r\n如有疑問，請<log>點擊這裏</log>
+Login.Label.Logout                                           =	確定要登出帳號嗎?
+Login.Label.MaxDeviceLimit                                   =	裝置數量超出限制
+Login.Label.NeedNickname                                     =	請輸入暱稱！
+Login.Label.NeedPwd                                          =	請輸入密碼以完成註冊
+Login.Label.NetworkDisconnected                              =	您的電腦與AirDroid伺服器的連線已經斷開，將無法收到移動裝置的通知，請檢查網路設定。
+Login.Label.NetworkDisconnectedTitle                         =	伺服器連線斷開
+Login.Label.Nickname                                         =	暱稱
+Login.Label.NicknameFormatFailed                             =	暱稱不能包含下列字元： \ / : * “<> | ‘ &&
+Login.Label.NicknameWithin15                                 =	暱稱不能超過15個字元！
+Login.Label.NoBindingDevice                                  =	您的帳號下仍然沒有綁定裝置
+Login.Label.OnPublicComputer                                 =	建議僅在可信任環境下勾選。
+Login.Label.Or                                               =	或
+Login.Label.Password                                         =	密碼
+Login.Label.PasswordChanged                                  =	您的密碼於 {0} 有變更，為了帳號安全請重新登入。
+Login.Label.PasswordEmpty                                    =	密碼不能為空！
+Login.Label.PasswordFormatFailed                             =	密碼至少輸入8位字元,\r\n且至少要包含一個字母和一個數字！
+Login.Label.PasswordVerificationFailed                       =	密碼不正確！
+Login.Label.PremiunExpired                                   =	高級帳戶到期
+Login.Label.Ready                                            =	準備就緒，您的Android裝置有通知時將會自動通知您
+Login.Label.Scan                                             =	掃描QR Code
+Login.Label.ScanTwoDimensionalCodeDownload                   =	掃描QR Code下載
+Login.Label.Skip                                             =	我已安裝
+Login.Label.Step1                                            =	第一步
+Login.Label.Step1Context                                     =	在您的裝置上安裝AirDroid
+Login.Label.Step2                                            =	第二步
+Login.Label.Step2Context                                     =	打開AirDroid輸入您的帳號密碼
+Login.Label.Step3                                            =	第三步
+Login.Label.Step3Context                                     =	成功開啟AirDroid之旅
+Login.Label.ToAndroidUpgrade                                 =	在手機端直接升級
+Login.Label.ToGooglePlayDownload                             =	到 Google Play 下載
+Login.Label.TooManyPasswordRetries                           =	密碼輸入錯誤次數太多，請10分鐘後再試！
+Login.Label.ToPhoneDownload                                  =	<Link>直接下載 APK 到安卓裝置上</Link>
+Login.Label.ToPhoneDownloadEnd                               =	已在安卓裝置上開始下載，請到裝置上安裝
+Login.Label.ToPhoneDownloadRetry                             =	<Retry>向 {0} 推送失敗，點擊重試</Retry>
+Login.Label.UnbindExtraDevices                               =	您的高級帳戶已經到期，同一個帳戶同時只能管理{0}台裝置，請選擇您需要解綁的裝置，或升級為高級帳戶繼續管理更多裝置。
+Login.Label.UnbindExtraDevicesVIP                            =	您當前的高級帳戶套餐只能同時綁定{0}台裝置，您需要解綁已有裝置，或者升級裝置數來綁定更多裝置。
+Login.Label.UnbindPC                                         =	您的帳號於 {0} 在個人中心中取消了在這台電腦登入。如果這不是您本人的操作，那麼您的密碼很可能已經洩露，建議您 <password>修改密碼</password>\r\n\r\n如有疑問，請 <log>點擊這裏</log>
+Login.Label.UnsupportTwoStepAuth                             =	您已啟用雙重認證，請升級到最新版本才能繼續使用。
+Login.Label.UpdateAirDroid3                                  =	您有裝置尚未升級到AirDroid 3
+Login.Label.UpdateAirDroid3Context                           =	若想體驗AirDroid 3 PC版的強大功能，請先將裝置中的AirDroid升級為最新版本
+Login.Label.UpgradeToBackupVideo                             =	升級後可以備份視訊（需為高級帳戶）
+Login.Label.UpgradeToNewest                                  =	使用該功能手機端需要升級到最新版本
+Login.Label.UpgradeToUseAirCloud                             =	升級後可以在電腦上備份檔案，安全又快捷
+Login.Label.UpgradeToUseAirIME                               =	升級後電腦可以當手機的鍵盤，輕鬆輸入
+Login.Label.UpgradeToUseClipboard                            =	升級後手機和電腦可以共享剪貼板
+Login.Label.VerificationFailed                               =	驗證碼錯誤！
+Login.Label.VersionTooLow                                    =	很抱歉，您的客戶端版本太低了，需要升級到最新版本才能繼續使用。
+Login.Message.ClickToLogin                                   =	點擊登入
+Login.Message.ForbiddenKnockout                              =	由於您的帳號存在違規行為，我們已限制了您的遠端連接。如有疑問請與我們聯繫。
+Login.Message.Knock                                          =	下線通知
+Login.Message.NotVerified                                    =	尚未完成驗證
+Login.Message.UnbindFailed                                   =	解綁失敗，請重試
+Login.Message.VeryfyEmail                                    =	您尚未進行郵箱驗證，為了您的帳號安全，請驗證您的郵箱
+Login.NotifyIcon.Connected                                   =	AirDroid 3\r\n正在運行
+Login.NotifyIcon.Connecting                                  =	AirDroid 3\r\n正在連線...
+Login.NotifyIcon.DisConnected                                =	AirDroid 3\r\n已斷開連線
+
+Main.Button.FileSystem                                       =	檔案管理
+Main.Button.UDisk                                            =	U盤
+Main.Button.UpdateNow                                        =	退出AirDroid並更新
+Main.Message.CheckingUpgrade                                 =	正在檢測升級 ...
+Main.Message.DownloadingNewVersion                           =	正在下載最新版本...
+Main.Message.NetworkDisconnectCanNotUpgrade                  =	網路不通，無法完成升級，請檢查您的網路。
+Main.Message.UpdatedNewVersion                               =	{0}已經是最新版本了
+Main.Message.UpdateNow                                       =	AirDroid正在運行中，點擊確定按鈕將會關閉AirDroid！
+Main.Upgrade.Button.Ignore                                   =	忽略此版本
+Main.Upgrade.Button.UpgradeAtOnce                            =	立即升級
+Main.Upgrade.Button.UpgradeLater                             =	稍後再說
+Main.Upgrade.Label.ForceUpgrade                              =	尊敬的用戶，您的AirDroid版本過低，已經無法繼續使用，請升級到最新版本。
+Main.Upgrade.Label.GetLogFailed                              =	更新日誌獲取失敗！
+Main.Upgrade.Label.UpgradeInfo                               =	AirDroid有新版本啦！\r\nAirDroid 推出新版本了，您正在使用的為舊版本{0}，建議您立即升級。
+Main.Upgrade.Text                                            =	有新的版本可以升級
+
+Main_Code_Expire                                             =	驗證碼已失效！
+
+Main_InvalidCode                                             =	驗證碼錯誤！
+
+Main_SendValid_Fail                                          =	重新發送驗證失敗
+
+Main_Signup_inputpwd                                         =	請輸入密碼以完成註冊
+
+Main_signup_inputpwdAndMail                                  =	請輸入郵箱和密碼以完成註冊
+
+Media.Label.Empty                                            =	沒有內容或者沒有讀取權限
+Media.Message.Finished                                       =	完成
+
+MessageForm.Button.CopyAndReplace                            =	複製和替換
+MessageForm.Button.CopyAndReplaceToolTip                     =	使用正在複製的檔案替換目標資料夾中的檔案
+MessageForm.Button.CopyNew                                   =	複製，保留這兩個檔案
+MessageForm.Button.CopyNewToolTip                            =	將不會更改任何檔案。將此檔案保留在目標資料夾中
+MessageForm.Button.Uncopy                                    =	不要複製
+MessageForm.CheckBox.ExecuteSameOperation                    =	為本次任務的所有檔案執行此操作
+MessageForm.Label.IncludeSameName                            =	裝置“{0}”已經存在“{1}”同名檔案。
+MessageForm.Label.IncludeSameNameOnPC                        =	電腦上已經存在“{0}”同名的檔案。
+
+MsgCenter.Label.ConnectFailureGuide                          =	裝置連線指南
+MsgCenter.Label.HowToUpdate                                  =	如何升級？
+MsgCenter.Label.UpdateAirDroid                               =	您的裝置尚未升級為AirDroid 3，快快去升級吧！
+
+Music.Message.DeleteSuccessed                                =	刪除成功。
+Music.Message.DeletingMusic                                  =	正在刪除：{0}
+
+Notification.Button.AddToBlackList                           =	勿擾應用
+Notification.Label.DeviceDisableNotificationService          =	按以下步驟到裝置上開啟“桌面通知服務”
+Notification.Label.GetBlackListFailed                        =	獲取勿擾應用列表失敗
+Notification.Label.NoNewNotification                         =	沒有收到新通知
+Notification.Label.NoNotification                            =	沒有通知
+Notification.Message.AddToBlackListFailed                    =	設定失敗，請重試。
+Notification.Message.RemoveAll                               =	確定要清空所有通知記錄嗎？
+Notification.Message.RemoveFromBlackListFailed               =	設定失敗，請重試。
+
+Notify.Button.ClearUnread                                    =	將所有通知標記為已讀
+Notify.Button.Disable                                        =	勿擾
+Notify.Button.Dismiss                                        =	清除
+Notify.Button.More                                           =	更多...
+Notify.Button.SyetemNotify                                   =	系統通知
+Notify.Label.AddBackListFailure                              =	{0}設定為勿擾模式失敗。
+Notify.Label.DeleteMessage                                   =	您確定要刪除 {0} 這條記錄？
+Notify.Label.DeleteSMSFailure                                =	{0} 的簡訊刪除失敗。
+Notify.Label.DeleteSystemNotify                              =	確定要刪除這條記錄嗎？
+Notify.Label.DeleteTitle                                     =	刪除
+Notify.Label.DismissNotifyFailure                            =	{0}這條通知清除失敗。
+Notify.Label.Empty                                           =	暫無通知
+Notify.Label.MessageReplyFailure                             =	給 "{0}" 的消息 "{1}" 發送失敗。
+Notify.Label.NoDeviceHintNotify                              =	綁定安卓裝置後，可以在電腦上接收安卓裝置上的通知，不會錯過重要通知
+Notify.Label.NoSystemNotify                                  =	無系統通知
+Notify.Label.Notify                                          =	通知
+Notify.Label.OperationFailure                                =	{0}：{1}操作失敗。
+Notify.Label.PopApp                                          =	沒有開啟勿擾模式的應用
+Notify.Label.ReceiveNewSMS                                   =	您收到了 {0} 條新簡訊
+Notify.Label.RemoveBackListFailure                           =	{0}將勿擾模式關閉失敗。
+Notify.Label.SelectNotify                                    =	請選擇一條通知
+Notify.Label.Silent                                          =	勿擾應用
+Notify.Label.SilentInfo                                      =	勿擾應用的通知將不會被AirDroid接收
+
+Notiyf.Label.NoDisturbMessage                                =	關閉後，電腦上將不會再顯示該應用的通知，手機上仍會收到該應用的通知
+
+OpenNoty.Label.Content                                       =	您有新的簡訊、電話、Facebook等一些重要通知時，將無法在PC上接收到
+OpenNoty.Label.MeStepContent1                                =	在裝置上打開AirDroid，進入“個人-安全及遠端功能設定”項
+OpenNoty.Label.MeStepContent2                                =	點擊桌面通知
+OpenNoty.Label.MeStepContent3                                =	打開“AirDroid桌面通知服務”開關
+OpenNoty.Label.NotyServe                                     =	桌面通知服務
+OpenNoty.Label.StepContent1                                  =	在裝置上打開AirDroid，進到“設定”項
+OpenNoty.Label.StepContent2                                  =	點擊“桌面通知服務”
+OpenNoty.Label.StepContent3                                  =	將“桌面通知服務”勾選
+OpenNoty.Label.Title                                         =	AirDroid無法收取 {0} 的通知
+OpenNoty.Label.V4StepContent1                                =	打開AirDroid，點擊"工具箱->桌面通知"
+OpenNoty.Label.V4StepContent2                                =	點擊"桌面通知->立即啟用"
+
+Popup.Button.Accept                                          =	接聽
+Popup.Button.Custom                                          =	自定義...
+Popup.Button.Decline                                         =	拒聽
+Popup.Button.Deleting                                        =	正在刪除...
+Popup.Button.HelperMeAccept                                  =	幫我接通
+Popup.Button.Mute                                            =	靜音
+Popup.Button.NoAccept                                        =	暫不接通
+Popup.Button.Reply                                           =	回覆
+Popup.Button.Send                                            =	發送
+Popup.Label.ConfirmDeleteSMS                                 =	您確定要刪除這條簡訊嗎？
+Popup.Label.From                                             =	來自 {0}
+Popup.Label.InputSMSContent                                  =	請輸入簡訊內容
+Popup.Label.MissedCall                                       =	有{0}個未接來電
+Popup.Label.NewDevice                                        =	您的帳號有新的移動裝置綁定成功：{0}
+Popup.Label.NoSupportAnswer                                  =	暫時無法直接使用電腦進行通話，\r\n是否要幫您接通，您再到手機上接聽。
+Popup.Label.RemoveDevice                                     =	您的裝置：{0}  已經成功解除綁定
+Popup.Label.ReplyPlaceHolder                                 =	輸入內容並按 "Enter" 發送
+Popup.Message.AcceptFailed                                   =	操作失敗！
+Popup.Message.AcceptSuccess                                  =	操作成功！
+Popup.Message.CallYouLater                                   =	稍後打給你。
+Popup.Message.DecliningFailed                                =	操作失敗！
+Popup.Message.DeniedVerify                                   =	{0} <{1}> 拒絕了您的好友請求
+Popup.Message.InMetting                                      =	我正在開會。
+Popup.Message.MutingFailed                                   =	操作失敗！
+Popup.Message.PassedVerify                                   =	{0} <{1}> 接受了您的好友請求
+Popup.Message.RemoveFriend                                   =	移除好友
+Popup.Message.SendSuccessful                                 =	發送成功！
+Popup.Message.VerifyFriend                                   =	好友驗證
+
+Register.Label.InvalidNickname                               =	註冊失敗，昵稱包含限制字元
+
+rs_addon_not_install                                         =	未安裝相應插件，無法遠端控制裝置
+
+rs_common_biznetworkissue_tips                               =	連線失敗，請檢查網路連線是否正常
+
+rs_common_message_connectrestore                             =	連線已恢復
+
+rs_common_rsnetworkissue_tips                                =	連線失敗，對方網路存在異常請稍後重試
+
+rs_gesture_content_disable                                   =	已關閉
+
+rs_gesture_content_enable                                    =	已開啟
+
+rs_gesture_title                                             =	引導手勢
+
+rs_voicemessage_autosend                                     =	錄音時間太長，已自動發送
+
+Setting.Button.About                                         =	關於
+Setting.Button.BasicSetting                                  =	基本設定
+Setting.Button.NearbyDevice                                  =	信任裝置
+Setting.Button.NotificationSettings                          =	通知設定
+Setting.Button.Set                                           =	設定
+Setting.CheckBox.Allow                                       =	自動使用遠端傳輸
+Setting.CheckBox.Auto                                        =	自動
+Setting.CheckBox.AutoCloseSMSNotify                          =	簡訊通知自動關閉(7秒)
+Setting.CheckBox.AutoDownloadCloudFile                       =	自动下载离线檔案
+Setting.CheckBox.ClickNotifyOpenVNC                          =	點擊通知打開遠端控制
+Setting.CheckBox.FirstTry                                    =	詢問是否使用遠端傳輸
+Setting.CheckBox.Forbid                                      =	不允許使用遠端傳輸
+Setting.CheckBox.NameSurname                                 =	名，姓
+Setting.CheckBox.NoShowSMSContent                            =	簡訊通知不顯示簡訊內容
+Setting.CheckBox.OpenNotifyVoice                             =	開啟聲音提醒
+Setting.CheckBox.ShowUnreadNotifyCount                       =	在主窗體圖示上顯示未讀消息數
+Setting.CheckBox.SpellCheck                                  =	開啟拼寫檢查
+Setting.CheckBox.StartWhenOpenSystem                         =	系統啟動時運行AirDroid
+Setting.CheckBox.SurnameName                                 =	姓，名
+Setting.Label.AlwaysAskAirMirror                             =	每次詢問
+Setting.Label.BackupFolder                                   =	相簿備份到：
+Setting.Label.CloseAirMirror                                 =	關閉遠端控制時：
+Setting.Label.CommonNotifyCloseTime                          =	通知自動關閉：
+Setting.Label.DeviceName                                     =	裝置名稱
+Setting.Label.DirectCloseAirMirror                           =	直接關閉
+Setting.Label.FileSendFailure                                =	檔案傳輸失敗時：
+Setting.Label.FormatMinute                                   =	{0} 分
+Setting.Label.FormatSecond                                   =	{0} 秒
+Setting.Label.FullScreen                                     =	全屏模式時自動開啟勿擾模式
+Setting.Label.IPAddress                                      =	IP位址
+Setting.Label.KeepAliveTenMinutesAirMirror                   =	後台保持連線10分鐘
+Setting.Label.Language                                       =	語言：
+Setting.Label.NoAutoClose                                    =	不自動關閉
+Setting.Label.NoDisturbance                                  =	勿擾模式：
+Setting.Label.NoDisturbanceMessage                           =	開啟後，收到通知不彈窗提示，且沒有聲音提醒
+Setting.Label.NotilfyRemind                                  =	消息提醒：
+Setting.Label.NoTrustDevice                                  =	無信任的裝置
+Setting.Label.ReceiveFileFolder                              =	接收的檔案保存到：
+Setting.Label.RecordingFolder                                =	錄影保存到
+Setting.Label.ScreenshotFolder                               =	截圖/視訊保存到：
+Setting.Label.Settings                                       =	設定
+Setting.Label.ShowOrder                                      =	聯絡人的顯示順序：
+Setting.Label.SMSNotifyCloseTime                             =	簡訊通知自動關閉：
+Setting.Label.SortOrder                                      =	聯絡人的排序順序：
+Setting.Label.Start                                          =	啟動
+Setting.Label.Trust                                          =	信任
+Setting.Label.TrustRemark                                    =	信任：表示這台裝置給我傳檔案時不需要詢問我，自動接收。
+Setting.Message.CannotWriteInFolder                          =	用戶選擇的資料夾沒有擁有讀寫的權限，會導致保存截圖/備份/接收檔案失敗，需要用戶重新選擇。
+Setting.Message.RestarApp                                    =	設定語言生效需要重啟程式，是否立即執行重啟？
+
+SMS.Button.Emotion                                           =	添加表情
+SMS.Button.NewMessage                                        =	新增簡訊
+SMS.Label.DeleteGroup                                        =	確定要刪除 {0} 的所有簡訊嗎？
+SMS.Label.DeleteingGroup                                     =	正在刪除...
+SMS.Label.DeleteSelectSMS                                    =	確定要刪除選中的簡訊嗎？
+SMS.Label.Message                                            =	簡訊
+SMS.Label.NoDeviceHintSMS                                    =	在電腦上發簡訊，方便快捷
+SMS.Label.NoSearchSMS                                        =	沒有符合條件的簡訊
+SMS.Label.SearchGroup                                        =	按聯絡人搜尋
+SMS.Label.SearchSMS                                          =	按簡訊內容搜尋
+SMS.Label.SelectSMSGroup                                     =	請選擇一條會話
+SMS.Label.TemporarilyNoMessage                               =	暫無簡訊
+SMS.Message.CannotDeleteConversion                           =	很抱歉，暫不支援ROM版本為4.4及以上的裝置刪除簡訊！
+SMS.Message.CanotFoundSIM                                    =	未檢測到SIM卡
+SMS.Message.ConversionEmpty                                  =	無簡訊記錄
+SMS.Message.DeleteFailure                                    =	刪除失敗
+SMS.Message.DeleteSelectSMSFailure                           =	刪除 {0} 的簡訊失敗！
+SMS.Message.DeleteSelectSMSPemissionDenied                   =	「{0}」 的簡訊由於權限不足刪除失敗，請到「設定->應用->AirDroid->權限」打開所有權限。<Link>更多詳情</Link>
+SMS.Message.DeleteSucceed                                    =	刪除成功
+SMS.Message.IfDeleteConversion                               =	確認要刪除{0}這條簡訊嗎？
+SMS.Message.MessageCanotEmpty                                =	發送內容不能為空！
+SMS.Message.MessageSendFailure                               =	簡訊可能發送失敗，請在裝置上查看發送結果。
+SMS.Message.NewMessageTo                                     =	新簡訊發送給“{0}”
+SMS.Message.NoSelectContact                                  =	請選擇聯絡人
+SMS.Message.PermissionDenied                                 =	給 "{0}" 的簡訊發送失敗，請到「設定->應用->AirDroid->權限」打開所有權限。<Link>更多詳情</Link>
+SMS.Message.RemoteDeleteSelectSMSPemissionDenied             =	“{0}” 的簡訊由於權限不足刪除失敗，請在手機端“個人-安全及遠端功能設定”中開啟“遠端簡訊”的遠端權限。
+SMS.Message.RemoteSendPermissionDenied                       =	給 "{0}" 的簡訊發送失敗，請在手機端“個人-安全及遠端功能設定”中開啟“遠端簡訊”的遠端權限。
+SMS.Message.SendFail                                         =	給 "{0}" 的簡訊發送失敗。
+SMS.Message.SureDeleteMessage                                =	確定要刪除這條簡訊嗎？
+
+transfer_chatitem_resend_action                              =	重新發送
+
+Unbind.Button.Unbind                                         =	解綁
+Unbind.Button.Unbinding                                      =	正在解綁...
+Unbind.Label.Info                                            =	您現在正在取消綁定裝置： {0}，為保證您裝置的安全，需要輸入密碼才能取消綁定
+Unbind.Lable.FailToVerify                                    =	驗證失敗，請重試!
+Unbind.Lable.PasswordIncorrect                               =	密碼不正確！
+
+Update.Message.GoToWebSite                                   =	安裝包下載失敗，您可以到AirDroid官網手動下載安裝。
+
+Upgrade.Message.ContinueUse                                  =	下載中...
+
+USB.Button.EnableWebsocketAirmirror                          =	使用免Root模式
+USB.Button.HasEnableDebugMode                                =	我已打開
+USB.Button.ShowDebugModeGuide                                =	查看詳細設定方法
+USB.Label.AndroidNotsupport                                  =	抱歉，由於相容性的原因，暫不支援ROM版本低於{0}的裝置。
+USB.Label.DisconnectedWithoutSceenShot                       =	無法顯示裝置畫面，你可以：\r\n1. 點擊“重試”重新向裝置發送請求\r\n2. 或者使用遠端控制免Root模式：\r\n > 請在裝置上打開“USB偵錯”\r\n > 將裝置用USB線連接到電腦
+USB.Label.EnableUSBDebug                                     =	打開USB偵錯後，將裝置用USB線連接電腦即可開始使用遠端控制
+USB.Label.EnableUSBDebugRestart                              =	若裝置有重開，再次使用時則需要重新將裝置與電腦用USB線連接一次
+USB.Label.KillAirMirrorFailed                                =	抱歉，您遠端裝置上的遠端控制服務無法啟動，您可以：\r\n1. 點擊“重試”重新向裝置發送請求\r\n2. 或者，對遠端裝置重新執行免Root操作
+USB.Label.NoRootCanUseNotRootAirMirror                       =	此裝置未Root，請點擊"執行免Root操作"按鈕進行免Root操作
+USB.Label.RootDeny                                           =	您未允許AirDroid獲取超級用戶權限，您可以：\r\n1. 檢查Root程序的權限設定，并注意遠端裝置上彈出的相關權限請求\r\n2. 或者，使用遠端控制免Root模式：\r\n >請在裝置上打開“USB偵錯”\r\n >將裝置用USB線連接到電腦
+USB.Label.StartADBAirMIrrorFailed                            =	抱歉，可能是由於相容性的原因，暫不支援您的裝置，若有疑問可以聯繫我們：support@airdroid.com。
+USB.Label.StartAirMirrorFailed                               =	您遠端裝置的Root無效，您可以：\r\n1. 檢查Root程序的權限設定或再次Root您的遠端裝置\r\n2. 或者，對遠端裝置重新執行免Root操作
+USB.Label.TryUSBConnect                                      =	執行免Root操作
+USB.Label.WaitingForDevice                                   =	您的裝置未連接USB線，請連線後重試
+USB.Title.USBDeviceFormTitle                                 =	連線裝置 - {0}
+
+UserCenter.Message.Buy                                       =	我要購買
+
+View.Button.SaveToPhone                                      =	保存到手機
+View.Message.RotateFailureGeneral                            =	檔案不存在或者權限不足導致無法保存到手機
+
+VNC.Button.AirIME                                            =	遠端輸入法
+VNC.Button.AlreadyInstallPlugin                              =	我已安裝
+VNC.Button.AlreadyUpgradePlugin                              =	我已升級
+VNC.Button.Camera                                            =	遠端相機
+VNC.Button.ChangeDevice                                      =	切換裝置
+VNC.Button.DirectCloseAirMirror                              =	直接關閉
+VNC.Button.GoEmbedded                                        =	召回
+VNC.Button.GoOn                                              =	之前可以使用？ <Link> 繼續嘗試 </Link>
+VNC.Button.KeepAliveAirMirror                                =	保持連線
+VNC.Button.LookScreenshot                                    =	截圖保存成功, 點擊查看
+VNC.Button.LookScreenshotFailure                             =	截圖失敗！
+VNC.Button.LookScreenshotIng                                 =	正在保存截圖...
+VNC.Button.LookScreenshotToClip                              =	截圖成功保存到剪貼板
+VNC.Button.NoHint                                            =	這台裝置不再提示
+VNC.Button.RetlyConnect                                      =	重新連線
+VNC.Button.RetryRequest                                      =	重新發送請求
+VNC.Button.UpgradeAirDroidRefreshDevices                     =	正在檢查...
+VNC.Button.UpgradeAirDroidRetry                              =	再次檢查
+VNC.Button.UseScreenShot                                     =	螢幕鏡像
+VNC.Label.AboveMethodNoHelp                                  =	以上無法幫助您，<Open>點擊回饋</Open>
+VNC.Label.AndroidMaxNonsupport                               =	您的安卓裝置系統版本為{0}，\r\n遠端控制暫不支援該系統版本，\r\n我們將在後續版本逐步兼容。
+VNC.Label.AndroidNonsupport                                  =	我們檢測到您的安卓裝置系統版本過低，\r\n遠端控制目前僅支援搭載安卓4.0\r\n及以上版本系統的裝置。
+VNC.Label.Camera                                             =	電腦開啟手機鏡頭，監控拍攝
+VNC.Label.CameraGoPremium                                    =	該功能可以讓您透過手機鏡頭查看周圍環境，並收聽聲音。
+VNC.Label.CameraPermissionDenied                             =	啟動鏡頭失敗，請到裝置上打開相機權限。
+VNC.Label.ChangeUSBLine                                      =	更換USB接口或更換USB線
+VNC.Label.CheckingFor                                        =	正在檢查...
+VNC.Label.CloseAirMirrorHint                                 =	要退出{0}嗎？
+VNC.Label.ComputerControlPhone                               =	電腦操控手機，輕鬆自如
+VNC.Label.ConnectADBFailInAirMirror                          =	未能正常連線裝置，請確認裝置與電腦連接USB線，並打開“USB偵錯”。
+VNC.Label.ConnectFailureRetryUnderMethod                     =	裝置 {0} 連線失敗，請嘗試以下方法：
+VNC.Label.ConnectingDeviceNoPulUpLine                        =	裝置連線過程中，請不要拔掉USB線
+VNC.Label.ConnectionDeviceLaterOn                            =	正在連線裝置{0}，請稍侯
+VNC.Label.ConnetDisconnectHint                               =	抱歉，與裝置的連線斷開了，您可以：\r\n1. 檢查遠端裝置的網路是否正常\r\n2. 嘗試喚醒或解鎖遠端裝置\r\n3. 嘗試在遠端裝置上打開AirDroid
+VNC.Label.ConnetFailureHint                                  =	連線裝置失敗，您可以按以下步驟操作後重試： \r\n1. 檢查遠端裝置的網路是否正常\r\n2. 嘗試喚醒或解鎖遠端裝置\r\n3. 嘗試在遠端裝置上打開AirDroid
+VNC.Label.ContentDeviceClickOk                               =	連接USB線，裝置上會彈出如上畫面，請點擊"確定"
+VNC.Label.DeviceConnecting                                   =	正在連線裝置...
+VNC.Label.DownloadDriverFailureRetry                         =	驅動下載失敗，請<Retry>重試</Retry>。
+VNC.Label.EnableScreenShot                                   =	請在手機上點擊“立即開始”
+VNC.Label.EnableScreenShotGuide                              =	為了下次使用方便建議勾選“不要再顯示”，\r\n若手機上未顯示以上提示授權窗口，請將手機上的"AirDroid"重新打開。\r\n\r\n <Link>{0}</Link> 秒后可重試。
+VNC.Label.ESCCloseFullAirMirrorHint                          =	退出全屏(Esc)
+VNC.Label.FailureVideo                                       =	視訊錄製失敗
+VNC.Label.FlowBeyondHint                                     =	您的遠端資料用量已經消耗完，\r\n若您已升級為高級帳戶請點擊“重試”重新連線。
+VNC.Label.GetRootContext                                     =	若你的手機已ROOT，請按手機上的提示授予\r\nAirDroid超級用戶許可權：
+VNC.Label.GetRootFailuretHint                                =	1. 目前僅支援已ROOT裝置及部分品牌的未ROOT裝置\r\n2. 若您是手機廠商, 希望支援您的裝置可以通過郵件聯繫我們：biz@airdroid.com
+VNC.Label.GetRootFailureTop                                  =	無法獲取超級用戶許可權
+VNC.Label.GetRootTop                                         =	正在嘗試獲取超級用戶許可權...
+VNC.Label.GoEmbeddedGuide                                    =	{0}正在它的獨立窗口里運行
+VNC.Label.HowOpenUSBDebug                                    =	點擊 <Open>如何開啟？</Open> 查看教程
+VNC.Label.InstallAirMirrorPlugin                             =	遠端控制引擎，請到安卓裝置上安裝
+VNC.Label.InstallDriverFailureRetry                          =	裝置{0}的驅動安裝失敗，請重新安裝
+VNC.Label.InstallDriverLoading                               =	驅動安裝過程中不要重開電腦，該過程可能需要點擊確認，請耐心等待。
+VNC.Label.InstallPluginFailuretHint                          =	請到裝置上安裝遠端控制引擎，安裝好引擎後即可在電腦上使用安卓裝置。
+VNC.Label.KillServiceFailed                                  =	抱歉，您移動裝置上的遠端控制服務無法啟動，請重開您的裝置。
+VNC.Label.NoBindingAndroidDevice                             =	遠端控制 僅支援安卓裝置，您的帳號下未綁定安卓裝置。
+VNC.Label.NoBindingDevice                                    =	遠端控制 僅支援安卓裝置，您的帳號下未綁定安卓裝置。
+VNC.Label.NoConnectDeviceOpenUSBDebug                        =	未能正常連線裝置，請到裝置上將USB偵錯打開
+VNC.Label.NoConnetDevice                                     =	該裝置已解除綁定，遠端控制不能連線該裝置！
+VNC.Label.NoDeviceHintVNC                                    =	電腦控制手機，監控拍攝，遠端操作
+VNC.Label.NonRoot                                            =	免Root
+VNC.Label.NoRootCanUseScreenShot                             =	1. 如果您需要操控手機，請將裝置用USB線連接到電腦並打開“USB侦错模式”，然後點擊“我已設定，開始使用”。\r\n2.如果您不需要操控手機，請點擊“螢幕鏡像（免Root）”，無須連接USB線。
+VNC.Label.NoSupportDeviceHint                                =	遠端控制 暫不支援您的裝置，我們正 \r\n在努力相容更多裝置型號，敬請期待。
+VNC.Label.NoSupportVncHint                                   =	很抱歉，遠端控制目前還不支援您的\r\n裝置，我們將在後續版本中進行\r\n相容。
+VNC.Label.NotRootHint                                        =	遠端控制目前僅支援已Root裝置，您的裝置未Root暫時無法使用。
+VNC.Label.OpenDirectory                                      =	打開保存目錄
+VNC.Label.RefreshFlow                                        =	遠端資料用量已經使用完，點擊重新整理
+VNC.Label.RefreshFlowSucceed                                 =	已增加遠端資料用量，可繼續使用。
+VNC.Label.RefreshIngFlow                                     =	正在重新整理...
+VNC.Label.RetryComputerPhone                                 =	重開移動裝置或電腦
+VNC.Label.RetryInstall                                       =	重新安裝
+VNC.Label.RootDenyHint                                       =	您未允許AirDroid獲取超級用戶許可權，請到裝置上給AirDroid授權，再點擊“重試”繼續。
+VNC.Label.SaveAs                                             =	另存為
+VNC.Label.SaveToClip                                         =	截圖到剪貼板
+VNC.Label.SceenShotAuthDenied                                =	您未允許AirDroid開始擷取畫面，無法在電腦上正常顯示。
+VNC.Label.SceenShotFailure                                   =	抱歉，無法正常使用螢幕鏡像，您可以按照以下步驟操作後重試：\r\n1.檢查裝置的網路是否正常\r\n2.喚醒或解鎖您的Android裝置\r\n3.重啟AirDroid。
+VNC.Label.ScreenshotGuide                                    =	無須Root，截圖錄屏，輕鬆演示
+VNC.Label.ScreenshotNmae                                     =	AirDroid螢幕截圖
+VNC.Label.SelectDevice                                       =	請選擇要連線的裝置
+VNC.Label.SOS                                                =	遠端協助
+VNC.Label.StartAirMirrorServiceFailed                        =	您的裝置Root程式好像有些問題，超級用戶許可權無法獲取，請檢查Root程式的許可權設定（或者重新Root）
+VNC.Label.StartAirMirrorTimeoutHint                          =	抱歉，遠端控制服務啟動失敗，您可以：\r\n1. 點擊“重試”重新向裝置發送請求\r\n2. 或者，對遠端裝置重新執行免Root操作
+VNC.Label.StartVideo                                         =	開始錄製視訊
+VNC.Label.StatusLAN                                          =	區網連線
+VNC.Label.StatusWAN                                          =	遠端
+VNC.Label.StopVideo                                          =	結束視訊錄製，正在生成影片……
+VNC.Label.SuccessVideo                                       =	視訊錄製成功，點擊查看
+VNC.Label.ToDeviceRetryOpenUSBDebug                          =	重新打開USB偵錯  <How>查看開啟方法</How>
+VNC.Label.ToDeviceVerifyAccredit                             =	到裝置上確認是否授權  <How>如何授權</How>
+VNC.Label.UpdateAirMirrorAndroid                             =	AirDroid移動版，請到安卓裝置上升級
+VNC.Label.UpdateAirMirrorPlugin                              =	遠端控制引擎，請到安卓裝置上升級
+VNC.Label.UpdateAirMirrorWindows                             =	遠端控制 PC版
+VNC.Label.UpdatePluginFailuretHint                           =	您的遠端控制引擎是舊版的，請到裝置上安裝新版引擎才能繼續使用電腦控制安卓裝置。
+VNC.Label.UpdateTheseApplication                             =	要使用遠端控制，請先升級以下程式：
+VNC.Label.UpgradeAirDroidHint                                =	您的裝置尚未升級到 AirDroid 3，\r\n無法使用 遠端控制 ，\r\n請先到裝置上升級最新版本再試。
+VNC.Label.WillSupportHint                                    =	抱歉，您的裝置未Root，暫時無法使用遠端控制。此裝置型號即將支援免Root使用遠端控制，敬請期待！
+VNC.Menu.HD                                                  =	高清
+VNC.Menu.LD                                                  =	流暢
+VNC.Menu.SD                                                  =	標清
+VNC.Message.FirstUseCamera                                   =	使用相機功能時，AirDroid需要獨佔您手機的鏡頭，在此期間您將無法在手機上使用照相機進行拍照。
+VNC.Message.FlashOnFailed                                    =	打開手電筒失敗
+VNC.Message.IsSwitchingCamera                                =	正在切換......
+VNC.Message.MaxCocurrentLimit                                =	普通用戶只能同時控制 {0} 台裝置，若需要同時控制多台裝置請升級為高級帳戶
+VNC.Message.MaxCocurrentLimitToBusiness                      =	高級帳戶只能同時控制 {0} 台裝置，若需要同時控制更多裝置請使用企業版
+VNC.Message.NoRootGuideInRemotePermissionDenied              =	如果您的裝置未Root，請Root裝置或執行免Root操作后再進行遠端控制，<Link>查看免Root詳細操作步驟</Link>
+VNC.Message.OtherMaxCocurrentLimit                           =	其他客戶端正在遠端控制裝置，普通用戶只能同時控制{0}台裝置，若需要同時控制多台裝置請升級為高級帳戶
+VNC.Message.OtherMaxCocurrentLimitBusiness                   =	其他客戶端正在遠端控制裝置，高級帳戶只能同時控制 {0} 台裝置，若需要同時控制多台裝置請使用企業版
+VNC.Message.SameDeviceConnetecByOther                        =	其他客戶端正在連線當前裝置
+VNC.Message.StartCameraFailed                                =	啟動鏡頭失敗，請先確認裝置上是否有鏡頭，並在裝置上退出照相機或者到裝置上授權使用鏡頭，然後重試
+VNC.Message.StartCameraFailedShort                           =	啟動鏡頭失敗，請到裝置上打開相機權限。
+VNC.Message.SwitchingDefinition                              =	正在切換畫面解析度···
+VNC.Message.UpgradeToSupportScreenShot                       =	此功能僅支援AirDroid 安卓端最新版本，請檢查升級後再使用！
+
+Webkit.ContextMenu.Print                                     =	列印
+
+Welcome.Button.SaveToPC                                      =	另存到電腦
+Welcome.Label.BuiltInSDCard                                  =	SD卡
+Welcome.Label.Phone                                          =	系統
+Welcome.Label.SDCard                                         =	外部SD卡
